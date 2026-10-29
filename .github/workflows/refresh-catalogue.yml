@@ -1,0 +1,45 @@
+name: Refresh catalogue from Google Play
+
+on:
+  schedule:
+    # Mondays, 02:17 UTC
+    - cron: '17 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: npm ci
+      - run: npm run refresh
+      # Make sure the refreshed data still builds before proposing it.
+      - run: npm run build
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: catalogue-refresh
+          delete-branch: true
+          commit-message: Refresh catalogue from Google Play
+          title: Refresh catalogue from Google Play
+          body: |
+            Weekly refresh of `web/src/data/faces.json` and the face images from the live Google Play listings:
+            new faces, removed listings, price, install and rating changes, and any updated store images.
+
+            Opened automatically by `.github/workflows/refresh-catalogue.yml`.
+          add-paths: |
+            web/src/data/faces.json
+            web/scripts/sources.json
+            web/public/faces
+            web/public/video

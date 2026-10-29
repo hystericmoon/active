@@ -69,10 +69,10 @@ export default function Hero() {
                   onClick={() => openFace(face.slug)}
                 >
                   <span className="hero__coin">
-                    <img src={asset(face.variants[v].src)} alt="" width={140} height={140} decoding="async" />
+                    <img src={asset(face.variants[v].thumb)} alt="" width={140} height={140} decoding="async" />
                     <img
                       className="hero__back"
-                      src={asset(face.variants[(v + 1) % face.variants.length].src)}
+                      src={asset(face.variants[(v + 1) % face.variants.length].thumb)}
                       alt=""
                       width={140}
                       height={140}

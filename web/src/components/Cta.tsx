@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
 import { asset, faces, STORE_URL } from '../data';
 import PlayButton from './PlayButton';
-import Watch3D from './Watch3D';
 import InView from './InView';
+
+const Watch3D = lazy(() => import('./Watch3D'));
 
 /** The watch from the hero comes back as an object, turning through the collection. */
 export default function Cta() {
@@ -27,6 +28,7 @@ export default function Cta() {
           height={560}
         />
         <InView className="cta__stage">
+          <Suspense fallback={null}>
           <Watch3D
             className="cta__canvas"
             textures={set.map((f) => asset(f.variants[0].src))}
@@ -36,6 +38,7 @@ export default function Cta() {
             onReady={() => setReady(true)}
             label={`A 3D watch showing ${set[i].name}; drag to turn it`}
           />
+          </Suspense>
         </InView>
       </div>
       <div className="cta__text">
@@ -56,7 +59,7 @@ export default function Cta() {
                 setPaused(true);
               }}
             >
-              <img src={asset(f.variants[0].src)} alt="" width={48} height={48} loading="lazy" />
+              <img src={asset(f.variants[0].thumb)} alt="" width={48} height={48} loading="lazy" />
             </button>
           ))}
         </div>

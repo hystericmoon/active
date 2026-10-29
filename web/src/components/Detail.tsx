@@ -1,10 +1,12 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { motion } from 'motion/react';
 import { Liquid } from 'liquid-gooey';
-import { asset, categoryLabel, faces, fieldFor, TAG_LABEL, type Face } from '../data';
+import { asset, categoryLabel, faces, fieldFor, inkOn, TAG_LABEL, type Face } from '../data';
 import { closeFace, faceHref } from '../router';
 import PlayButton from './PlayButton';
-import Watch3D from './Watch3D';
+import Loader from './Loader';
+
+const Watch3D = lazy(() => import('./Watch3D'));
 
 export default function Detail({ face }: { face: Face }) {
   const [v, setV] = useState(0);
@@ -46,7 +48,7 @@ export default function Detail({ face }: { face: Face }) {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: 40 }}
       transition={{ duration: 0.4, ease: [0.2, 0.8, 0.2, 1] }}
-      style={{ ['--face' as string]: colour }}
+      style={{ ['--face' as string]: colour, ['--face-ink' as string]: inkOn(colour) }}
     >
       <div className="detail__bar">
         <button ref={closeRef} type="button" className="btn btn--ghost" onClick={closeFace}>
@@ -60,6 +62,7 @@ export default function Detail({ face }: { face: Face }) {
 
       <div className="detail__top">
         <div className="detail__stage">
+          <Suspense fallback={<div className="detail__watch detail__watch--loading"><Loader label="Building the watch" /></div>}>
           <Watch3D
             className="detail__watch"
             textures={face.variants.map((x) => asset(x.src))}
@@ -67,6 +70,7 @@ export default function Detail({ face }: { face: Face }) {
             distance={7.4}
             label={`${face.name} on a 3D watch, colour ${v + 1} of ${face.variants.length}. Drag to turn it.`}
           />
+          </Suspense>
           <p className="detail__hint soft">
             <span className="hint--fine">Drag to turn the watch</span>
             <span className="hint--coarse">Pick a colour below to see it on the watch</span>
@@ -145,7 +149,7 @@ export default function Detail({ face }: { face: Face }) {
             {related.map((f, k) => (
               <li key={f.slug}>
                 <a href={faceHref(f.slug)} style={{ background: fieldFor(k) }}>
-                  <img src={asset(f.variants[0].src)} alt="" width={240} height={240} loading="lazy" />
+                  <img src={asset(f.variants[0].thumb)} alt="" width={256} height={256} loading="lazy" />
                 </a>
                 <p>
                   <a href={faceHref(f.slug)}>{f.name}</a>
@@ -208,7 +212,7 @@ function Swatches({ face, value, onChange }: { face: Face; value: number; onChan
             aria-label={`Show colour ${i + 1}`}
             tabIndex={-1}
           >
-            <img src={asset(vr.src)} alt="" width={120} height={120} loading="lazy" />
+            <img src={asset(vr.thumb)} alt="" width={120} height={120} loading="lazy" />
           </button>
         ))}
       </div>

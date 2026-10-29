@@ -342,7 +342,7 @@ function Index({ list }: { list: Face[] }) {
         {list.map((f) => (
           <li key={f.slug} className={active?.slug === f.slug ? 'is-on' : undefined}>
             <a href={faceHref(f.slug)} onPointerEnter={() => setActive(f)} onFocus={() => setActive(f)}>
-              <img className="index__thumb" src={asset(f.variants[0].src)} alt="" width={64} height={64} loading="lazy" />
+              <img className="index__thumb" src={asset(f.variants[0].thumb)} alt="" width={64} height={64} loading="lazy" />
               <span className="index__name">{f.name}</span>
               <span className="index__cat">{categoryLabel(f)}</span>
               <span className="index__col">{f.colorCount} colours</span>

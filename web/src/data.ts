@@ -14,6 +14,8 @@ export type Tag =
 
 export interface Variant {
   src: string;
+  /** 256px version for small placements. */
+  thumb: string;
   color: string;
 }
 export interface Shot {
@@ -43,6 +45,7 @@ export interface Face {
   colorCount: number;
   icon: string;
   header: string | null;
+  og: string;
   variants: Variant[];
   promos: Shot[];
   wides: Shot[];
@@ -89,3 +92,17 @@ export const asset = (p: string) => `${import.meta.env.BASE_URL}${p}`;
 
 export const categoryLabel = (f: Face) =>
   f.diver ? 'Diver' : f.category[0].toUpperCase() + f.category.slice(1);
+
+export const HOME_TITLE = 'Active Design: Watch Faces for Wear OS';
+export const faceTitle = (f: Face) => `${f.name}: ${categoryLabel(f)} Watch Face for Wear OS · Active Design`;
+
+/** Black or white, whichever reads better on a face's swatch colour (WCAG relative luminance). */
+export function inkOn(hex: string) {
+  const [r, g, b] = [1, 3, 5].map((i) => {
+    const c = parseInt(hex.slice(i, i + 2), 16) / 255;
+    return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
+  });
+  const L = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  // Contrast against black is (L + 0.05) / 0.05, against white 1.05 / (L + 0.05); pick the larger.
+  return (L + 0.05) / 0.05 >= 1.05 / (L + 0.05) ? '#000000' : '#ffffff';
+}
