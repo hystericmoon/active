@@ -94,6 +94,16 @@ p {
   background: var(--accent);
   color: var(--accent-ink);
 }
+/* Readable content written into each page at build time; the app replaces it. */
+.js .ssr {
+  display: none;
+}
+.ssr {
+  max-width: 60ch;
+  padding: 32px var(--margin);
+  display: grid;
+  gap: 16px;
+}
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1326,6 +1336,10 @@ main > section + section {
   cursor: grab;
   touch-action: pan-y;
 }
+.detail__watch--loading {
+  display: grid;
+  place-items: center;
+}
 .detail__watch:active {
   cursor: grabbing;
 }
@@ -1333,8 +1347,7 @@ main > section + section {
   position: absolute;
   left: 20px;
   bottom: 16px;
-  color: #000;
-  opacity: 0.7;
+  color: var(--face-ink, #000);
   font-family: var(--font-display);
   font-size: var(--step-small);
 }

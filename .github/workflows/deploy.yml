@@ -27,8 +27,14 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: web/package-lock.json
+      - id: pages
+        uses: actions/configure-pages@v5
       - run: npm ci
       - run: npm run build
+        env:
+          # Asset paths and canonical/preview URLs follow wherever Pages serves the site.
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}/
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web/dist

@@ -1,0 +1,41 @@
+{
+  "developerId": "6754954524679457149",
+  "slugs": {
+    "odyssey2hybrid": "odyssey-2",
+    "omni2hybrid": "omni-2",
+    "perpetual2hybrid": "perpetual-2",
+    "rush2digital": "rush-2",
+    "rush3": "rush-3",
+    "odyssey3": "odyssey-3",
+    "vision2": "vision-2",
+    "vision3": "vision-3",
+    "hyperionhybrid": "hyperion",
+    "titan": "titanium",
+    "apex2": "apex-2",
+    "essentials4": "essentials-digital",
+    "essentialsvi": "essentials-analog",
+    "essentialsvii": "essentials",
+    "illusivedark": "illusive-dark",
+    "springtime": "spring-time",
+    "spectreii": "spectre-2",
+    "rogueinblack": "rogue-black",
+    "magnumopus": "magnum",
+    "nocturnallights": "nocturnal",
+    "ghostrunner": "shadow-runner",
+    "exo2": "exo-2",
+    "destiny2": "destiny-2"
+  },
+  "names": {
+    "essentials-digital": "Essentials Digital",
+    "essentials-analog": "Essentials Analog",
+    "essentials": "Essentials 7"
+  },
+  "iconOnly": ["omnia"],
+  "searches": [
+    "Active Design Watch Face",
+    "Active Design Watch Face Wear OS",
+    "watch face Active Design hybrid",
+    "watch face Active Design digital",
+    "watch face Active Design analog"
+  ]
+}

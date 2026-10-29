@@ -1,7 +1,7 @@
 import { lazy, Suspense, useEffect } from 'react';
 import { AnimatePresence, MotionConfig } from 'motion/react';
-import { faces } from './data';
-import { useRoute } from './router';
+import { faces, faceTitle, HOME_TITLE } from './data';
+import { useFaceRoute } from './router';
 import Bar from './components/Bar';
 import Hero from './components/Hero';
 import Showcase from './components/Showcase';
@@ -16,15 +16,12 @@ const Cta = lazy(() => import('./components/Cta'));
 const Detail = lazy(() => import('./components/Detail'));
 
 export default function App() {
-  const route = useRoute();
-  const slug = route.startsWith('/face/') ? route.slice(6) : null;
+  const slug = useFaceRoute();
   const face = slug ? faces.find((f) => f.slug === slug) : undefined;
 
   useEffect(() => {
     document.documentElement.classList.toggle('is-locked', !!face);
-    document.title = face
-      ? `${face.name}: ${face.category} watch face · Active Design`
-      : 'Active Design: Watch Faces for Wear OS';
+    document.title = face ? faceTitle(face) : HOME_TITLE;
   }, [face]);
 
   return (
