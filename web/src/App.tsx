@@ -32,8 +32,9 @@ export default function App() {
       <a className="skip" href="#catalogue">
         Skip to the catalogue
       </a>
+      <div {...((face ? { inert: '' } : {}) as object)}>
       <Bar />
-      <main {...((face ? { inert: '' } : {}) as object)}>
+      <main>
         <Hero />
         <Showcase />
         <Catalogue />
@@ -45,6 +46,7 @@ export default function App() {
         </Suspense>
       </main>
       <Footer />
+      </div>
       <AnimatePresence>
         {face && (
           <Suspense key={face.slug} fallback={<div className="detail detail--loading"><Loader label="Opening watch face" /></div>}>
