@@ -1,0 +1,4544 @@
+[
+ {
+  "id": "com.watchfacestudio.crimson.activedesign",
+  "slug": "crimson",
+  "name": "Crimson",
+  "title": "Crimson: Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Feb 5, 2026",
+  "releasedTs": 1770249600,
+  "summary": "Bold analog watch face with rich customization and smart fitness stats.",
+  "features": [
+   "Multiple color combinations to match your style and mood",
+   "10 unique analog hand styles for a personalized look",
+   "2 customizable complications for essential information",
+   "3 custom app shortcuts positioned at 12, 3, and 9 o’clock",
+   "Real-time heart rate monitoring",
+   "Date display for everyday convenience",
+   "Steps counter and daily goal tracking",
+   "Battery percentage indicator",
+   "Always-On Display (AOD) with battery-optimized dim mode"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/crimson/icon.webp",
+  "header": "faces/crimson/header.webp",
+  "variants": [
+   {
+    "src": "faces/crimson/v0.webp",
+    "color": "#23d8c4"
+   },
+   {
+    "src": "faces/crimson/v1.webp",
+    "color": "#4330d8"
+   },
+   {
+    "src": "faces/crimson/v2.webp",
+    "color": "#d8003d"
+   },
+   {
+    "src": "faces/crimson/v3.webp",
+    "color": "#23d8c4"
+   },
+   {
+    "src": "faces/crimson/v4.webp",
+    "color": "#00d852"
+   },
+   {
+    "src": "faces/crimson/v5.webp",
+    "color": "#91d800"
+   },
+   {
+    "src": "faces/crimson/v6.webp",
+    "color": "#d80088"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/crimson/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/crimson/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/crimson/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/crimson/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/crimson/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/crimson/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/crimson/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/3G3puXcCfiY",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.crimson.activedesign",
+  "clip": "video/crimson.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.rediscovery.activedesign",
+  "slug": "rediscovery",
+  "name": "Rediscovery",
+  "title": "Rediscovery Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Jan 26, 2026",
+  "releasedTs": 1769385600,
+  "summary": "Modern digital watch face with rich customization and essential daily stats.",
+  "features": [
+   "Multiple background and color combinations for full personalization",
+   "Clean and easy-to-read date display",
+   "Real-time heart rate monitoring",
+   "4 customizable complications for your essential data",
+   "4 custom app shortcuts for instant access",
+   "Always-On Display (AOD) with battery-optimized dim mode"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/rediscovery/icon.webp",
+  "header": "faces/rediscovery/header.webp",
+  "variants": [
+   {
+    "src": "faces/rediscovery/v0.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/rediscovery/v1.webp",
+    "color": "#24d8c2"
+   },
+   {
+    "src": "faces/rediscovery/v2.webp",
+    "color": "#d80084"
+   },
+   {
+    "src": "faces/rediscovery/v3.webp",
+    "color": "#05d853"
+   },
+   {
+    "src": "faces/rediscovery/v4.webp",
+    "color": "#d2d800"
+   },
+   {
+    "src": "faces/rediscovery/v5.webp",
+    "color": "#4c3ad8"
+   },
+   {
+    "src": "faces/rediscovery/v6.webp",
+    "color": "#8fd801"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/rediscovery/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rediscovery/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rediscovery/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rediscovery/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/rediscovery/w0.webp",
+    "w": 512,
+    "h": 512
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rediscovery.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.solace.activedesign",
+  "slug": "solace",
+  "name": "Solace",
+  "title": "Solace: Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Dec 6, 2025",
+  "releasedTs": 1764979200,
+  "summary": "Elegant analog watch face with rich customization and daily essentials.",
+  "features": [
+   "Timeless analog design with smooth hand movement",
+   "Multiple color combinations and 5 elegant backgrounds",
+   "10 unique analog hand styles",
+   "3 customizable complications",
+   "4 custom app shortcuts for quick access",
+   "Heart rate (BPM)*, steps*, battery level, and date",
+   "Always-On Display (AOD) support with battery-optimized dim mode",
+   "Lightweight, power-efficient, and built for daily use"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/solace/icon.webp",
+  "header": "faces/solace/header.webp",
+  "variants": [
+   {
+    "src": "faces/solace/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/solace/v1.webp",
+    "color": "#d1d808"
+   },
+   {
+    "src": "faces/solace/v2.webp",
+    "color": "#93d812"
+   },
+   {
+    "src": "faces/solace/v3.webp",
+    "color": "#0ad856"
+   },
+   {
+    "src": "faces/solace/v4.webp",
+    "color": "#26d8c3"
+   },
+   {
+    "src": "faces/solace/v5.webp",
+    "color": "#4431d8"
+   },
+   {
+    "src": "faces/solace/v6.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/solace/v7.webp",
+    "color": "#d8003d"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/solace/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/solace/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/solace/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/solace/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/zyDyH7eeISA",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.solace.activedesign",
+  "clip": "video/solace.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.rush3.activedesign",
+  "slug": "rush-3",
+  "name": "Rush 3",
+  "title": "Rush 3: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Dec 6, 2025",
+  "releasedTs": 1764979200,
+  "summary": "A sleek digital watch face with colors, shortcuts, and health stats.",
+  "features": [
+   "Clean digital layout for instant readability",
+   "Vibrant color options that shine on AMOLED screens",
+   "Ideal for active users, commuters, and fans of bold digital design",
+   "12h / 24h time format",
+   "Date display",
+   "Multiple color combinations to match your style",
+   "Steps counter",
+   "Heart rate (tap to measure)",
+   "Battery percentage",
+   "Always-on display (AOD) with optimized visibility"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 8,
+  "icon": "faces/rush-3/icon.webp",
+  "header": "faces/rush-3/header.webp",
+  "variants": [
+   {
+    "src": "faces/rush-3/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/rush-3/v1.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/rush-3/v2.webp",
+    "color": "#aba2ef"
+   },
+   {
+    "src": "faces/rush-3/v3.webp",
+    "color": "#4c00d8"
+   },
+   {
+    "src": "faces/rush-3/v4.webp",
+    "color": "#18d8c2"
+   },
+   {
+    "src": "faces/rush-3/v5.webp",
+    "color": "#00d851"
+   },
+   {
+    "src": "faces/rush-3/v6.webp",
+    "color": "#91d900"
+   },
+   {
+    "src": "faces/rush-3/v7.webp",
+    "color": "#bbd900"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/rush-3/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush-3/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush-3/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush-3/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/lNf8KGjTwXU",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush3.activedesign",
+  "clip": "video/rush-3.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.abyss.activedesign",
+  "slug": "abyss",
+  "name": "Abyss",
+  "title": "Abyss: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.49,
+  "priceText": "$1.49",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Dec 4, 2025",
+  "releasedTs": 1764806400,
+  "summary": "Hybrid watch face with colors, shortcuts, complications, and AOD.",
+  "features": [
+   "Clean analog–digital layout for maximum readability",
+   "Multiple color combinations to match your mood and style",
+   "Smooth, customizable hand designs (10 options)",
+   "Date display",
+   "Heart rate monitoring (tap to measure)",
+   "2× customizable complications for quick-access information",
+   "4× customizable shortcuts at 1, 8, 10, and 11 o’clock positions",
+   "Optimized dim mode for better battery life",
+   "Clear analog hands and key info visible at all times",
+   "Designed for round AMOLED screens"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/abyss/icon.webp",
+  "header": "faces/abyss/header.webp",
+  "variants": [
+   {
+    "src": "faces/abyss/v0.webp",
+    "color": "#d2d800"
+   },
+   {
+    "src": "faces/abyss/v1.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/abyss/v2.webp",
+    "color": "#4330d8"
+   },
+   {
+    "src": "faces/abyss/v3.webp",
+    "color": "#1ad8c3"
+   },
+   {
+    "src": "faces/abyss/v4.webp",
+    "color": "#d8003e"
+   },
+   {
+    "src": "faces/abyss/v5.webp",
+    "color": "#8fd800"
+   },
+   {
+    "src": "faces/abyss/v6.webp",
+    "color": "#d80087"
+   },
+   {
+    "src": "faces/abyss/v7.webp",
+    "color": "#00d851"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/abyss/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/abyss/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/abyss/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/abyss/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/SiIxZiHr1XE",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.abyss.activedesign",
+  "clip": "video/abyss.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.astro.activedesign",
+  "slug": "astro",
+  "name": "Astro",
+  "title": "Astro: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Oct 16, 2025",
+  "releasedTs": 1760572800,
+  "summary": "Futuristic digital watch face with smart data and bold design.",
+  "features": [
+   "Dynamic hexagonal interface for modern, futuristic visibility",
+   "Vibrant gradient themes and multiple color combinations",
+   "Steps counter",
+   "Heart rate monitoring",
+   "Battery indicator",
+   "Date + weekday",
+   "Sunrise & sunset times",
+   "Automatic 12h / 24h time format",
+   "2x custom complications for personalized info",
+   "3x custom app shortcuts for fast access"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/astro/icon.webp",
+  "header": "faces/astro/header.webp",
+  "variants": [
+   {
+    "src": "faces/astro/v0.webp",
+    "color": "#dec900"
+   },
+   {
+    "src": "faces/astro/v1.webp",
+    "color": "#4d00d8"
+   },
+   {
+    "src": "faces/astro/v2.webp",
+    "color": "#d80087"
+   },
+   {
+    "src": "faces/astro/v3.webp",
+    "color": "#4d00d8"
+   },
+   {
+    "src": "faces/astro/v4.webp",
+    "color": "#7600d8"
+   },
+   {
+    "src": "faces/astro/v5.webp",
+    "color": "#bcd900"
+   },
+   {
+    "src": "faces/astro/v6.webp",
+    "color": "#d80289"
+   },
+   {
+    "src": "faces/astro/v7.webp",
+    "color": "#d9003e"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/astro/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/astro/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/astro/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/astro/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/BRAkAqxheT8",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.astro.activedesign",
+  "clip": "video/astro.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.eclipse.activedesign",
+  "slug": "eclipse",
+  "name": "Eclipse",
+  "title": "Eclipse: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Oct 15, 2025",
+  "releasedTs": 1760486400,
+  "summary": "Futuristic digital watch face with color themes and smart customization.",
+  "features": [
+   "Unique curved digital design with a futuristic, space-inspired look",
+   "Glowing gradient accents optimized for AMOLED displays",
+   "Clean, modern interface built for fast readability",
+   "Steps counter",
+   "Heart rate monitoring",
+   "Battery indicator",
+   "Date with AM/PM and seconds display",
+   "Automatic 12h / 24h time format",
+   "Multiple gradient color combinations",
+   "2x custom app shortcuts for fast access"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/eclipse/icon.webp",
+  "header": "faces/eclipse/header.webp",
+  "variants": [
+   {
+    "src": "faces/eclipse/v0.webp",
+    "color": "#b9d800"
+   },
+   {
+    "src": "faces/eclipse/v1.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/eclipse/v2.webp",
+    "color": "#d8003b"
+   },
+   {
+    "src": "faces/eclipse/v3.webp",
+    "color": "#4d03d8"
+   },
+   {
+    "src": "faces/eclipse/v4.webp",
+    "color": "#4c01d8"
+   },
+   {
+    "src": "faces/eclipse/v5.webp",
+    "color": "#00d854"
+   },
+   {
+    "src": "faces/eclipse/v6.webp",
+    "color": "#4d03d8"
+   },
+   {
+    "src": "faces/eclipse/v7.webp",
+    "color": "#b9d800"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/eclipse/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/eclipse/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/eclipse/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/eclipse/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.eclipse.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.stratos.activedesign",
+  "slug": "stratos",
+  "name": "Stratos",
+  "title": "Stratos: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Oct 14, 2025",
+  "releasedTs": 1760400000,
+  "summary": "Stylish digital watch face combining smart features with full customization.",
+  "features": [
+   "Clean, modern digital layout with crisp typography",
+   "Heart rate monitoring",
+   "Steps counter",
+   "Daily goal tracker",
+   "Battery indicator",
+   "Date & digital time with automatic 12/24h format",
+   "Multiple color combinations for full personalization",
+   "2x custom complications for your preferred data",
+   "4x custom app shortcuts for quick access",
+   "Power-efficient Always-On Display (AOD) mode"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/stratos/icon.webp",
+  "header": "faces/stratos/header.webp",
+  "variants": [
+   {
+    "src": "faces/stratos/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/stratos/v1.webp",
+    "color": "#5e1ad8"
+   },
+   {
+    "src": "faces/stratos/v2.webp",
+    "color": "#d8003d"
+   },
+   {
+    "src": "faces/stratos/v3.webp",
+    "color": "#00d85a"
+   },
+   {
+    "src": "faces/stratos/v4.webp",
+    "color": "#d2d806"
+   },
+   {
+    "src": "faces/stratos/v5.webp",
+    "color": "#00d8c3"
+   },
+   {
+    "src": "faces/stratos/v6.webp",
+    "color": "#d80086"
+   },
+   {
+    "src": "faces/stratos/v7.webp",
+    "color": "#63d892"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/stratos/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/stratos/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/stratos/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/stratos/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/4qPJoQrZm5Y",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stratos.activedesign",
+  "clip": "video/stratos.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.odyssey3.activedesign",
+  "slug": "odyssey-3",
+  "name": "Odyssey 3",
+  "title": "Odyssey 3: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Jul 15, 2025",
+  "releasedTs": 1752537600,
+  "summary": "Odyssey 3 Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "10 dynamic color themes",
+   "10 custom analog hand styles",
+   "2 background styles to suit your mood",
+   "Steps tracker with goal progress",
+   "Real-time heart rate monitoring",
+   "Battery level indicator",
+   "Moon phase complication",
+   "Day and week number display",
+   "Always-on display (AOD) support",
+   "4 customizable shortcut slots"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/odyssey-3/icon.webp",
+  "header": "faces/odyssey-3/header.webp",
+  "variants": [
+   {
+    "src": "faces/odyssey-3/v0.webp",
+    "color": "#d80003"
+   },
+   {
+    "src": "faces/odyssey-3/v1.webp",
+    "color": "#d80003"
+   },
+   {
+    "src": "faces/odyssey-3/v2.webp",
+    "color": "#d80003"
+   },
+   {
+    "src": "faces/odyssey-3/v3.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/odyssey-3/v4.webp",
+    "color": "#d80000"
+   },
+   {
+    "src": "faces/odyssey-3/v5.webp",
+    "color": "#d84382"
+   },
+   {
+    "src": "faces/odyssey-3/v6.webp",
+    "color": "#d82531"
+   },
+   {
+    "src": "faces/odyssey-3/v7.webp",
+    "color": "#d89004"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/odyssey-3/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/odyssey-3/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/odyssey-3/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/odyssey-3/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odyssey3.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.omni.activedesign",
+  "slug": "omni",
+  "name": "Omni",
+  "title": "Omni: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Jul 13, 2025",
+  "releasedTs": 1752364800,
+  "summary": "Omni Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "Color options – Easily match your mood with customizable color themes",
+   "9 stylish hand designs – Personalize your analog experience",
+   "Steps counter and goal tracker – Stay active and monitor your progress",
+   "Heart rate monitoring – Track your health in real time",
+   "Battery level indicator – Always stay aware of your remaining power",
+   "Day and week number display – Keep your schedule in check",
+   "Moon phase complication – For those who love celestial details",
+   "Always-on display mode – See your watch face anytime, anywhere",
+   "5 customizable shortcuts – Quick access to your favorite apps"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/omni/icon.webp",
+  "header": "faces/omni/header.webp",
+  "variants": [
+   {
+    "src": "faces/omni/v0.webp",
+    "color": "#8ee100"
+   },
+   {
+    "src": "faces/omni/v1.webp",
+    "color": "#e21f96"
+   },
+   {
+    "src": "faces/omni/v2.webp",
+    "color": "#098edd"
+   },
+   {
+    "src": "faces/omni/v3.webp",
+    "color": "#09e4ce"
+   },
+   {
+    "src": "faces/omni/v4.webp",
+    "color": "#1be0a8"
+   },
+   {
+    "src": "faces/omni/v5.webp",
+    "color": "#e20d32"
+   },
+   {
+    "src": "faces/omni/v6.webp",
+    "color": "#90e400"
+   },
+   {
+    "src": "faces/omni/v7.webp",
+    "color": "#8fe300"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/omni/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/omni/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/omni/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/omni/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/jwNzdkVdaXY",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omni.activedesign",
+  "clip": "video/omni.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.discovery.activedesign",
+  "slug": "discovery",
+  "name": "Discovery",
+  "title": "Discovery: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Jul 13, 2025",
+  "releasedTs": 1752364800,
+  "summary": "Discovery Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "Always-on display",
+   "Heart rate, tap to measure",
+   "Step counter",
+   "Battery level",
+   "Customisable shortcuts"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 10,
+  "icon": "faces/discovery/icon.webp",
+  "header": "faces/discovery/header.webp",
+  "variants": [
+   {
+    "src": "faces/discovery/v0.webp",
+    "color": "#3f00d8"
+   },
+   {
+    "src": "faces/discovery/v1.webp",
+    "color": "#3f00d8"
+   },
+   {
+    "src": "faces/discovery/v2.webp",
+    "color": "#d8001b"
+   },
+   {
+    "src": "faces/discovery/v3.webp",
+    "color": "#d81c98"
+   },
+   {
+    "src": "faces/discovery/v4.webp",
+    "color": "#d80e63"
+   },
+   {
+    "src": "faces/discovery/v5.webp",
+    "color": "#d8004c"
+   },
+   {
+    "src": "faces/discovery/v6.webp",
+    "color": "#d827b9"
+   },
+   {
+    "src": "faces/discovery/v7.webp",
+    "color": "#11d8b8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/discovery/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/discovery/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/discovery/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/discovery/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.discovery.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.hyperionhybrid.activedesign",
+  "slug": "hyperion",
+  "name": "Hyperion",
+  "title": "Hyperion: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Jun 12, 2025",
+  "releasedTs": 1749686400,
+  "summary": "Hybrid watch face with analog and digital time, shortcuts, and fitness tracking.",
+  "features": [
+   "Multiple color combinations – Match your personal style",
+   "5 background variations – Refresh your look anytime",
+   "10 custom watch hand styles – Fine-tune your analog experience",
+   "3 customizable complications – Display the info you care about",
+   "Quick-access shortcuts – Launch your go-to apps instantly",
+   "Always-On Display (AOD) – Keep essentials visible at all times",
+   "Analog + digital clocks – Classic meets modern",
+   "Music shortcut – Control your playlist in a tap",
+   "Alarm and calendar – Stay organized throughout the day",
+   "Moon phase – Track the lunar cycle on your wrist"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 4,
+  "icon": "faces/hyperion/icon.webp",
+  "header": "faces/hyperion/header.webp",
+  "variants": [
+   {
+    "src": "faces/hyperion/v0.webp",
+    "color": "#d4d801"
+   },
+   {
+    "src": "faces/hyperion/v1.webp",
+    "color": "#d80087"
+   },
+   {
+    "src": "faces/hyperion/v2.webp",
+    "color": "#4936db"
+   },
+   {
+    "src": "faces/hyperion/v3.webp",
+    "color": "#91d802"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/hyperion/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/hyperion/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/hyperion/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/hyperion/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/hyperion/w0.webp",
+    "w": 512,
+    "h": 512
+   },
+   {
+    "src": "faces/hyperion/w1.webp",
+    "w": 512,
+    "h": 512
+   },
+   {
+    "src": "faces/hyperion/w2.webp",
+    "w": 512,
+    "h": 512
+   }
+  ],
+  "video": "https://www.youtube.com/embed/dwHV1KlF-64",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hyperionhybrid.activedesign",
+  "clip": "video/hyperion.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.odyssey2hybrid.activedesign",
+  "slug": "odyssey-2",
+  "name": "Odyssey 2",
+  "title": "Odyssey 2: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Jun 11, 2025",
+  "releasedTs": 1749600000,
+  "summary": "Hybrid watch face with analog and digital display, shortcuts, and AOD support.",
+  "features": [
+   "Multiple color combinations – Match your mood or outfit",
+   "5 background styles – Switch up your look instantly",
+   "2 customizable complications – Display the info that matters to you",
+   "2 custom shortcuts – Quick access to your favorite apps",
+   "Always-on display (AOD) – View key data at a glance",
+   "Heart rate support – Tap to measure and display BPM",
+   "Day, date, day-of-year, and week number display",
+   "Battery indicator – Shows battery percentage and quick access to battery status",
+   "Moon phase – Stay synced with lunar cycles",
+   "Step progress – Track your daily goals"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/odyssey-2/icon.webp",
+  "header": "faces/odyssey-2/header.webp",
+  "variants": [
+   {
+    "src": "faces/odyssey-2/v0.webp",
+    "color": "#7f49d8"
+   },
+   {
+    "src": "faces/odyssey-2/v1.webp",
+    "color": "#d3d802"
+   },
+   {
+    "src": "faces/odyssey-2/v2.webp",
+    "color": "#92d808"
+   },
+   {
+    "src": "faces/odyssey-2/v3.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/odyssey-2/v4.webp",
+    "color": "#03d852"
+   },
+   {
+    "src": "faces/odyssey-2/v5.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/odyssey-2/v6.webp",
+    "color": "#22d8c3"
+   },
+   {
+    "src": "faces/odyssey-2/v7.webp",
+    "color": "#4f3dd8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/odyssey-2/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/odyssey-2/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/odyssey-2/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/odyssey-2/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/MJW6SO9lgfM",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odyssey2hybrid.activedesign",
+  "clip": "video/odyssey-2.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.celestrix.activedesign",
+  "slug": "celestrix",
+  "name": "Celestrix",
+  "title": "Celestrix: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Jun 3, 2025",
+  "releasedTs": 1748908800,
+  "summary": "Futuristic digital watch face with rich data, color themes, and AOD.",
+  "features": [
+   "30 preset color themes – Personalize your look",
+   "2 customizable shortcuts – Quick access to essential apps",
+   "5 customizable complications – Show key data at a glance",
+   "Moon phase display – Track lunar cycles with elegance",
+   "Battery indicator – Stay aware of your power level",
+   "Heart rate monitoring – Check your pulse in real time",
+   "Full date and day – Stay organized throughout the week",
+   "Step counter – Keep motivated and track daily progress",
+   "Always-on display (AOD) – Easy viewing anytime",
+   "Wear OS devices from other manufacturers running version 3.0+"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/celestrix/icon.webp",
+  "header": "faces/celestrix/header.webp",
+  "variants": [
+   {
+    "src": "faces/celestrix/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/celestrix/v1.webp",
+    "color": "#4c00d8"
+   },
+   {
+    "src": "faces/celestrix/v2.webp",
+    "color": "#d8c900"
+   },
+   {
+    "src": "faces/celestrix/v3.webp",
+    "color": "#9b92d8"
+   },
+   {
+    "src": "faces/celestrix/v4.webp",
+    "color": "#d8d007"
+   },
+   {
+    "src": "faces/celestrix/v5.webp",
+    "color": "#a785d8"
+   },
+   {
+    "src": "faces/celestrix/v6.webp",
+    "color": "#8400d8"
+   },
+   {
+    "src": "faces/celestrix/v7.webp",
+    "color": "#d8a720"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/celestrix/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/celestrix/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/celestrix/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/celestrix/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.celestrix.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.rush2digital.activedesign",
+  "slug": "rush-2",
+  "name": "Rush 2",
+  "title": "Rush 2: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "May 12, 2025",
+  "releasedTs": 1747008000,
+  "summary": "Bold digital watch face with fitness tracking and customizable colors.",
+  "features": [
+   "Bold Digital Design – Clean, futuristic layout for everyday wear",
+   "Customizable Colors – Personalize to match your mood or outfit",
+   "Heart Rate Monitoring – Stay informed about your health in real time",
+   "Steps Tracking – Track your progress toward daily fitness goals",
+   "Always-On Display (AOD) – See essential info at a glance",
+   "Optimized Power Efficiency – Designed to preserve battery life",
+   "Wear OS devices from other manufacturers running version 3.0+"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery"
+  ],
+  "colorCount": 8,
+  "icon": "faces/rush-2/icon.webp",
+  "header": "faces/rush-2/header.webp",
+  "variants": [
+   {
+    "src": "faces/rush-2/v0.webp",
+    "color": "#00d8bc"
+   },
+   {
+    "src": "faces/rush-2/v1.webp",
+    "color": "#2dd845"
+   },
+   {
+    "src": "faces/rush-2/v2.webp",
+    "color": "#d8a13b"
+   },
+   {
+    "src": "faces/rush-2/v3.webp",
+    "color": "#d8320e"
+   },
+   {
+    "src": "faces/rush-2/v4.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/rush-2/v5.webp",
+    "color": "#d87bb4"
+   },
+   {
+    "src": "faces/rush-2/v6.webp",
+    "color": "#d8736b"
+   },
+   {
+    "src": "faces/rush-2/v7.webp",
+    "color": "#d8509f"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/rush-2/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush-2/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush-2/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush-2/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush2digital.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.omni2hybrid.activedesign",
+  "slug": "omni-2",
+  "name": "Omni 2",
+  "title": "Omni 2: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "May 11, 2025",
+  "releasedTs": 1746921600,
+  "summary": "Hybrid analog digital watch face with rich customization and fitness tracking.",
+  "features": [
+   "Hybrid Design – Analog hands with integrated digital clock",
+   "Color Customization – Personalize to match your mood and style",
+   "Custom Shortcuts – Quick access to your most-used apps",
+   "Customizable Complications – Show data like heart rate, steps, or weather",
+   "Heart Rate Monitoring – Stay on top of your wellness metrics",
+   "Moonphase Display – Stay connected to the lunar cycle",
+   "Step Counter & Goal Tracker – Track your movement and motivation",
+   "Date & Day Display – Stay organized at a glance",
+   "Battery Indicator – Monitor your battery level with ease",
+   "Always-On Display – View key info without activating the screen"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "weather",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/omni-2/icon.webp",
+  "header": "faces/omni-2/header.webp",
+  "variants": [
+   {
+    "src": "faces/omni-2/v0.webp",
+    "color": "#d80541"
+   },
+   {
+    "src": "faces/omni-2/v1.webp",
+    "color": "#a199e3"
+   },
+   {
+    "src": "faces/omni-2/v2.webp",
+    "color": "#5100e4"
+   },
+   {
+    "src": "faces/omni-2/v3.webp",
+    "color": "#1aebd2"
+   },
+   {
+    "src": "faces/omni-2/v4.webp",
+    "color": "#00e957"
+   },
+   {
+    "src": "faces/omni-2/v5.webp",
+    "color": "#98e600"
+   },
+   {
+    "src": "faces/omni-2/v6.webp",
+    "color": "#c6e600"
+   },
+   {
+    "src": "faces/omni-2/v7.webp",
+    "color": "#e6008f"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/omni-2/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/omni-2/p1.webp",
+    "w": 560,
+    "h": 737
+   },
+   {
+    "src": "faces/omni-2/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/omni-2/p3.webp",
+    "w": 560,
+    "h": 737
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/omni-2/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/omni-2/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/omni-2/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/VSFEOb8H5d0",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omni2hybrid.activedesign",
+  "clip": "video/omni-2.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.perpetual2hybrid.activedesign",
+  "slug": "perpetual-2",
+  "name": "Perpetual 2",
+  "title": "Perpetual 2: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "May 10, 2025",
+  "releasedTs": 1746835200,
+  "summary": "Hybrid watch face with analog digital time, color options, and fitness info",
+  "features": [
+   "Analog and digital time combination",
+   "10 customizable hand styles",
+   "9 preset color combinations",
+   "4 interactive shortcuts",
+   "3 indicator accent styles",
+   "2 background options",
+   "2 customizable complications",
+   "Moonphase display",
+   "Heart rate and steps tracking",
+   "Always-on display (AOD) support"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/perpetual-2/icon.webp",
+  "header": "faces/perpetual-2/header.webp",
+  "variants": [
+   {
+    "src": "faces/perpetual-2/v0.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/perpetual-2/v1.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/perpetual-2/v2.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/perpetual-2/v3.webp",
+    "color": "#d80086"
+   },
+   {
+    "src": "faces/perpetual-2/v4.webp",
+    "color": "#d80086"
+   },
+   {
+    "src": "faces/perpetual-2/v5.webp",
+    "color": "#1ad8c0"
+   },
+   {
+    "src": "faces/perpetual-2/v6.webp",
+    "color": "#9b92d8"
+   },
+   {
+    "src": "faces/perpetual-2/v7.webp",
+    "color": "#9b92d8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/perpetual-2/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/perpetual-2/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/perpetual-2/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/perpetual-2/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/Ig7fipPAOCM",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.perpetual2hybrid.activedesign",
+  "clip": "video/perpetual-2.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.lumos.activedesign",
+  "slug": "lumos",
+  "name": "Lumos",
+  "title": "Lumos: Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Apr 4, 2025",
+  "releasedTs": 1743724800,
+  "summary": "Elegant analog watch face with customizable colors and essential daily stats.",
+  "features": [
+   "Elegant analog design with clean, refined details",
+   "Customizable background and accent color combinations",
+   "Real-time heart rate monitoring",
+   "Date and battery level display",
+   "1 customizable complication for your essential information",
+   "Always-On Display (AOD) with battery-optimized dim mode",
+   "Heart rate data is provided by your watch sensors and system services.",
+   "Grant all required permissions for full functionality."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "battery",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/lumos/icon.webp",
+  "header": "faces/lumos/header.webp",
+  "variants": [
+   {
+    "src": "faces/lumos/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/lumos/v1.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/lumos/v2.webp",
+    "color": "#24d8b3"
+   },
+   {
+    "src": "faces/lumos/v3.webp",
+    "color": "#d80003"
+   },
+   {
+    "src": "faces/lumos/v4.webp",
+    "color": "#3120d8"
+   },
+   {
+    "src": "faces/lumos/v5.webp",
+    "color": "#9fd800"
+   },
+   {
+    "src": "faces/lumos/v6.webp",
+    "color": "#d800b9"
+   },
+   {
+    "src": "faces/lumos/v7.webp",
+    "color": "#7a00d8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/lumos/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/lumos/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/lumos/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/lumos/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lumos.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.springtime.activedesign",
+  "slug": "spring-time",
+  "name": "Spring Time",
+  "title": "Spring Time Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Mar 15, 2025",
+  "releasedTs": 1741996800,
+  "summary": "Spring Time Watch Face for Wear OS by Active Design",
+  "features": [
+   "Spring Time Watch Face for Wear OS",
+   "Features",
+   "Multiple Color Combinations – Personalize your style",
+   "Custom Shortcuts – Quick access to your favorite apps",
+   "Always-On Display – Stay informed at a glance",
+   "Customizable Complications – Tailor your experience",
+   "Delicate floral details with a soft ambient glow, perfect for any occasion.",
+   "Optimized for battery efficiency"
+  ],
+  "tags": [
+   "aod",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 6,
+  "icon": "faces/spring-time/icon.webp",
+  "header": "faces/spring-time/header.webp",
+  "variants": [
+   {
+    "src": "faces/spring-time/v0.webp",
+    "color": "#d0e358"
+   },
+   {
+    "src": "faces/spring-time/v1.webp",
+    "color": "#85d852"
+   },
+   {
+    "src": "faces/spring-time/v2.webp",
+    "color": "#d86c2b"
+   },
+   {
+    "src": "faces/spring-time/v3.webp",
+    "color": "#b429d8"
+   },
+   {
+    "src": "faces/spring-time/v4.webp",
+    "color": "#c9d85b"
+   },
+   {
+    "src": "faces/spring-time/v5.webp",
+    "color": "#4ed83f"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/spring-time/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/spring-time/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/spring-time/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/spring-time/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/spring-time/w0.webp",
+    "w": 450,
+    "h": 450
+   },
+   {
+    "src": "faces/spring-time/w1.webp",
+    "w": 450,
+    "h": 450
+   }
+  ],
+  "video": "https://www.youtube.com/embed/cWha2lnmprg",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.springtime.activedesign",
+  "clip": "video/spring-time.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.perpetual.activedesign",
+  "slug": "perpetual",
+  "name": "Perpetual",
+  "title": "Perpetual: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 4,
+  "ratings": 12,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Mar 11, 2025",
+  "releasedTs": 1741651200,
+  "summary": "Perpetual: Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "Features",
+   "Hybrid Display – Classic analog hands with a bold digital time readout",
+   "9x Hand Styles – Customize the look with a variety of analog hand designs",
+   "Custom Shortcuts (4x) – Personalize your experience with quick access to apps",
+   "Battery Gauge – Monitor battery status with a dynamic visual indicator",
+   "Moon Phase – Stay in sync with the lunar cycle",
+   "Day & Date – View the calendar and tap to access full details",
+   "Heart Rate Monitoring – Displays beats per minute and allows real-time measurement",
+   "Steps Counter & Goal – Track your activity effortlessly",
+   "Alarm & Music Access – Tap to open the alarm or music player instantly"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts"
+  ],
+  "colorCount": 8,
+  "icon": "faces/perpetual/icon.webp",
+  "header": "faces/perpetual/header.webp",
+  "variants": [
+   {
+    "src": "faces/perpetual/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/perpetual/v1.webp",
+    "color": "#d82dc3"
+   },
+   {
+    "src": "faces/perpetual/v2.webp",
+    "color": "#c2d82d"
+   },
+   {
+    "src": "faces/perpetual/v3.webp",
+    "color": "#d84350"
+   },
+   {
+    "src": "faces/perpetual/v4.webp",
+    "color": "#d8c34c"
+   },
+   {
+    "src": "faces/perpetual/v5.webp",
+    "color": "#00d869"
+   },
+   {
+    "src": "faces/perpetual/v6.webp",
+    "color": "#d8085a"
+   },
+   {
+    "src": "faces/perpetual/v7.webp",
+    "color": "#d80075"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/perpetual/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/perpetual/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/perpetual/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/perpetual/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/i9ZaWP72MLc",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.perpetual.activedesign",
+  "clip": "video/perpetual.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.forte.activedesign",
+  "slug": "forte",
+  "name": "Forte",
+  "title": "Forte: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 0.99,
+  "priceText": "$0.99",
+  "free": false,
+  "rating": 4.1,
+  "ratings": 30,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Mar 8, 2025",
+  "releasedTs": 1741392000,
+  "summary": "Hybrid watch face combining analog elegance with digital functionality.",
+  "features": [
+   "Hybrid analog and digital time display",
+   "Multiple color combinations to match your style",
+   "Adjustable analog hands for a personalized look",
+   "Customizable complications for heart rate, steps, battery, date, weather, and more",
+   "Smart app shortcuts for quick access to your favorite functions",
+   "Heart rate (BPM) and step counter",
+   "Battery level and date display",
+   "Automatic 12-hour / 24-hour format",
+   "Always-On Display (AOD) with optimized dim mode",
+   "AMOLED-friendly design with a clear ambient display"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "weather",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 1,
+  "icon": "faces/forte/icon.webp",
+  "header": "faces/forte/header.webp",
+  "variants": [
+   {
+    "src": "faces/forte/v0.webp",
+    "color": "#e8e8e8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/forte/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/forte/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/forte/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/forte/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/forte/w0.webp",
+    "w": 450,
+    "h": 450
+   },
+   {
+    "src": "faces/forte/w1.webp",
+    "w": 450,
+    "h": 450
+   },
+   {
+    "src": "faces/forte/w2.webp",
+    "w": 450,
+    "h": 450
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.forte.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.illusivedark.activedesign",
+  "slug": "illusive-dark",
+  "name": "Illusive Dark",
+  "title": "Illusive Dark Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Feb 17, 2025",
+  "releasedTs": 1739750400,
+  "summary": "Illusive Dark Watch Face for Wear OS by Active Design",
+  "features": [
+   "Date & Day Display – Stay on track with a clear view of the current date and day of the week.",
+   "12/24H Digital Clock – Choose between 12-hour and 24-hour time formats for your preference.",
+   "Heart Rate Monitor – Keep an eye on your heart rate with real-time updates.",
+   "Steps Counter – Track your daily steps and stay motivated towards your fitness goals.",
+   "Battery Indicator – Monitor your watch’s battery level at a glance.",
+   "6 Shortcuts – Access your favorite apps and functions instantly.",
+   "Customizable Colors & Hands – Personalize the look with a variety of color options and watch hand styles.",
+   "Always-On Display Supported – Maintain a stylish, low-power display even when idle."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 8,
+  "icon": "faces/illusive-dark/icon.webp",
+  "header": "faces/illusive-dark/header.webp",
+  "variants": [
+   {
+    "src": "faces/illusive-dark/v0.webp",
+    "color": "#a3d839"
+   },
+   {
+    "src": "faces/illusive-dark/v1.webp",
+    "color": "#d80f57"
+   },
+   {
+    "src": "faces/illusive-dark/v2.webp",
+    "color": "#00d8a9"
+   },
+   {
+    "src": "faces/illusive-dark/v3.webp",
+    "color": "#d89a31"
+   },
+   {
+    "src": "faces/illusive-dark/v4.webp",
+    "color": "#d87dd7"
+   },
+   {
+    "src": "faces/illusive-dark/v5.webp",
+    "color": "#d892a8"
+   },
+   {
+    "src": "faces/illusive-dark/v6.webp",
+    "color": "#d8746b"
+   },
+   {
+    "src": "faces/illusive-dark/v7.webp",
+    "color": "#d8624d"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/illusive-dark/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/illusive-dark/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/illusive-dark/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/illusive-dark/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/XHQtgVi5ptE",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.illusivedark.activedesign",
+  "clip": "video/illusive-dark.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.exo.activedesign",
+  "slug": "exo",
+  "name": "Exo",
+  "title": "Exo: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 4.4,
+  "ratings": 23,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Feb 14, 2025",
+  "releasedTs": 1739491200,
+  "summary": "A stylish hybrid watch face with customization, health tracking, and shortcuts.",
+  "features": [
+   "Color Combinations – Customize your watch face to match your mood and style.",
+   "10 Custom Hands & Sub-Dials – Personalize your look with a variety of hand and sub-dial designs.",
+   "Heart Rate Monitoring – Stay on top of your health with real-time heart rate tracking.",
+   "Moon Phase – Follow lunar cycles and stay connected to the celestial world.",
+   "Steps Counter & Goal Tracking – Set fitness goals and monitor your progress throughout the day.",
+   "Battery Percentage – Keep track of your battery life at a glance.",
+   "Date Display – Stay organized with a clear date display.",
+   "2 Customizable Complications – Access essential apps or data with ease.",
+   "4 Custom Shortcuts – Quickly reach your favorite features with four customizable shortcuts.",
+   "Always-On Display Mode – Stay informed with a sleek, low-power display."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/exo/icon.webp",
+  "header": "faces/exo/header.webp",
+  "variants": [
+   {
+    "src": "faces/exo/v0.webp",
+    "color": "#d80045"
+   },
+   {
+    "src": "faces/exo/v1.webp",
+    "color": "#4c39f1"
+   },
+   {
+    "src": "faces/exo/v2.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/exo/v3.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/exo/v4.webp",
+    "color": "#d80101"
+   },
+   {
+    "src": "faces/exo/v5.webp",
+    "color": "#d8003c"
+   },
+   {
+    "src": "faces/exo/v6.webp",
+    "color": "#18d860"
+   },
+   {
+    "src": "faces/exo/v7.webp",
+    "color": "#d2d812"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/exo/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/exo/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/exo/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/exo/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exo.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.voyage.activedesign",
+  "slug": "voyage",
+  "name": "Voyage",
+  "title": "Voyage: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Feb 5, 2025",
+  "releasedTs": 1738713600,
+  "summary": "A stylish hybrid watch face with customization, health tracking, and shortcuts.",
+  "features": [
+   "10x Color Options: Customize your style!",
+   "10x Hand Options: Tailor your look effortlessly.",
+   "12/24 Hour Format: Choose what suits your style.",
+   "Battery: Stay informed about your device's power.",
+   "Day Number & Week Number: Keep track of time seamlessly.",
+   "Day & Date: Stay organized with essential information.",
+   "Heart Rate & Step Count: Monitor your health and activity.",
+   "Step Goal: Achieve your fitness targets effortlessly.",
+   "2x Custom App Shortcut: Access your favorite apps with ease.",
+   "Always on Display Mode: Stay connected at a glance."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 8,
+  "icon": "faces/voyage/icon.webp",
+  "header": "faces/voyage/header.webp",
+  "variants": [
+   {
+    "src": "faces/voyage/v0.webp",
+    "color": "#d8d142"
+   },
+   {
+    "src": "faces/voyage/v1.webp",
+    "color": "#d8000b"
+   },
+   {
+    "src": "faces/voyage/v2.webp",
+    "color": "#d81e5e"
+   },
+   {
+    "src": "faces/voyage/v3.webp",
+    "color": "#d8b320"
+   },
+   {
+    "src": "faces/voyage/v4.webp",
+    "color": "#d89432"
+   },
+   {
+    "src": "faces/voyage/v5.webp",
+    "color": "#d863d4"
+   },
+   {
+    "src": "faces/voyage/v6.webp",
+    "color": "#d891a8"
+   },
+   {
+    "src": "faces/voyage/v7.webp",
+    "color": "#00d8b8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/voyage/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/voyage/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/voyage/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/voyage/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/EkdyrV6Zrlw",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.voyage.activedesign",
+  "clip": "video/voyage.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.rush.activedesign",
+  "slug": "rush",
+  "name": "Rush",
+  "title": "Rush: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 0.99,
+  "priceText": "$0.99",
+  "free": false,
+  "rating": 3.9,
+  "ratings": 24,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Jan 4, 2025",
+  "releasedTs": 1735948800,
+  "summary": "Dynamic digital watch face combining style, speed, and functionality.",
+  "features": [
+   "Crisp digital time display with a high-contrast layout",
+   "Steps counter and step goal progress",
+   "Heart rate monitoring (tap to measure)",
+   "Battery percentage indicator",
+   "Automatic 12-hour / 24-hour time format",
+   "10 vibrant color themes",
+   "4 customizable app shortcuts",
+   "Designed for workouts, commuting, and everyday use",
+   "Choose from 10 vibrant color themes to match your style",
+   "Personalize your watch face with 4 customizable app shortcuts"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 10,
+  "icon": "faces/rush/icon.webp",
+  "header": "faces/rush/header.webp",
+  "variants": [
+   {
+    "src": "faces/rush/v0.webp",
+    "color": "#00d8ba"
+   },
+   {
+    "src": "faces/rush/v1.webp",
+    "color": "#d80e0e"
+   },
+   {
+    "src": "faces/rush/v2.webp",
+    "color": "#d8125e"
+   },
+   {
+    "src": "faces/rush/v3.webp",
+    "color": "#8e19d8"
+   },
+   {
+    "src": "faces/rush/v4.webp",
+    "color": "#462dd8"
+   },
+   {
+    "src": "faces/rush/v5.webp",
+    "color": "#6ed82b"
+   },
+   {
+    "src": "faces/rush/v6.webp",
+    "color": "#d8c336"
+   },
+   {
+    "src": "faces/rush/v7.webp",
+    "color": "#d84700"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/rush/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/rush/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.aquastellar.activedesign",
+  "slug": "aquastellar",
+  "name": "Aquastellar",
+  "title": "Aquastellar: Diver Watch Face",
+  "category": "analog",
+  "diver": true,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 4.2,
+  "ratings": 14,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Dec 10, 2024",
+  "releasedTs": 1733788800,
+  "summary": "Aquastellar: Diver Watch Face for Wear OS by Active Design",
+  "features": [
+   "10 Textures Background: Choose from a variety of textures to match your style and mood.",
+   "30 Colors: Express yourself with a vibrant spectrum of colors to suit any occasion.",
+   "5 Dimmer and 4 Lighter Intensity: Find the perfect balance between subtlety and visibility.",
+   "9 Lights & Shadows: Add depth and dimension to your watch face with customizable lights and shadows.",
+   "9 Sets of Hands: Select from a collection of stylish and functional hand designs.",
+   "10 Minute Markers: Keep track of time with precision and clarity.",
+   "10 Lume Color: Illuminate your watch face with customizable luminous colors.",
+   "10 Lume Borders: Define your style with distinctive borders that catch the eye.",
+   "10 Signature Logo & Branding: Make your mark with personalized logo and branding options.",
+   "5 Sets of AOD Lumes: Enjoy a stylish and discreet always-on display experience."
+  ],
+  "tags": [
+   "aod",
+   "battery"
+  ],
+  "colorCount": 30,
+  "icon": "faces/aquastellar/icon.webp",
+  "header": "faces/aquastellar/header.webp",
+  "variants": [
+   {
+    "src": "faces/aquastellar/v0.webp",
+    "color": "#3d55d8"
+   },
+   {
+    "src": "faces/aquastellar/v1.webp",
+    "color": "#3000d8"
+   },
+   {
+    "src": "faces/aquastellar/v2.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/aquastellar/v3.webp",
+    "color": "#15d8b5"
+   },
+   {
+    "src": "faces/aquastellar/v4.webp",
+    "color": "#05d895"
+   },
+   {
+    "src": "faces/aquastellar/v5.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/aquastellar/v6.webp",
+    "color": "#e46b6b"
+   },
+   {
+    "src": "faces/aquastellar/v7.webp",
+    "color": "#e8e8e8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/aquastellar/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/aquastellar/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/aquastellar/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/aquastellar/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/200FL4hbKu4",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.aquastellar.activedesign",
+  "clip": "video/aquastellar.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.destiny.activedesign",
+  "slug": "destiny",
+  "name": "Destiny",
+  "title": "Destiny Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Nov 14, 2024",
+  "releasedTs": 1731542400,
+  "summary": "Destiny: Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "Unleash Your Style",
+   "Stay Connected",
+   "Fitness at a Glance",
+   "Always-On Display",
+   "Customize Your Experience"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 360,
+  "icon": "faces/destiny/icon.webp",
+  "header": "faces/destiny/header.webp",
+  "variants": [
+   {
+    "src": "faces/destiny/v0.webp",
+    "color": "#d80049"
+   },
+   {
+    "src": "faces/destiny/v1.webp",
+    "color": "#d80048"
+   },
+   {
+    "src": "faces/destiny/v2.webp",
+    "color": "#db1284"
+   },
+   {
+    "src": "faces/destiny/v3.webp",
+    "color": "#4755dc"
+   },
+   {
+    "src": "faces/destiny/v4.webp",
+    "color": "#93dc01"
+   },
+   {
+    "src": "faces/destiny/v5.webp",
+    "color": "#02d9d1"
+   },
+   {
+    "src": "faces/destiny/v6.webp",
+    "color": "#02db96"
+   },
+   {
+    "src": "faces/destiny/v7.webp",
+    "color": "#76db34"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/destiny/p0.webp",
+    "w": 560,
+    "h": 572
+   },
+   {
+    "src": "faces/destiny/p1.webp",
+    "w": 560,
+    "h": 572
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/sweImmtlGHs",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.destiny.activedesign",
+  "clip": "video/destiny.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.vision3.activedesign",
+  "slug": "vision-3",
+  "name": "Vision 3",
+  "title": "Vision 3: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Oct 6, 2024",
+  "releasedTs": 1728172800,
+  "summary": "Vision 3: Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "Multiple color combinations: Personalize your look with vibrant options.",
+   "Custom shortcuts: Set up to 5 shortcuts for quick access to your favorite apps.",
+   "Always-on display: Stay updated at a glance, even in power-saving mode.",
+   "3x background variations: Tailor your screen to suit your style.",
+   "2x customizable complications: Display your favorite info right on the home screen.",
+   "Alarm: Tap to open the alarm.",
+   "Day & date: Displaying the current day and date; tap to open the calendar.",
+   "Music: Tap to open the music player.",
+   "Heart rate: Display and measure your heart rate.",
+   "Steps count: Track your steps throughout the day."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/vision-3/icon.webp",
+  "header": "faces/vision-3/header.webp",
+  "variants": [
+   {
+    "src": "faces/vision-3/v0.webp",
+    "color": "#00e856"
+   },
+   {
+    "src": "faces/vision-3/v1.webp",
+    "color": "#e80090"
+   },
+   {
+    "src": "faces/vision-3/v2.webp",
+    "color": "#d8003d"
+   },
+   {
+    "src": "faces/vision-3/v3.webp",
+    "color": "#00d851"
+   },
+   {
+    "src": "faces/vision-3/v4.webp",
+    "color": "#dd003f"
+   },
+   {
+    "src": "faces/vision-3/v5.webp",
+    "color": "#00e355"
+   },
+   {
+    "src": "faces/vision-3/v6.webp",
+    "color": "#eb0092"
+   },
+   {
+    "src": "faces/vision-3/v7.webp",
+    "color": "#d80086"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/vision-3/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/vision-3/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/vision-3/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/vision-3/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/vision-3/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/vision-3/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/vision-3/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vision3.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.solaris.activedesign",
+  "slug": "solaris",
+  "name": "Solaris",
+  "title": "Solaris: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Oct 3, 2024",
+  "releasedTs": 1727913600,
+  "summary": "Solaris: Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "Always-on display",
+   "Heart rate, tap to measure",
+   "Step counter",
+   "Battery level",
+   "Customisable shortcuts",
+   "Customisable complications"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/solaris/icon.webp",
+  "header": "faces/solaris/header.webp",
+  "variants": [
+   {
+    "src": "faces/solaris/v0.webp",
+    "color": "#d82f49"
+   },
+   {
+    "src": "faces/solaris/v1.webp",
+    "color": "#d8092d"
+   },
+   {
+    "src": "faces/solaris/v2.webp",
+    "color": "#4701dc"
+   },
+   {
+    "src": "faces/solaris/v3.webp",
+    "color": "#9a89df"
+   },
+   {
+    "src": "faces/solaris/v4.webp",
+    "color": "#01d85e"
+   },
+   {
+    "src": "faces/solaris/v5.webp",
+    "color": "#5cd812"
+   },
+   {
+    "src": "faces/solaris/v6.webp",
+    "color": "#b9d800"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/solaris/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/solaris/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/solaris/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/solaris/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/solaris/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/solaris/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/solaris/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.solaris.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.polaris.activedesign",
+  "slug": "polaris",
+  "name": "Polaris",
+  "title": "Polaris: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 3.9,
+  "ratings": 32,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Sep 29, 2024",
+  "releasedTs": 1727568000,
+  "summary": "Polaris: Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "30x vibrant color themes to match any mood",
+   "4x fully customizable shortcuts for easy access",
+   "3x adjustable complications to display what matters most",
+   "Day and week number displays to keep your schedule organized",
+   "Moon phase tracking for a touch of astronomy",
+   "Real-time heart rate monitoring to stay in tune with your health",
+   "Battery and steps counters to track your progress",
+   "Sleek date display and always-on display mode (AOD) for ultimate convenience"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 2,
+  "icon": "faces/polaris/icon.webp",
+  "header": "faces/polaris/header.webp",
+  "variants": [
+   {
+    "src": "faces/polaris/v0.webp",
+    "color": "#90d800"
+   },
+   {
+    "src": "faces/polaris/v1.webp",
+    "color": "#4d01d8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/polaris/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/polaris/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/polaris/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/polaris/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/polaris/w0.webp",
+    "w": 450,
+    "h": 450
+   },
+   {
+    "src": "faces/polaris/w1.webp",
+    "w": 450,
+    "h": 450
+   },
+   {
+    "src": "faces/polaris/w2.webp",
+    "w": 450,
+    "h": 450
+   }
+  ],
+  "video": "https://www.youtube.com/embed/DjtC9zVWAsw",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.polaris.activedesign",
+  "clip": "video/polaris.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.halo.activedesign",
+  "slug": "halo",
+  "name": "Halo",
+  "title": "Halo Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Sep 29, 2024",
+  "releasedTs": 1727568000,
+  "summary": "Halo: Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "Music & Alarm: Tap the icons to control your music or set alarms with ease.",
+   "Moon Phase: Stay in tune with lunar phases, displayed right on your watch.",
+   "Heart Rate: Track your heart rate in real-time; tap to measure your beats per minute.",
+   "Battery & Steps: Monitor your battery percentage and step count effortlessly.",
+   "Phone & Messages: Quickly open your phone and messages directly from the face.",
+   "Date & Time: Digital and analog clock with date display for full-time awareness.",
+   "Complications: Customize additional information with intuitive press-and-hold options."
+  ],
+  "tags": [
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/halo/icon.webp",
+  "header": "faces/halo/header.webp",
+  "variants": [
+   {
+    "src": "faces/halo/v0.webp",
+    "color": "#1ed8c2"
+   },
+   {
+    "src": "faces/halo/v1.webp",
+    "color": "#00d951"
+   },
+   {
+    "src": "faces/halo/v2.webp",
+    "color": "#d80086"
+   },
+   {
+    "src": "faces/halo/v3.webp",
+    "color": "#22d8c2"
+   },
+   {
+    "src": "faces/halo/v4.webp",
+    "color": "#90d800"
+   },
+   {
+    "src": "faces/halo/v5.webp",
+    "color": "#d80086"
+   },
+   {
+    "src": "faces/halo/v6.webp",
+    "color": "#d8003d"
+   }
+  ],
+  "promos": [],
+  "wides": [
+   {
+    "src": "faces/halo/w0.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/halo/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/halo/w2.webp",
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "video": "https://www.youtube.com/embed/3fN49_CVYCM",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.halo.activedesign",
+  "clip": "video/halo.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.paramount.activedesign",
+  "slug": "paramount",
+  "name": "Paramount",
+  "title": "Paramount: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Sep 27, 2024",
+  "releasedTs": 1727395200,
+  "summary": "Paramount: Elevate Your Everyday with Precision &amp; Style",
+  "features": [
+   "Always-on display",
+   "Heart rate, tap to measure",
+   "Step counter",
+   "Battery level",
+   "Moon phase",
+   "Customisable shortcuts",
+   "Customisable complications"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/paramount/icon.webp",
+  "header": "faces/paramount/header.webp",
+  "variants": [
+   {
+    "src": "faces/paramount/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/paramount/v1.webp",
+    "color": "#4331d9"
+   },
+   {
+    "src": "faces/paramount/v2.webp",
+    "color": "#1cdac5"
+   },
+   {
+    "src": "faces/paramount/v3.webp",
+    "color": "#00db52"
+   },
+   {
+    "src": "faces/paramount/v4.webp",
+    "color": "#92da00"
+   },
+   {
+    "src": "faces/paramount/v5.webp",
+    "color": "#bdda00"
+   },
+   {
+    "src": "faces/paramount/v6.webp",
+    "color": "#da0089"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/paramount/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/paramount/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/paramount/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/paramount/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/paramount/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/paramount/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/paramount/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.paramount.activedesign",
+  "clip": null
+ },
+ {
+  "id": "com.watchfacestudio.halcyon.activedesign",
+  "slug": "halcyon",
+  "name": "Halcyon",
+  "title": "Halcyon: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Sep 25, 2024",
+  "releasedTs": 1727222400,
+  "summary": "Halcyon - Your Smartwatch, Reimagined",
+  "features": [
+   "Feel in Sync with Nature",
+   "Made for You, Customizable by You",
+   "Monitor Your Health in Real Time",
+   "Never Miss a Beat",
+   "Always On, Always Ready",
+   "Own Your Fitness Journey",
+   "Stay Organized, Every Day"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/halcyon/icon.webp",
+  "header": "faces/halcyon/header.webp",
+  "variants": [
+   {
+    "src": "faces/halcyon/v0.webp",
+    "color": "#5b17d8"
+   },
+   {
+    "src": "faces/halcyon/v1.webp",
+    "color": "#bbd800"
+   },
+   {
+    "src": "faces/halcyon/v2.webp",
+    "color": "#00d851"
+   },
+   {
+    "src": "faces/halcyon/v3.webp",
+    "color": "#90d800"
+   },
+   {
+    "src": "faces/halcyon/v4.webp",
+    "color": "#1fd8c4"
+   },
+   {
+    "src": "faces/halcyon/v5.webp",
+    "color": "#d8003d"
+   },
+   {
+    "src": "faces/halcyon/v6.webp",
+    "color": "#20d8c4"
+   },
+   {
+    "src": "faces/halcyon/v7.webp",
+    "color": "#20d8c4"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/halcyon/p0.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/halcyon/p1.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/halcyon/p2.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/halcyon/p3.webp",
+    "w": 560,
+    "h": 995
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/halcyon/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/halcyon/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/halcyon/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/GeebddGkh_M",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.halcyon.activedesign",
+  "clip": "video/halcyon.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.vision2.activedesign",
+  "slug": "vision-2",
+  "name": "Vision 2",
+  "title": "Vision 2: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Sep 23, 2024",
+  "releasedTs": 1727049600,
+  "summary": "Vision 2: Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "30 Preset Colors: Choose from a wide selection of colors to match your mood or style.",
+   "Custom Shortcuts: Easily set up to 5 shortcuts for your favorite apps or functions.",
+   "Moon Phase Display: Stay in tune with lunar cycles.",
+   "Day & Date: Keep your schedule on hand with a tap to open the calendar.",
+   "Heart Rate Monitoring: Stay updated on your pulse in real time.",
+   "Steps & Goals: Track your progress effortlessly with a steps indicator.",
+   "Battery Status: Monitor your battery life at a glance.",
+   "Customizable Complications: Tailor the watch face to your unique style.",
+   "Always-On Display: Essential information at a glance, even in low power mode."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/vision-2/icon.webp",
+  "header": "faces/vision-2/header.webp",
+  "variants": [
+   {
+    "src": "faces/vision-2/v0.webp",
+    "color": "#00d852"
+   },
+   {
+    "src": "faces/vision-2/v1.webp",
+    "color": "#bcd800"
+   },
+   {
+    "src": "faces/vision-2/v2.webp",
+    "color": "#1bd8c4"
+   },
+   {
+    "src": "faces/vision-2/v3.webp",
+    "color": "#e80042"
+   },
+   {
+    "src": "faces/vision-2/v4.webp",
+    "color": "#2a15e8"
+   },
+   {
+    "src": "faces/vision-2/v5.webp",
+    "color": "#2914e8"
+   },
+   {
+    "src": "faces/vision-2/v6.webp",
+    "color": "#e8c500"
+   },
+   {
+    "src": "faces/vision-2/v7.webp",
+    "color": "#9ae800"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/vision-2/p0.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/vision-2/p1.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/vision-2/p2.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/vision-2/p3.webp",
+    "w": 560,
+    "h": 995
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/vision-2/w0.webp",
+    "w": 900,
+    "h": 439
+   },
+   {
+    "src": "faces/vision-2/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/vision-2/w2.webp",
+    "w": 900,
+    "h": 439
+   }
+  ],
+  "video": "https://www.youtube.com/embed/VHyM-RvZNFI",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vision2.activedesign",
+  "clip": "video/vision-2.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.equinox.activedesign",
+  "slug": "equinox",
+  "name": "Equinox",
+  "title": "Equinox: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Sep 22, 2024",
+  "releasedTs": 1726963200,
+  "summary": "Equinox: Stay In Sync with Every Detail",
+  "features": [
+   "Custom Shortcuts",
+   "Heart Rate",
+   "Steps Indicator",
+   "Battery Indicator",
+   "Moon Phase",
+   "Day & Date",
+   "Customizable Complications",
+   "World Time",
+   "Seconds Display"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "weather",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications",
+   "timezone"
+  ],
+  "colorCount": 8,
+  "icon": "faces/equinox/icon.webp",
+  "header": "faces/equinox/header.webp",
+  "variants": [
+   {
+    "src": "faces/equinox/v0.webp",
+    "color": "#e30041"
+   },
+   {
+    "src": "faces/equinox/v1.webp",
+    "color": "#e30041"
+   },
+   {
+    "src": "faces/equinox/v2.webp",
+    "color": "#e3008e"
+   },
+   {
+    "src": "faces/equinox/v3.webp",
+    "color": "#e2008e"
+   },
+   {
+    "src": "faces/equinox/v4.webp",
+    "color": "#c4e300"
+   },
+   {
+    "src": "faces/equinox/v5.webp",
+    "color": "#c5e300"
+   },
+   {
+    "src": "faces/equinox/v6.webp",
+    "color": "#c5e300"
+   },
+   {
+    "src": "faces/equinox/v7.webp",
+    "color": "#97e200"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/equinox/p0.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/equinox/p1.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/equinox/p2.webp",
+    "w": 560,
+    "h": 995
+   },
+   {
+    "src": "faces/equinox/p3.webp",
+    "w": 560,
+    "h": 995
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/equinox/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/equinox/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/equinox/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/M7g9cw8qCSc",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.equinox.activedesign",
+  "clip": "video/equinox.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.titan.activedesign",
+  "slug": "titanium",
+  "name": "Titanium",
+  "title": "Titanium: Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Sep 9, 2024",
+  "releasedTs": 1725840000,
+  "summary": "Titanium: Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "Multiple color combinations – Customize the look to match your outfit, mood, or moment.",
+   "Custom shortcuts – Get instant access to your favorite apps with a single tap.",
+   "Always On Display – Stay on top of essential info without waking your screen.",
+   "5x background variations – Switch up the backdrop to fit any occasion.",
+   "10x watch hand variations – Choose a style that suits your personal taste."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "weather",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/titanium/icon.webp",
+  "header": "faces/titanium/header.webp",
+  "variants": [
+   {
+    "src": "faces/titanium/v0.webp",
+    "color": "#d8003d"
+   },
+   {
+    "src": "faces/titanium/v1.webp",
+    "color": "#d9003e"
+   },
+   {
+    "src": "faces/titanium/v2.webp",
+    "color": "#d7dc00"
+   },
+   {
+    "src": "faces/titanium/v3.webp",
+    "color": "#db0088"
+   },
+   {
+    "src": "faces/titanium/v4.webp",
+    "color": "#95de00"
+   },
+   {
+    "src": "faces/titanium/v5.webp",
+    "color": "#d3d800"
+   },
+   {
+    "src": "faces/titanium/v6.webp",
+    "color": "#91d800"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/titanium/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/titanium/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/titanium/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/titanium/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/titanium/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/titanium/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/titanium/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/jDSn62Sa7bw",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.titan.activedesign",
+  "clip": "video/titanium.mp4"
+ },
+ {
+  "id": "com.watchfacestudio.lucid.activedesign",
+  "slug": "lucid",
+  "name": "Lucid",
+  "title": "Lucid: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Sep 7, 2024",
+  "releasedTs": 1725667200,
+  "summary": "Lucid: The Ultimate Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "Multiple color combinations – Choose from a wide range of vibrant color themes to match your style.",
+   "Custom shortcuts – Set and access your favorite apps with three customizable shortcuts.",
+   "Always-on display – Keep essential information visible while conserving battery.",
+   "3x background variations – Switch between different backgrounds for a fresh look anytime.",
+   "1x customizable complication – Tap and hold to personalize the watch face and add the information you need.",
+   "Battery indicator – Displays battery percentage and opens the battery status with a tap.",
+   "Heart rate monitoring – Track your heart rate and tap to measure beats per minute.",
+   "Steps counter – Track your daily steps and goals, with quick access to step data.",
+   "Day & date – Keep track of the day and date, and tap to open your calendar."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 7,
+  "icon": "faces/lucid/icon.webp",
+  "header": "faces/lucid/header.webp",
+  "variants": [
+   {
+    "src": "faces/lucid/v0.webp",
+    "color": "#d9003e"
+   },
+   {
+    "src": "faces/lucid/v1.webp",
+    "color": "#dce200"
+   },
+   {
+    "src": "faces/lucid/v2.webp",
+    "color": "#00e254"
+   },
+   {
+    "src": "faces/lucid/v3.webp",
+    "color": "#d4da00"
+   },
+   {
+    "src": "faces/lucid/v4.webp",
+    "color": "#00dc53"
+   },
+   {
+    "src": "faces/lucid/v5.webp",
+    "color": "#19ddc6"
+   },
+   {
+    "src": "faces/lucid/v6.webp",
+    "color": "#90d800"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/lucid/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/lucid/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/lucid/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/lucid/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/lucid/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/lucid/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/lucid/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/52fuKRuMSQI",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lucid.activedesign",
+  "clip": "video/lucid.mp4"
+ },
+ {
+  "id": "com.activewatchdesign.apex2",
+  "slug": "apex-2",
+  "name": "Apex 2",
+  "title": "Apex 2 Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Nov 6, 2023",
+  "releasedTs": 1699228800,
+  "summary": "Apex 2 Analog Watch Face for Wear OS by Active Design",
+  "features": [
+   "30x Preset Colors: Match your watch face to your style effortlessly with a wide range of vibrant colors.",
+   "10x Hands: Choose from a variety of hand styles to suit your preference and mood.",
+   "5x Hour Markers: Customize your time display with different marker designs for easy readability.",
+   "3x Shortcuts: Access your favorite apps or features directly from your watch face with convenient shortcuts.",
+   "3x Background Options: Set the perfect backdrop for your watch face with multiple background choices.",
+   "Analog Clock: Classic analog clock design for a timeless look.",
+   "Heart Rate: Monitor your heart rate in real-time to stay on top of your fitness goals.",
+   "Date: Stay organized and informed with the current date displayed on your watch face.",
+   "Steps: Keep track of your steps and progress towards a healthier lifestyle."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/apex-2/icon.webp",
+  "header": "faces/apex-2/header.webp",
+  "variants": [
+   {
+    "src": "faces/apex-2/v0.webp",
+    "color": "#29d8c2"
+   },
+   {
+    "src": "faces/apex-2/v1.webp",
+    "color": "#0ed859"
+   },
+   {
+    "src": "faces/apex-2/v2.webp",
+    "color": "#b8d802"
+   },
+   {
+    "src": "faces/apex-2/v3.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/apex-2/v4.webp",
+    "color": "#004ed8"
+   },
+   {
+    "src": "faces/apex-2/v5.webp",
+    "color": "#d8003b"
+   },
+   {
+    "src": "faces/apex-2/v6.webp",
+    "color": "#90d807"
+   },
+   {
+    "src": "faces/apex-2/v7.webp",
+    "color": "#530cd8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/apex-2/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/apex-2/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/apex-2/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/apex-2/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": "https://www.youtube.com/embed/OC6SAsIJ2LE",
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex2",
+  "clip": "video/apex-2.mp4"
+ },
+ {
+  "id": "com.activewatchdesign.essentials4",
+  "slug": "essentials-digital",
+  "name": "Essentials Digital",
+  "title": "Essentials: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 0,
+  "priceText": "Free",
+  "free": true,
+  "rating": 4.6,
+  "ratings": 483,
+  "installs": "100,000+",
+  "minInstalls": 100000,
+  "released": "Jun 4, 2023",
+  "releasedTs": 1685836800,
+  "summary": "Clean digital watch face combining simplicity, style, and functionality.",
+  "features": [
+   "Crisp digital time display for easy readability",
+   "Clean, minimal design for everyday use",
+   "Day and date display for daily organization",
+   "Battery level indicator",
+   "Automatic 12-hour / 24-hour format based on system settings",
+   "Balanced layout optimized for round smartwatch displays",
+   "Always-On Display (AOD) support",
+   "Clear time visibility in ambient mode",
+   "Minimal display designed for AMOLED screens",
+   "Simple interface with essential information at a glance"
+  ],
+  "tags": [
+   "aod",
+   "battery"
+  ],
+  "colorCount": 8,
+  "icon": "faces/essentials-digital/icon.webp",
+  "header": "faces/essentials-digital/header.webp",
+  "variants": [
+   {
+    "src": "faces/essentials-digital/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-digital/v1.webp",
+    "color": "#d8c912"
+   },
+   {
+    "src": "faces/essentials-digital/v2.webp",
+    "color": "#7dd819"
+   },
+   {
+    "src": "faces/essentials-digital/v3.webp",
+    "color": "#b401d8"
+   },
+   {
+    "src": "faces/essentials-digital/v4.webp",
+    "color": "#7401d8"
+   },
+   {
+    "src": "faces/essentials-digital/v5.webp",
+    "color": "#3d83d8"
+   },
+   {
+    "src": "faces/essentials-digital/v6.webp",
+    "color": "#45d8b7"
+   },
+   {
+    "src": "faces/essentials-digital/v7.webp",
+    "color": "#aad878"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/essentials-digital/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/essentials-digital/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/essentials-digital/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/essentials-digital/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentials4",
+  "clip": null
+ },
+ {
+  "id": "com.activewatchdesign.apex",
+  "slug": "apex",
+  "name": "Apex",
+  "title": "Apex: Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 4.6,
+  "ratings": 33,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Mar 12, 2022",
+  "releasedTs": 1647043200,
+  "summary": "Elegant analog watch face with rich customization and smart essentials.",
+  "features": [
+   "30 vibrant color combinations to match your style and mood",
+   "10 unique analog hand styles for a personalized look",
+   "3 custom app shortcuts for quick access to your favorite apps",
+   "2 customizable complications for essential daily information",
+   "Heart rate monitoring for real-time health tracking",
+   "Always-On Display (AOD) with battery-optimized dim mode"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 30,
+  "icon": "faces/apex/icon.webp",
+  "header": "faces/apex/header.webp",
+  "variants": [
+   {
+    "src": "faces/apex/v0.webp",
+    "color": "#4d38f4"
+   },
+   {
+    "src": "faces/apex/v1.webp",
+    "color": "#ed0043"
+   },
+   {
+    "src": "faces/apex/v2.webp",
+    "color": "#f30045"
+   },
+   {
+    "src": "faces/apex/v3.webp",
+    "color": "#ed9b00"
+   },
+   {
+    "src": "faces/apex/v4.webp",
+    "color": "#d88f00"
+   },
+   {
+    "src": "faces/apex/v5.webp",
+    "color": "#ed0093"
+   },
+   {
+    "src": "faces/apex/v6.webp",
+    "color": "#4b38ed"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/apex/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/apex/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/apex/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/apex/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/apex/w0.webp",
+    "w": 900,
+    "h": 439
+   },
+   {
+    "src": "faces/apex/w1.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/apex/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": "https://www.youtube.com/embed/nSbRKLtQEvI",
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex",
+  "clip": "video/apex.mp4"
+ },
+ {
+  "id": "com.activewatchdesign.vulkan",
+  "slug": "vulkan",
+  "name": "Vulkan",
+  "title": "Vulkan Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 4.8,
+  "ratings": 30,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Dec 8, 2021",
+  "releasedTs": 1638921600,
+  "summary": "Vulkan Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "Always-on display",
+   "Heart rate, tap to measure",
+   "Step counter",
+   "Battery level",
+   "Customisable shortcuts"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 25,
+  "icon": "faces/vulkan/icon.webp",
+  "header": "faces/vulkan/header.webp",
+  "variants": [
+   {
+    "src": "faces/vulkan/v0.webp",
+    "color": "#d80014"
+   },
+   {
+    "src": "faces/vulkan/v1.webp",
+    "color": "#d8001c"
+   },
+   {
+    "src": "faces/vulkan/v2.webp",
+    "color": "#d83aa9"
+   },
+   {
+    "src": "faces/vulkan/v3.webp",
+    "color": "#9239d8"
+   },
+   {
+    "src": "faces/vulkan/v4.webp",
+    "color": "#d817b6"
+   },
+   {
+    "src": "faces/vulkan/v5.webp",
+    "color": "#00d8c3"
+   },
+   {
+    "src": "faces/vulkan/v6.webp",
+    "color": "#b0d800"
+   },
+   {
+    "src": "faces/vulkan/v7.webp",
+    "color": "#4bd813"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/vulkan/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/vulkan/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/vulkan/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/vulkan/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/vulkan/w0.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/vulkan/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/vulkan/w2.webp",
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "video": "https://www.youtube.com/embed/seHoE0-rc2M",
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vulkan",
+  "clip": "video/vulkan.mp4"
+ },
+ {
+  "id": "com.activewatchdesign.oblivion",
+  "slug": "oblivion",
+  "name": "Oblivion",
+  "title": "Oblivion Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "500+",
+  "minInstalls": 500,
+  "released": "Nov 13, 2021",
+  "releasedTs": 1636761600,
+  "summary": "Oblivion Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "25 Color Options: Tap the Active Design Logo to Change Colors and match your mood effortlessly.",
+   "6x Hand Options: Customize your watch face with a variety of hand styles to suit your preference.",
+   "Date Display: Stay informed with the date always at a glance.",
+   "Battery Indicator: Keep track of your watch's battery level throughout the day.",
+   "Heart Rate Monitoring: Stay on top of your health with real-time heart rate monitoring.",
+   "Steps Counter & Goal: Set and achieve your daily step goals with the integrated steps counter.",
+   "Always-On Display Mode: Enjoy convenience and style with the always-on display mode."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 25,
+  "icon": "faces/oblivion/icon.webp",
+  "header": "faces/oblivion/header.webp",
+  "variants": [
+   {
+    "src": "faces/oblivion/v0.webp",
+    "color": "#d81500"
+   },
+   {
+    "src": "faces/oblivion/v1.webp",
+    "color": "#d8005a"
+   },
+   {
+    "src": "faces/oblivion/v2.webp",
+    "color": "#d800af"
+   },
+   {
+    "src": "faces/oblivion/v3.webp",
+    "color": "#aa00dc"
+   },
+   {
+    "src": "faces/oblivion/v4.webp",
+    "color": "#5600d8"
+   },
+   {
+    "src": "faces/oblivion/v5.webp",
+    "color": "#02bfd8"
+   },
+   {
+    "src": "faces/oblivion/v6.webp",
+    "color": "#04d8b5"
+   },
+   {
+    "src": "faces/oblivion/v7.webp",
+    "color": "#09d886"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/oblivion/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/oblivion/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/oblivion/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/oblivion/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/oblivion/w0.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/oblivion/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/oblivion/w2.webp",
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "video": "https://www.youtube.com/embed/6ysQmjq6r34",
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.oblivion",
+  "clip": "video/oblivion.mp4"
+ },
+ {
+  "id": "com.activewatchdesign.essentialsvii",
+  "slug": "essentials",
+  "name": "Essentials 7",
+  "title": "Essentials Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 0,
+  "priceText": "Free",
+  "free": true,
+  "rating": 4.4,
+  "ratings": 188,
+  "installs": "50,000+",
+  "minInstalls": 50000,
+  "released": "Oct 8, 2021",
+  "releasedTs": 1633651200,
+  "summary": "Minimal analog watch face with vibrant colors and custom shortcuts.",
+  "features": [
+   "Key Features",
+   "Vibrant Colors: Personalize your look with stunning color options to match your mood or outfit.",
+   "Custom Shortcuts: Access your favorite apps and tools instantly for maximum convenience.",
+   "Heart Rate Monitor: Stay connected to your health with real-time heart rate tracking.",
+   "Battery Indicator: Keep an eye on your power status and stay prepared all day.",
+   "Date Display: View the current date at a glance to stay punctual and organized.",
+   "Always-On Display (AOD): Enjoy an elegant, low-power display that’s always visible when you need it."
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 8,
+  "icon": "faces/essentials/icon.webp",
+  "header": "faces/essentials/header.webp",
+  "variants": [
+   {
+    "src": "faces/essentials/v0.webp",
+    "color": "#d80d0c"
+   },
+   {
+    "src": "faces/essentials/v1.webp",
+    "color": "#d80f40"
+   },
+   {
+    "src": "faces/essentials/v2.webp",
+    "color": "#d81177"
+   },
+   {
+    "src": "faces/essentials/v3.webp",
+    "color": "#d814ac"
+   },
+   {
+    "src": "faces/essentials/v4.webp",
+    "color": "#b916d8"
+   },
+   {
+    "src": "faces/essentials/v5.webp",
+    "color": "#8919d8"
+   },
+   {
+    "src": "faces/essentials/v6.webp",
+    "color": "#662ad8"
+   },
+   {
+    "src": "faces/essentials/v7.webp",
+    "color": "#412cd8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/essentials/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/essentials/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/essentials/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/essentials/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/essentials/w0.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/essentials/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/essentials/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentialsvii",
+  "clip": null
+ },
+ {
+  "id": "com.activewatchdesign.essentialsvi",
+  "slug": "essentials-analog",
+  "name": "Essentials Analog",
+  "title": "Essentials: Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 0,
+  "priceText": "Free",
+  "free": true,
+  "rating": 3.9,
+  "ratings": 252,
+  "installs": "100,000+",
+  "minInstalls": 100000,
+  "released": "Oct 4, 2021",
+  "releasedTs": 1633305600,
+  "summary": "Elegant analog watch face with colors and smart customization.",
+  "features": [
+   "Key Features",
+   "Vibrant Colors: Personalize your watch face with stunning color options to match your mood, outfit, or style.",
+   "Custom Shortcuts: Instantly access your favorite apps with shortcuts positioned at 2, 4, 8, and 10 o’clock.",
+   "Battery Indicator: Keep an eye on your battery level and stay powered throughout the day.",
+   "Date Display: Stay organized and informed with a clean, easy-to-read date display."
+  ],
+  "tags": [
+   "aod",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 8,
+  "icon": "faces/essentials-analog/icon.webp",
+  "header": "faces/essentials-analog/header.webp",
+  "variants": [
+   {
+    "src": "faces/essentials-analog/v0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-analog/v1.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-analog/v2.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-analog/v3.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-analog/v4.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-analog/v5.webp",
+    "color": "#d84982"
+   },
+   {
+    "src": "faces/essentials-analog/v6.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/essentials-analog/v7.webp",
+    "color": "#d88804"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/essentials-analog/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/essentials-analog/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/essentials-analog/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/essentials-analog/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/essentials-analog/w0.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/essentials-analog/w1.webp",
+    "w": 900,
+    "h": 506
+   },
+   {
+    "src": "faces/essentials-analog/w2.webp",
+    "w": 900,
+    "h": 506
+   }
+  ],
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentialsvi",
+  "clip": null
+ }
+]
