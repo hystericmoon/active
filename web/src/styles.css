@@ -1560,7 +1560,7 @@ main > section + section {
     justify-content: flex-start;
   }
   .gallery__sheet {
-    columns: 4;
+    columns: 5;
   }
 
   .index {

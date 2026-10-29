@@ -2,7 +2,7 @@
 
 A catalogue site for the Wear OS watch faces Active Design publishes on
 [Google Play](https://play.google.com/store/apps/dev?id=6754954524679457149).
-Visitors browse all faces, filter by style (digital, hybrid, analog) and by what is
+Visitors browse all 63 faces, filter by style (digital, hybrid, analog) and by what is
 on the dial, open a face to turn it on a 3D watch and try each of its colours, then
 go to its Play listing.
 
