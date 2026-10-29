@@ -7,8 +7,5 @@ export default defineConfig({
   plugins: [react()],
   build: {
     chunkSizeWarningLimit: 1500,
-    rollupOptions: {
-      output: { manualChunks: { three: ['three', '@react-three/fiber', '@react-three/drei'] } },
-    },
   },
 });

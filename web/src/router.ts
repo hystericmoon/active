@@ -26,11 +26,12 @@ export function useFaceRoute() {
   const [slug, setSlug] = useState(read);
   useEffect(() => {
     // Links shared before the switch to real paths used `#/face/<slug>`.
-    const legacy = window.location.hash.match(/^#\/face\/([^/]+)/);
-    if (legacy) {
-      window.history.replaceState(null, '', faceHref(legacy[1]));
-      setSlug(legacy[1]);
-    }
+    const legacy = () => {
+      const m = window.location.hash.match(/^#\/face\/([^/]+)/);
+      if (m) window.history.replaceState(null, '', faceHref(m[1]));
+      setSlug(read());
+    };
+    legacy();
     const on = () => setSlug(read());
     // Face links are ordinary anchors; inside the app they open without a page load.
     const click = (e: MouseEvent) => {
@@ -42,9 +43,11 @@ export function useFaceRoute() {
       openPath(a.pathname);
     };
     window.addEventListener('popstate', on);
+    window.addEventListener('hashchange', legacy);
     document.addEventListener('click', click);
     return () => {
       window.removeEventListener('popstate', on);
+      window.removeEventListener('hashchange', legacy);
       document.removeEventListener('click', click);
     };
   }, []);

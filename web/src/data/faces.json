@@ -38,34 +38,42 @@
   "colorCount": 7,
   "icon": "faces/crimson/icon.webp",
   "header": "faces/crimson/header.webp",
+  "og": "faces/crimson/og.jpg",
   "variants": [
    {
     "src": "faces/crimson/v0.webp",
-    "color": "#23d8c4"
+    "thumb": "faces/crimson/t0.webp",
+    "color": "#25d9c5"
    },
    {
     "src": "faces/crimson/v1.webp",
-    "color": "#4330d8"
+    "thumb": "faces/crimson/t1.webp",
+    "color": "#4432d9"
    },
    {
     "src": "faces/crimson/v2.webp",
-    "color": "#d8003d"
+    "thumb": "faces/crimson/t2.webp",
+    "color": "#d9003e"
    },
    {
     "src": "faces/crimson/v3.webp",
-    "color": "#23d8c4"
+    "thumb": "faces/crimson/t3.webp",
+    "color": "#24d9c6"
    },
    {
     "src": "faces/crimson/v4.webp",
-    "color": "#00d852"
+    "thumb": "faces/crimson/t4.webp",
+    "color": "#00d952"
    },
    {
     "src": "faces/crimson/v5.webp",
-    "color": "#91d800"
+    "thumb": "faces/crimson/t5.webp",
+    "color": "#93d900"
    },
    {
     "src": "faces/crimson/v6.webp",
-    "color": "#d80088"
+    "thumb": "faces/crimson/t6.webp",
+    "color": "#d90089"
    }
   ],
   "promos": [
@@ -93,23 +101,23 @@
   "wides": [
    {
     "src": "faces/crimson/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/crimson/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/crimson/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/crimson.mp4",
   "video": "https://www.youtube.com/embed/3G3puXcCfiY",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.crimson.activedesign",
-  "clip": "video/crimson.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.crimson.activedesign"
  },
  {
   "id": "com.watchfacestudio.rediscovery.activedesign",
@@ -146,34 +154,42 @@
   "colorCount": 7,
   "icon": "faces/rediscovery/icon.webp",
   "header": "faces/rediscovery/header.webp",
+  "og": "faces/rediscovery/og.jpg",
   "variants": [
    {
     "src": "faces/rediscovery/v0.webp",
-    "color": "#d8003c"
+    "thumb": "faces/rediscovery/t0.webp",
+    "color": "#d90040"
    },
    {
     "src": "faces/rediscovery/v1.webp",
-    "color": "#24d8c2"
+    "thumb": "faces/rediscovery/t1.webp",
+    "color": "#1cd9c5"
    },
    {
     "src": "faces/rediscovery/v2.webp",
-    "color": "#d80084"
+    "thumb": "faces/rediscovery/t2.webp",
+    "color": "#d90089"
    },
    {
     "src": "faces/rediscovery/v3.webp",
-    "color": "#05d853"
+    "thumb": "faces/rediscovery/t3.webp",
+    "color": "#00d953"
    },
    {
     "src": "faces/rediscovery/v4.webp",
-    "color": "#d2d800"
+    "thumb": "faces/rediscovery/t4.webp",
+    "color": "#d3d900"
    },
    {
     "src": "faces/rediscovery/v5.webp",
-    "color": "#4c3ad8"
+    "thumb": "faces/rediscovery/t5.webp",
+    "color": "#4b37d9"
    },
    {
     "src": "faces/rediscovery/v6.webp",
-    "color": "#8fd801"
+    "thumb": "faces/rediscovery/t6.webp",
+    "color": "#93d900"
    }
   ],
   "promos": [
@@ -201,112 +217,13 @@
   "wides": [
    {
     "src": "faces/rediscovery/w0.webp",
-    "w": 512,
-    "h": 512
+    "w": 800,
+    "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rediscovery.activedesign",
-  "clip": null
- },
- {
-  "id": "com.watchfacestudio.solace.activedesign",
-  "slug": "solace",
-  "name": "Solace",
-  "title": "Solace: Analog Watch Face",
-  "category": "analog",
-  "diver": false,
-  "price": 1.99,
-  "priceText": "$1.99",
-  "free": false,
-  "rating": null,
-  "ratings": 0,
-  "installs": "100+",
-  "minInstalls": 100,
-  "released": "Dec 6, 2025",
-  "releasedTs": 1764979200,
-  "summary": "Elegant analog watch face with rich customization and daily essentials.",
-  "features": [
-   "Timeless analog design with smooth hand movement",
-   "Multiple color combinations and 5 elegant backgrounds",
-   "10 unique analog hand styles",
-   "3 customizable complications",
-   "4 custom app shortcuts for quick access",
-   "Heart rate (BPM)*, steps*, battery level, and date",
-   "Always-On Display (AOD) support with battery-optimized dim mode",
-   "Lightweight, power-efficient, and built for daily use"
-  ],
-  "tags": [
-   "aod",
-   "heart",
-   "steps",
-   "battery",
-   "shortcuts",
-   "complications"
-  ],
-  "colorCount": 8,
-  "icon": "faces/solace/icon.webp",
-  "header": "faces/solace/header.webp",
-  "variants": [
-   {
-    "src": "faces/solace/v0.webp",
-    "color": "#e8e8e8"
-   },
-   {
-    "src": "faces/solace/v1.webp",
-    "color": "#d1d808"
-   },
-   {
-    "src": "faces/solace/v2.webp",
-    "color": "#93d812"
-   },
-   {
-    "src": "faces/solace/v3.webp",
-    "color": "#0ad856"
-   },
-   {
-    "src": "faces/solace/v4.webp",
-    "color": "#26d8c3"
-   },
-   {
-    "src": "faces/solace/v5.webp",
-    "color": "#4431d8"
-   },
-   {
-    "src": "faces/solace/v6.webp",
-    "color": "#e8e8e8"
-   },
-   {
-    "src": "faces/solace/v7.webp",
-    "color": "#d8003d"
-   }
-  ],
-  "promos": [
-   {
-    "src": "faces/solace/p0.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/solace/p1.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/solace/p2.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/solace/p3.webp",
-    "w": 560,
-    "h": 996
-   }
-  ],
-  "wides": [],
-  "video": "https://www.youtube.com/embed/zyDyH7eeISA",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.solace.activedesign",
-  "clip": "video/solace.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rediscovery.activedesign"
  },
  {
   "id": "com.watchfacestudio.rush3.activedesign",
@@ -347,38 +264,47 @@
   "colorCount": 8,
   "icon": "faces/rush-3/icon.webp",
   "header": "faces/rush-3/header.webp",
+  "og": "faces/rush-3/og.jpg",
   "variants": [
    {
     "src": "faces/rush-3/v0.webp",
+    "thumb": "faces/rush-3/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/rush-3/v1.webp",
+    "thumb": "faces/rush-3/t1.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/rush-3/v2.webp",
-    "color": "#aba2ef"
+    "thumb": "faces/rush-3/t2.webp",
+    "color": "#a9a0ed"
    },
    {
     "src": "faces/rush-3/v3.webp",
-    "color": "#4c00d8"
+    "thumb": "faces/rush-3/t3.webp",
+    "color": "#4d00d9"
    },
    {
     "src": "faces/rush-3/v4.webp",
-    "color": "#18d8c2"
+    "thumb": "faces/rush-3/t4.webp",
+    "color": "#19d9c3"
    },
    {
     "src": "faces/rush-3/v5.webp",
-    "color": "#00d851"
+    "thumb": "faces/rush-3/t5.webp",
+    "color": "#00d951"
    },
    {
     "src": "faces/rush-3/v6.webp",
+    "thumb": "faces/rush-3/t6.webp",
     "color": "#91d900"
    },
    {
     "src": "faces/rush-3/v7.webp",
-    "color": "#bbd900"
+    "thumb": "faces/rush-3/t7.webp",
+    "color": "#bcd900"
    }
   ],
   "promos": [
@@ -404,9 +330,117 @@
    }
   ],
   "wides": [],
+  "clip": "video/rush-3.mp4",
   "video": "https://www.youtube.com/embed/lNf8KGjTwXU",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush3.activedesign",
-  "clip": "video/rush-3.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush3.activedesign"
+ },
+ {
+  "id": "com.watchfacestudio.solace.activedesign",
+  "slug": "solace",
+  "name": "Solace",
+  "title": "Solace: Analog Watch Face",
+  "category": "analog",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Dec 6, 2025",
+  "releasedTs": 1764979200,
+  "summary": "Elegant analog watch face with rich customization and daily essentials.",
+  "features": [
+   "Timeless analog design with smooth hand movement",
+   "Multiple color combinations and 5 elegant backgrounds",
+   "10 unique analog hand styles",
+   "3 customizable complications",
+   "4 custom app shortcuts for quick access",
+   "Heart rate (BPM)*, steps*, battery level, and date",
+   "Always-On Display (AOD) support with battery-optimized dim mode",
+   "Lightweight, power-efficient, and built for daily use"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/solace/icon.webp",
+  "header": "faces/solace/header.webp",
+  "og": "faces/solace/og.jpg",
+  "variants": [
+   {
+    "src": "faces/solace/v0.webp",
+    "thumb": "faces/solace/t0.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/solace/v1.webp",
+    "thumb": "faces/solace/t1.webp",
+    "color": "#d2d901"
+   },
+   {
+    "src": "faces/solace/v2.webp",
+    "thumb": "faces/solace/t2.webp",
+    "color": "#92d908"
+   },
+   {
+    "src": "faces/solace/v3.webp",
+    "thumb": "faces/solace/t3.webp",
+    "color": "#06d955"
+   },
+   {
+    "src": "faces/solace/v4.webp",
+    "thumb": "faces/solace/t4.webp",
+    "color": "#23d9c3"
+   },
+   {
+    "src": "faces/solace/v5.webp",
+    "thumb": "faces/solace/t5.webp",
+    "color": "#4330d9"
+   },
+   {
+    "src": "faces/solace/v6.webp",
+    "thumb": "faces/solace/t6.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/solace/v7.webp",
+    "thumb": "faces/solace/t7.webp",
+    "color": "#d9003d"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/solace/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/solace/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/solace/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/solace/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "clip": "video/solace.mp4",
+  "video": "https://www.youtube.com/embed/zyDyH7eeISA",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.solace.activedesign"
  },
  {
   "id": "com.watchfacestudio.abyss.activedesign",
@@ -448,38 +482,47 @@
   "colorCount": 8,
   "icon": "faces/abyss/icon.webp",
   "header": "faces/abyss/header.webp",
+  "og": "faces/abyss/og.jpg",
   "variants": [
    {
     "src": "faces/abyss/v0.webp",
-    "color": "#d2d800"
+    "thumb": "faces/abyss/t0.webp",
+    "color": "#d3d900"
    },
    {
     "src": "faces/abyss/v1.webp",
+    "thumb": "faces/abyss/t1.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/abyss/v2.webp",
-    "color": "#4330d8"
+    "thumb": "faces/abyss/t2.webp",
+    "color": "#4431d9"
    },
    {
     "src": "faces/abyss/v3.webp",
-    "color": "#1ad8c3"
+    "thumb": "faces/abyss/t3.webp",
+    "color": "#1ad9c5"
    },
    {
     "src": "faces/abyss/v4.webp",
-    "color": "#d8003e"
+    "thumb": "faces/abyss/t4.webp",
+    "color": "#d9003e"
    },
    {
     "src": "faces/abyss/v5.webp",
-    "color": "#8fd800"
+    "thumb": "faces/abyss/t5.webp",
+    "color": "#8fd900"
    },
    {
     "src": "faces/abyss/v6.webp",
-    "color": "#d80087"
+    "thumb": "faces/abyss/t6.webp",
+    "color": "#d90088"
    },
    {
     "src": "faces/abyss/v7.webp",
-    "color": "#00d851"
+    "thumb": "faces/abyss/t7.webp",
+    "color": "#00d952"
    }
   ],
   "promos": [
@@ -505,9 +548,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/abyss.mp4",
   "video": "https://www.youtube.com/embed/SiIxZiHr1XE",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.abyss.activedesign",
-  "clip": "video/abyss.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.abyss.activedesign"
  },
  {
   "id": "com.watchfacestudio.astro.activedesign",
@@ -549,38 +592,47 @@
   "colorCount": 8,
   "icon": "faces/astro/icon.webp",
   "header": "faces/astro/header.webp",
+  "og": "faces/astro/og.jpg",
   "variants": [
    {
     "src": "faces/astro/v0.webp",
-    "color": "#dec900"
+    "thumb": "faces/astro/t0.webp",
+    "color": "#decb00"
    },
    {
     "src": "faces/astro/v1.webp",
-    "color": "#4d00d8"
+    "thumb": "faces/astro/t1.webp",
+    "color": "#4e00d9"
    },
    {
     "src": "faces/astro/v2.webp",
-    "color": "#d80087"
+    "thumb": "faces/astro/t2.webp",
+    "color": "#d90088"
    },
    {
     "src": "faces/astro/v3.webp",
-    "color": "#4d00d8"
+    "thumb": "faces/astro/t3.webp",
+    "color": "#4e00d9"
    },
    {
     "src": "faces/astro/v4.webp",
-    "color": "#7600d8"
+    "thumb": "faces/astro/t4.webp",
+    "color": "#7700d9"
    },
    {
     "src": "faces/astro/v5.webp",
-    "color": "#bcd900"
+    "thumb": "faces/astro/t5.webp",
+    "color": "#bdd900"
    },
    {
     "src": "faces/astro/v6.webp",
-    "color": "#d80289"
+    "thumb": "faces/astro/t6.webp",
+    "color": "#d9028a"
    },
    {
     "src": "faces/astro/v7.webp",
-    "color": "#d9003e"
+    "thumb": "faces/astro/t7.webp",
+    "color": "#db003f"
    }
   ],
   "promos": [
@@ -606,9 +658,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/astro.mp4",
   "video": "https://www.youtube.com/embed/BRAkAqxheT8",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.astro.activedesign",
-  "clip": "video/astro.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.astro.activedesign"
  },
  {
   "id": "com.watchfacestudio.eclipse.activedesign",
@@ -650,38 +702,47 @@
   "colorCount": 8,
   "icon": "faces/eclipse/icon.webp",
   "header": "faces/eclipse/header.webp",
+  "og": "faces/eclipse/og.jpg",
   "variants": [
    {
     "src": "faces/eclipse/v0.webp",
-    "color": "#b9d800"
+    "thumb": "faces/eclipse/t0.webp",
+    "color": "#b9d900"
    },
    {
     "src": "faces/eclipse/v1.webp",
-    "color": "#d8003c"
+    "thumb": "faces/eclipse/t1.webp",
+    "color": "#d9003c"
    },
    {
     "src": "faces/eclipse/v2.webp",
-    "color": "#d8003b"
+    "thumb": "faces/eclipse/t2.webp",
+    "color": "#d9003c"
    },
    {
     "src": "faces/eclipse/v3.webp",
-    "color": "#4d03d8"
+    "thumb": "faces/eclipse/t3.webp",
+    "color": "#4d03d9"
    },
    {
     "src": "faces/eclipse/v4.webp",
-    "color": "#4c01d8"
+    "thumb": "faces/eclipse/t4.webp",
+    "color": "#4c01d9"
    },
    {
     "src": "faces/eclipse/v5.webp",
-    "color": "#00d854"
+    "thumb": "faces/eclipse/t5.webp",
+    "color": "#00d954"
    },
    {
     "src": "faces/eclipse/v6.webp",
-    "color": "#4d03d8"
+    "thumb": "faces/eclipse/t6.webp",
+    "color": "#4d03d9"
    },
    {
     "src": "faces/eclipse/v7.webp",
-    "color": "#b9d800"
+    "thumb": "faces/eclipse/t7.webp",
+    "color": "#b9d900"
    }
   ],
   "promos": [
@@ -707,9 +768,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.eclipse.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.eclipse.activedesign"
  },
  {
   "id": "com.watchfacestudio.stratos.activedesign",
@@ -751,38 +812,47 @@
   "colorCount": 8,
   "icon": "faces/stratos/icon.webp",
   "header": "faces/stratos/header.webp",
+  "og": "faces/stratos/og.jpg",
   "variants": [
    {
     "src": "faces/stratos/v0.webp",
+    "thumb": "faces/stratos/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/stratos/v1.webp",
-    "color": "#5e1ad8"
+    "thumb": "faces/stratos/t1.webp",
+    "color": "#5e1ad9"
    },
    {
     "src": "faces/stratos/v2.webp",
-    "color": "#d8003d"
+    "thumb": "faces/stratos/t2.webp",
+    "color": "#d9003e"
    },
    {
     "src": "faces/stratos/v3.webp",
-    "color": "#00d85a"
+    "thumb": "faces/stratos/t3.webp",
+    "color": "#00d95b"
    },
    {
     "src": "faces/stratos/v4.webp",
-    "color": "#d2d806"
+    "thumb": "faces/stratos/t4.webp",
+    "color": "#d3d906"
    },
    {
     "src": "faces/stratos/v5.webp",
-    "color": "#00d8c3"
+    "thumb": "faces/stratos/t5.webp",
+    "color": "#01d9c5"
    },
    {
     "src": "faces/stratos/v6.webp",
-    "color": "#d80086"
+    "thumb": "faces/stratos/t6.webp",
+    "color": "#d90088"
    },
    {
     "src": "faces/stratos/v7.webp",
-    "color": "#63d892"
+    "thumb": "faces/stratos/t7.webp",
+    "color": "#65d993"
    }
   ],
   "promos": [
@@ -808,9 +878,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/stratos.mp4",
   "video": "https://www.youtube.com/embed/4qPJoQrZm5Y",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stratos.activedesign",
-  "clip": "video/stratos.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stratos.activedesign"
  },
  {
   "id": "com.watchfacestudio.odyssey3.activedesign",
@@ -853,38 +923,47 @@
   "colorCount": 8,
   "icon": "faces/odyssey-3/icon.webp",
   "header": "faces/odyssey-3/header.webp",
+  "og": "faces/odyssey-3/og.jpg",
   "variants": [
    {
     "src": "faces/odyssey-3/v0.webp",
-    "color": "#d80003"
+    "thumb": "faces/odyssey-3/t0.webp",
+    "color": "#d90003"
    },
    {
     "src": "faces/odyssey-3/v1.webp",
-    "color": "#d80003"
+    "thumb": "faces/odyssey-3/t1.webp",
+    "color": "#d90003"
    },
    {
     "src": "faces/odyssey-3/v2.webp",
-    "color": "#d80003"
+    "thumb": "faces/odyssey-3/t2.webp",
+    "color": "#d90003"
    },
    {
     "src": "faces/odyssey-3/v3.webp",
-    "color": "#d8003c"
+    "thumb": "faces/odyssey-3/t3.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/odyssey-3/v4.webp",
-    "color": "#d80000"
+    "thumb": "faces/odyssey-3/t4.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/odyssey-3/v5.webp",
-    "color": "#d84382"
+    "thumb": "faces/odyssey-3/t5.webp",
+    "color": "#d94383"
    },
    {
     "src": "faces/odyssey-3/v6.webp",
-    "color": "#d82531"
+    "thumb": "faces/odyssey-3/t6.webp",
+    "color": "#d92531"
    },
    {
     "src": "faces/odyssey-3/v7.webp",
-    "color": "#d89004"
+    "thumb": "faces/odyssey-3/t7.webp",
+    "color": "#d99104"
    }
   ],
   "promos": [
@@ -910,9 +989,113 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odyssey3.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odyssey3.activedesign"
+ },
+ {
+  "id": "com.watchfacestudio.discovery.activedesign",
+  "slug": "discovery",
+  "name": "Discovery",
+  "title": "Discovery: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": null,
+  "ratings": 0,
+  "installs": "100+",
+  "minInstalls": 100,
+  "released": "Jul 13, 2025",
+  "releasedTs": 1752364800,
+  "summary": "Discovery Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "Always-on display",
+   "Heart rate, tap to measure",
+   "Step counter",
+   "Battery level",
+   "Customisable shortcuts"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "shortcuts"
+  ],
+  "colorCount": 10,
+  "icon": "faces/discovery/icon.webp",
+  "header": "faces/discovery/header.webp",
+  "og": "faces/discovery/og.jpg",
+  "variants": [
+   {
+    "src": "faces/discovery/v0.webp",
+    "thumb": "faces/discovery/t0.webp",
+    "color": "#3f00d9"
+   },
+   {
+    "src": "faces/discovery/v1.webp",
+    "thumb": "faces/discovery/t1.webp",
+    "color": "#3f00d9"
+   },
+   {
+    "src": "faces/discovery/v2.webp",
+    "thumb": "faces/discovery/t2.webp",
+    "color": "#d9001b"
+   },
+   {
+    "src": "faces/discovery/v3.webp",
+    "thumb": "faces/discovery/t3.webp",
+    "color": "#d92199"
+   },
+   {
+    "src": "faces/discovery/v4.webp",
+    "thumb": "faces/discovery/t4.webp",
+    "color": "#d91064"
+   },
+   {
+    "src": "faces/discovery/v5.webp",
+    "thumb": "faces/discovery/t5.webp",
+    "color": "#d9004e"
+   },
+   {
+    "src": "faces/discovery/v6.webp",
+    "thumb": "faces/discovery/t6.webp",
+    "color": "#d928bd"
+   },
+   {
+    "src": "faces/discovery/v7.webp",
+    "thumb": "faces/discovery/t7.webp",
+    "color": "#12d9b9"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/discovery/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/discovery/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/discovery/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/discovery/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [],
+  "clip": null,
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.discovery.activedesign"
  },
  {
   "id": "com.watchfacestudio.omni.activedesign",
@@ -954,38 +1137,47 @@
   "colorCount": 8,
   "icon": "faces/omni/icon.webp",
   "header": "faces/omni/header.webp",
+  "og": "faces/omni/og.jpg",
   "variants": [
    {
     "src": "faces/omni/v0.webp",
-    "color": "#8ee100"
+    "thumb": "faces/omni/t0.webp",
+    "color": "#8fe200"
    },
    {
     "src": "faces/omni/v1.webp",
-    "color": "#e21f96"
+    "thumb": "faces/omni/t1.webp",
+    "color": "#e31f97"
    },
    {
     "src": "faces/omni/v2.webp",
-    "color": "#098edd"
+    "thumb": "faces/omni/t2.webp",
+    "color": "#0a8fde"
    },
    {
     "src": "faces/omni/v3.webp",
-    "color": "#09e4ce"
+    "thumb": "faces/omni/t3.webp",
+    "color": "#09e4cf"
    },
    {
     "src": "faces/omni/v4.webp",
-    "color": "#1be0a8"
+    "thumb": "faces/omni/t4.webp",
+    "color": "#1bdca5"
    },
    {
     "src": "faces/omni/v5.webp",
-    "color": "#e20d32"
+    "thumb": "faces/omni/t5.webp",
+    "color": "#e30e33"
    },
    {
     "src": "faces/omni/v6.webp",
-    "color": "#90e400"
+    "thumb": "faces/omni/t6.webp",
+    "color": "#91e400"
    },
    {
     "src": "faces/omni/v7.webp",
-    "color": "#8fe300"
+    "thumb": "faces/omni/t7.webp",
+    "color": "#91e400"
    }
   ],
   "promos": [
@@ -1011,104 +1203,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/omni.mp4",
   "video": "https://www.youtube.com/embed/jwNzdkVdaXY",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omni.activedesign",
-  "clip": "video/omni.mp4"
- },
- {
-  "id": "com.watchfacestudio.discovery.activedesign",
-  "slug": "discovery",
-  "name": "Discovery",
-  "title": "Discovery: Digital Watch Face",
-  "category": "digital",
-  "diver": false,
-  "price": 1.99,
-  "priceText": "$1.99",
-  "free": false,
-  "rating": null,
-  "ratings": 0,
-  "installs": "100+",
-  "minInstalls": 100,
-  "released": "Jul 13, 2025",
-  "releasedTs": 1752364800,
-  "summary": "Discovery Digital Watch Face for Wear OS by Active Design",
-  "features": [
-   "Always-on display",
-   "Heart rate, tap to measure",
-   "Step counter",
-   "Battery level",
-   "Customisable shortcuts"
-  ],
-  "tags": [
-   "aod",
-   "heart",
-   "steps",
-   "battery",
-   "shortcuts"
-  ],
-  "colorCount": 10,
-  "icon": "faces/discovery/icon.webp",
-  "header": "faces/discovery/header.webp",
-  "variants": [
-   {
-    "src": "faces/discovery/v0.webp",
-    "color": "#3f00d8"
-   },
-   {
-    "src": "faces/discovery/v1.webp",
-    "color": "#3f00d8"
-   },
-   {
-    "src": "faces/discovery/v2.webp",
-    "color": "#d8001b"
-   },
-   {
-    "src": "faces/discovery/v3.webp",
-    "color": "#d81c98"
-   },
-   {
-    "src": "faces/discovery/v4.webp",
-    "color": "#d80e63"
-   },
-   {
-    "src": "faces/discovery/v5.webp",
-    "color": "#d8004c"
-   },
-   {
-    "src": "faces/discovery/v6.webp",
-    "color": "#d827b9"
-   },
-   {
-    "src": "faces/discovery/v7.webp",
-    "color": "#11d8b8"
-   }
-  ],
-  "promos": [
-   {
-    "src": "faces/discovery/p0.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/discovery/p1.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/discovery/p2.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/discovery/p3.webp",
-    "w": 560,
-    "h": 996
-   }
-  ],
-  "wides": [],
-  "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.discovery.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omni.activedesign"
  },
  {
   "id": "com.watchfacestudio.hyperionhybrid.activedesign",
@@ -1151,22 +1248,27 @@
   "colorCount": 4,
   "icon": "faces/hyperion/icon.webp",
   "header": "faces/hyperion/header.webp",
+  "og": "faces/hyperion/og.jpg",
   "variants": [
    {
     "src": "faces/hyperion/v0.webp",
-    "color": "#d4d801"
+    "thumb": "faces/hyperion/t0.webp",
+    "color": "#d4d900"
    },
    {
     "src": "faces/hyperion/v1.webp",
-    "color": "#d80087"
+    "thumb": "faces/hyperion/t1.webp",
+    "color": "#d90089"
    },
    {
     "src": "faces/hyperion/v2.webp",
-    "color": "#4936db"
+    "thumb": "faces/hyperion/t2.webp",
+    "color": "#4936df"
    },
    {
     "src": "faces/hyperion/v3.webp",
-    "color": "#91d802"
+    "thumb": "faces/hyperion/t3.webp",
+    "color": "#93d900"
    }
   ],
   "promos": [
@@ -1194,23 +1296,23 @@
   "wides": [
    {
     "src": "faces/hyperion/w0.webp",
-    "w": 512,
-    "h": 512
+    "w": 800,
+    "h": 800
    },
    {
     "src": "faces/hyperion/w1.webp",
-    "w": 512,
-    "h": 512
+    "w": 800,
+    "h": 800
    },
    {
     "src": "faces/hyperion/w2.webp",
-    "w": 512,
-    "h": 512
+    "w": 800,
+    "h": 800
    }
   ],
+  "clip": "video/hyperion.mp4",
   "video": "https://www.youtube.com/embed/dwHV1KlF-64",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hyperionhybrid.activedesign",
-  "clip": "video/hyperion.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hyperionhybrid.activedesign"
  },
  {
   "id": "com.watchfacestudio.odyssey2hybrid.activedesign",
@@ -1253,38 +1355,47 @@
   "colorCount": 8,
   "icon": "faces/odyssey-2/icon.webp",
   "header": "faces/odyssey-2/header.webp",
+  "og": "faces/odyssey-2/og.jpg",
   "variants": [
    {
     "src": "faces/odyssey-2/v0.webp",
-    "color": "#7f49d8"
+    "thumb": "faces/odyssey-2/t0.webp",
+    "color": "#8049d9"
    },
    {
     "src": "faces/odyssey-2/v1.webp",
-    "color": "#d3d802"
+    "thumb": "faces/odyssey-2/t1.webp",
+    "color": "#d3d902"
    },
    {
     "src": "faces/odyssey-2/v2.webp",
-    "color": "#92d808"
+    "thumb": "faces/odyssey-2/t2.webp",
+    "color": "#92d907"
    },
    {
     "src": "faces/odyssey-2/v3.webp",
+    "thumb": "faces/odyssey-2/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/odyssey-2/v4.webp",
-    "color": "#03d852"
+    "thumb": "faces/odyssey-2/t4.webp",
+    "color": "#04d953"
    },
    {
     "src": "faces/odyssey-2/v5.webp",
+    "thumb": "faces/odyssey-2/t5.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/odyssey-2/v6.webp",
-    "color": "#22d8c3"
+    "thumb": "faces/odyssey-2/t6.webp",
+    "color": "#23d9c3"
    },
    {
     "src": "faces/odyssey-2/v7.webp",
-    "color": "#4f3dd8"
+    "thumb": "faces/odyssey-2/t7.webp",
+    "color": "#4e3cd9"
    }
   ],
   "promos": [
@@ -1310,9 +1421,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/odyssey-2.mp4",
   "video": "https://www.youtube.com/embed/MJW6SO9lgfM",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odyssey2hybrid.activedesign",
-  "clip": "video/odyssey-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odyssey2hybrid.activedesign"
  },
  {
   "id": "com.watchfacestudio.celestrix.activedesign",
@@ -1355,38 +1466,47 @@
   "colorCount": 8,
   "icon": "faces/celestrix/icon.webp",
   "header": "faces/celestrix/header.webp",
+  "og": "faces/celestrix/og.jpg",
   "variants": [
    {
     "src": "faces/celestrix/v0.webp",
+    "thumb": "faces/celestrix/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/celestrix/v1.webp",
-    "color": "#4c00d8"
+    "thumb": "faces/celestrix/t1.webp",
+    "color": "#4c00d9"
    },
    {
     "src": "faces/celestrix/v2.webp",
-    "color": "#d8c900"
+    "thumb": "faces/celestrix/t2.webp",
+    "color": "#d9c900"
    },
    {
     "src": "faces/celestrix/v3.webp",
-    "color": "#9b92d8"
+    "thumb": "faces/celestrix/t3.webp",
+    "color": "#9b92d9"
    },
    {
     "src": "faces/celestrix/v4.webp",
-    "color": "#d8d007"
+    "thumb": "faces/celestrix/t4.webp",
+    "color": "#d9d007"
    },
    {
     "src": "faces/celestrix/v5.webp",
-    "color": "#a785d8"
+    "thumb": "faces/celestrix/t5.webp",
+    "color": "#a885d9"
    },
    {
     "src": "faces/celestrix/v6.webp",
-    "color": "#8400d8"
+    "thumb": "faces/celestrix/t6.webp",
+    "color": "#8500d9"
    },
    {
     "src": "faces/celestrix/v7.webp",
-    "color": "#d8a720"
+    "thumb": "faces/celestrix/t7.webp",
+    "color": "#d9a721"
    }
   ],
   "promos": [
@@ -1412,9 +1532,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.celestrix.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.celestrix.activedesign"
  },
  {
   "id": "com.watchfacestudio.rush2digital.activedesign",
@@ -1451,38 +1571,47 @@
   "colorCount": 8,
   "icon": "faces/rush-2/icon.webp",
   "header": "faces/rush-2/header.webp",
+  "og": "faces/rush-2/og.jpg",
   "variants": [
    {
     "src": "faces/rush-2/v0.webp",
-    "color": "#00d8bc"
+    "thumb": "faces/rush-2/t0.webp",
+    "color": "#00d9be"
    },
    {
     "src": "faces/rush-2/v1.webp",
-    "color": "#2dd845"
+    "thumb": "faces/rush-2/t1.webp",
+    "color": "#2dd946"
    },
    {
     "src": "faces/rush-2/v2.webp",
-    "color": "#d8a13b"
+    "thumb": "faces/rush-2/t2.webp",
+    "color": "#d9a13b"
    },
    {
     "src": "faces/rush-2/v3.webp",
-    "color": "#d8320e"
+    "thumb": "faces/rush-2/t3.webp",
+    "color": "#d9330f"
    },
    {
     "src": "faces/rush-2/v4.webp",
+    "thumb": "faces/rush-2/t4.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/rush-2/v5.webp",
-    "color": "#d87bb4"
+    "thumb": "faces/rush-2/t5.webp",
+    "color": "#d97bb5"
    },
    {
     "src": "faces/rush-2/v6.webp",
-    "color": "#d8736b"
+    "thumb": "faces/rush-2/t6.webp",
+    "color": "#d9746c"
    },
    {
     "src": "faces/rush-2/v7.webp",
-    "color": "#d8509f"
+    "thumb": "faces/rush-2/t7.webp",
+    "color": "#d9509f"
    }
   ],
   "promos": [
@@ -1508,9 +1637,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush2digital.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush2digital.activedesign"
  },
  {
   "id": "com.watchfacestudio.omni2hybrid.activedesign",
@@ -1554,37 +1683,46 @@
   "colorCount": 8,
   "icon": "faces/omni-2/icon.webp",
   "header": "faces/omni-2/header.webp",
+  "og": "faces/omni-2/og.jpg",
   "variants": [
    {
     "src": "faces/omni-2/v0.webp",
-    "color": "#d80541"
+    "thumb": "faces/omni-2/t0.webp",
+    "color": "#dd0341"
    },
    {
     "src": "faces/omni-2/v1.webp",
-    "color": "#a199e3"
+    "thumb": "faces/omni-2/t1.webp",
+    "color": "#a098e1"
    },
    {
     "src": "faces/omni-2/v2.webp",
+    "thumb": "faces/omni-2/t2.webp",
     "color": "#5100e4"
    },
    {
     "src": "faces/omni-2/v3.webp",
-    "color": "#1aebd2"
+    "thumb": "faces/omni-2/t3.webp",
+    "color": "#1bebd3"
    },
    {
     "src": "faces/omni-2/v4.webp",
+    "thumb": "faces/omni-2/t4.webp",
     "color": "#00e957"
    },
    {
     "src": "faces/omni-2/v5.webp",
-    "color": "#98e600"
+    "thumb": "faces/omni-2/t5.webp",
+    "color": "#99e600"
    },
    {
     "src": "faces/omni-2/v6.webp",
-    "color": "#c6e600"
+    "thumb": "faces/omni-2/t6.webp",
+    "color": "#c7e600"
    },
    {
     "src": "faces/omni-2/v7.webp",
+    "thumb": "faces/omni-2/t7.webp",
     "color": "#e6008f"
    }
   ],
@@ -1613,23 +1751,23 @@
   "wides": [
    {
     "src": "faces/omni-2/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/omni-2/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/omni-2/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/omni-2.mp4",
   "video": "https://www.youtube.com/embed/VSFEOb8H5d0",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omni2hybrid.activedesign",
-  "clip": "video/omni-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omni2hybrid.activedesign"
  },
  {
   "id": "com.watchfacestudio.perpetual2hybrid.activedesign",
@@ -1671,38 +1809,47 @@
   "colorCount": 8,
   "icon": "faces/perpetual-2/icon.webp",
   "header": "faces/perpetual-2/header.webp",
+  "og": "faces/perpetual-2/og.jpg",
   "variants": [
    {
     "src": "faces/perpetual-2/v0.webp",
-    "color": "#d8003c"
+    "thumb": "faces/perpetual-2/t0.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/perpetual-2/v1.webp",
-    "color": "#d8003c"
+    "thumb": "faces/perpetual-2/t1.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/perpetual-2/v2.webp",
-    "color": "#d8003c"
+    "thumb": "faces/perpetual-2/t2.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/perpetual-2/v3.webp",
-    "color": "#d80086"
+    "thumb": "faces/perpetual-2/t3.webp",
+    "color": "#d90087"
    },
    {
     "src": "faces/perpetual-2/v4.webp",
-    "color": "#d80086"
+    "thumb": "faces/perpetual-2/t4.webp",
+    "color": "#d90086"
    },
    {
     "src": "faces/perpetual-2/v5.webp",
-    "color": "#1ad8c0"
+    "thumb": "faces/perpetual-2/t5.webp",
+    "color": "#1ad9c1"
    },
    {
     "src": "faces/perpetual-2/v6.webp",
-    "color": "#9b92d8"
+    "thumb": "faces/perpetual-2/t6.webp",
+    "color": "#9b92d9"
    },
    {
     "src": "faces/perpetual-2/v7.webp",
-    "color": "#9b92d8"
+    "thumb": "faces/perpetual-2/t7.webp",
+    "color": "#9c92d9"
    }
   ],
   "promos": [
@@ -1728,9 +1875,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/perpetual-2.mp4",
   "video": "https://www.youtube.com/embed/Ig7fipPAOCM",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.perpetual2hybrid.activedesign",
-  "clip": "video/perpetual-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.perpetual2hybrid.activedesign"
  },
  {
   "id": "com.watchfacestudio.lumos.activedesign",
@@ -1768,38 +1915,47 @@
   "colorCount": 8,
   "icon": "faces/lumos/icon.webp",
   "header": "faces/lumos/header.webp",
+  "og": "faces/lumos/og.jpg",
   "variants": [
    {
     "src": "faces/lumos/v0.webp",
+    "thumb": "faces/lumos/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/lumos/v1.webp",
+    "thumb": "faces/lumos/t1.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/lumos/v2.webp",
-    "color": "#24d8b3"
+    "thumb": "faces/lumos/t2.webp",
+    "color": "#22d9b4"
    },
    {
     "src": "faces/lumos/v3.webp",
-    "color": "#d80003"
+    "thumb": "faces/lumos/t3.webp",
+    "color": "#d90005"
    },
    {
     "src": "faces/lumos/v4.webp",
-    "color": "#3120d8"
+    "thumb": "faces/lumos/t4.webp",
+    "color": "#3120d9"
    },
    {
     "src": "faces/lumos/v5.webp",
-    "color": "#9fd800"
+    "thumb": "faces/lumos/t5.webp",
+    "color": "#9fd900"
    },
    {
     "src": "faces/lumos/v6.webp",
-    "color": "#d800b9"
+    "thumb": "faces/lumos/t6.webp",
+    "color": "#d900b9"
    },
    {
     "src": "faces/lumos/v7.webp",
-    "color": "#7a00d8"
+    "thumb": "faces/lumos/t7.webp",
+    "color": "#7a00d9"
    }
   ],
   "promos": [
@@ -1825,9 +1981,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lumos.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lumos.activedesign"
  },
  {
   "id": "com.watchfacestudio.springtime.activedesign",
@@ -1865,30 +2021,37 @@
   "colorCount": 6,
   "icon": "faces/spring-time/icon.webp",
   "header": "faces/spring-time/header.webp",
+  "og": "faces/spring-time/og.jpg",
   "variants": [
    {
     "src": "faces/spring-time/v0.webp",
-    "color": "#d0e358"
+    "thumb": "faces/spring-time/t0.webp",
+    "color": "#d1e459"
    },
    {
     "src": "faces/spring-time/v1.webp",
-    "color": "#85d852"
+    "thumb": "faces/spring-time/t1.webp",
+    "color": "#84d952"
    },
    {
     "src": "faces/spring-time/v2.webp",
-    "color": "#d86c2b"
+    "thumb": "faces/spring-time/t2.webp",
+    "color": "#d96c2a"
    },
    {
     "src": "faces/spring-time/v3.webp",
-    "color": "#b429d8"
+    "thumb": "faces/spring-time/t3.webp",
+    "color": "#b428d9"
    },
    {
     "src": "faces/spring-time/v4.webp",
-    "color": "#c9d85b"
+    "thumb": "faces/spring-time/t4.webp",
+    "color": "#c9d95b"
    },
    {
     "src": "faces/spring-time/v5.webp",
-    "color": "#4ed83f"
+    "thumb": "faces/spring-time/t5.webp",
+    "color": "#4ed93f"
    }
   ],
   "promos": [
@@ -1916,18 +2079,18 @@
   "wides": [
    {
     "src": "faces/spring-time/w0.webp",
-    "w": 450,
-    "h": 450
+    "w": 800,
+    "h": 800
    },
    {
     "src": "faces/spring-time/w1.webp",
-    "w": 450,
-    "h": 450
+    "w": 800,
+    "h": 800
    }
   ],
+  "clip": "video/spring-time.mp4",
   "video": "https://www.youtube.com/embed/cWha2lnmprg",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.springtime.activedesign",
-  "clip": "video/spring-time.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.springtime.activedesign"
  },
  {
   "id": "com.watchfacestudio.perpetual.activedesign",
@@ -1969,38 +2132,47 @@
   "colorCount": 8,
   "icon": "faces/perpetual/icon.webp",
   "header": "faces/perpetual/header.webp",
+  "og": "faces/perpetual/og.jpg",
   "variants": [
    {
     "src": "faces/perpetual/v0.webp",
+    "thumb": "faces/perpetual/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/perpetual/v1.webp",
-    "color": "#d82dc3"
+    "thumb": "faces/perpetual/t1.webp",
+    "color": "#d92fc7"
    },
    {
     "src": "faces/perpetual/v2.webp",
-    "color": "#c2d82d"
+    "thumb": "faces/perpetual/t2.webp",
+    "color": "#c3d92e"
    },
    {
     "src": "faces/perpetual/v3.webp",
-    "color": "#d84350"
+    "thumb": "faces/perpetual/t3.webp",
+    "color": "#d94351"
    },
    {
     "src": "faces/perpetual/v4.webp",
-    "color": "#d8c34c"
+    "thumb": "faces/perpetual/t4.webp",
+    "color": "#d9c44c"
    },
    {
     "src": "faces/perpetual/v5.webp",
-    "color": "#00d869"
+    "thumb": "faces/perpetual/t5.webp",
+    "color": "#00d96a"
    },
    {
     "src": "faces/perpetual/v6.webp",
-    "color": "#d8085a"
+    "thumb": "faces/perpetual/t6.webp",
+    "color": "#d9095b"
    },
    {
     "src": "faces/perpetual/v7.webp",
-    "color": "#d80075"
+    "thumb": "faces/perpetual/t7.webp",
+    "color": "#d90076"
    }
   ],
   "promos": [
@@ -2026,9 +2198,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/perpetual.mp4",
   "video": "https://www.youtube.com/embed/i9ZaWP72MLc",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.perpetual.activedesign",
-  "clip": "video/perpetual.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.perpetual.activedesign"
  },
  {
   "id": "com.watchfacestudio.forte.activedesign",
@@ -2071,9 +2243,11 @@
   "colorCount": 1,
   "icon": "faces/forte/icon.webp",
   "header": "faces/forte/header.webp",
+  "og": "faces/forte/og.jpg",
   "variants": [
    {
     "src": "faces/forte/v0.webp",
+    "thumb": "faces/forte/t0.webp",
     "color": "#e8e8e8"
    }
   ],
@@ -2102,23 +2276,23 @@
   "wides": [
    {
     "src": "faces/forte/w0.webp",
-    "w": 450,
-    "h": 450
+    "w": 800,
+    "h": 800
    },
    {
     "src": "faces/forte/w1.webp",
-    "w": 450,
-    "h": 450
+    "w": 800,
+    "h": 800
    },
    {
     "src": "faces/forte/w2.webp",
-    "w": 450,
-    "h": 450
+    "w": 800,
+    "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.forte.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.forte.activedesign"
  },
  {
   "id": "com.watchfacestudio.illusivedark.activedesign",
@@ -2157,38 +2331,47 @@
   "colorCount": 8,
   "icon": "faces/illusive-dark/icon.webp",
   "header": "faces/illusive-dark/header.webp",
+  "og": "faces/illusive-dark/og.jpg",
   "variants": [
    {
     "src": "faces/illusive-dark/v0.webp",
-    "color": "#a3d839"
+    "thumb": "faces/illusive-dark/t0.webp",
+    "color": "#a3d939"
    },
    {
     "src": "faces/illusive-dark/v1.webp",
-    "color": "#d80f57"
+    "thumb": "faces/illusive-dark/t1.webp",
+    "color": "#d90f57"
    },
    {
     "src": "faces/illusive-dark/v2.webp",
-    "color": "#00d8a9"
+    "thumb": "faces/illusive-dark/t2.webp",
+    "color": "#00d9ac"
    },
    {
     "src": "faces/illusive-dark/v3.webp",
-    "color": "#d89a31"
+    "thumb": "faces/illusive-dark/t3.webp",
+    "color": "#d99c32"
    },
    {
     "src": "faces/illusive-dark/v4.webp",
-    "color": "#d87dd7"
+    "thumb": "faces/illusive-dark/t4.webp",
+    "color": "#d97ed7"
    },
    {
     "src": "faces/illusive-dark/v5.webp",
-    "color": "#d892a8"
+    "thumb": "faces/illusive-dark/t5.webp",
+    "color": "#d992a9"
    },
    {
     "src": "faces/illusive-dark/v6.webp",
-    "color": "#d8746b"
+    "thumb": "faces/illusive-dark/t6.webp",
+    "color": "#d9756c"
    },
    {
     "src": "faces/illusive-dark/v7.webp",
-    "color": "#d8624d"
+    "thumb": "faces/illusive-dark/t7.webp",
+    "color": "#d9624e"
    }
   ],
   "promos": [
@@ -2214,9 +2397,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/illusive-dark.mp4",
   "video": "https://www.youtube.com/embed/XHQtgVi5ptE",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.illusivedark.activedesign",
-  "clip": "video/illusive-dark.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.illusivedark.activedesign"
  },
  {
   "id": "com.watchfacestudio.exo.activedesign",
@@ -2259,38 +2442,47 @@
   "colorCount": 8,
   "icon": "faces/exo/icon.webp",
   "header": "faces/exo/header.webp",
+  "og": "faces/exo/og.jpg",
   "variants": [
    {
     "src": "faces/exo/v0.webp",
-    "color": "#d80045"
+    "thumb": "faces/exo/t0.webp",
+    "color": "#d90045"
    },
    {
     "src": "faces/exo/v1.webp",
-    "color": "#4c39f1"
+    "thumb": "faces/exo/t1.webp",
+    "color": "#4d39f2"
    },
    {
     "src": "faces/exo/v2.webp",
+    "thumb": "faces/exo/t2.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/exo/v3.webp",
+    "thumb": "faces/exo/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/exo/v4.webp",
-    "color": "#d80101"
+    "thumb": "faces/exo/t4.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/exo/v5.webp",
-    "color": "#d8003c"
+    "thumb": "faces/exo/t5.webp",
+    "color": "#d9003c"
    },
    {
     "src": "faces/exo/v6.webp",
-    "color": "#18d860"
+    "thumb": "faces/exo/t6.webp",
+    "color": "#18d960"
    },
    {
     "src": "faces/exo/v7.webp",
-    "color": "#d2d812"
+    "thumb": "faces/exo/t7.webp",
+    "color": "#d2d911"
    }
   ],
   "promos": [
@@ -2316,9 +2508,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exo.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exo.activedesign"
  },
  {
   "id": "com.watchfacestudio.voyage.activedesign",
@@ -2359,38 +2551,47 @@
   "colorCount": 8,
   "icon": "faces/voyage/icon.webp",
   "header": "faces/voyage/header.webp",
+  "og": "faces/voyage/og.jpg",
   "variants": [
    {
     "src": "faces/voyage/v0.webp",
-    "color": "#d8d142"
+    "thumb": "faces/voyage/t0.webp",
+    "color": "#d9d243"
    },
    {
     "src": "faces/voyage/v1.webp",
-    "color": "#d8000b"
+    "thumb": "faces/voyage/t1.webp",
+    "color": "#d9000c"
    },
    {
     "src": "faces/voyage/v2.webp",
-    "color": "#d81e5e"
+    "thumb": "faces/voyage/t2.webp",
+    "color": "#d91c5c"
    },
    {
     "src": "faces/voyage/v3.webp",
-    "color": "#d8b320"
+    "thumb": "faces/voyage/t3.webp",
+    "color": "#d9b521"
    },
    {
     "src": "faces/voyage/v4.webp",
-    "color": "#d89432"
+    "thumb": "faces/voyage/t4.webp",
+    "color": "#d99733"
    },
    {
     "src": "faces/voyage/v5.webp",
-    "color": "#d863d4"
+    "thumb": "faces/voyage/t5.webp",
+    "color": "#d962d5"
    },
    {
     "src": "faces/voyage/v6.webp",
-    "color": "#d891a8"
+    "thumb": "faces/voyage/t6.webp",
+    "color": "#d992a8"
    },
    {
     "src": "faces/voyage/v7.webp",
-    "color": "#00d8b8"
+    "thumb": "faces/voyage/t7.webp",
+    "color": "#00d9bb"
    }
   ],
   "promos": [
@@ -2416,9 +2617,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/voyage.mp4",
   "video": "https://www.youtube.com/embed/EkdyrV6Zrlw",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.voyage.activedesign",
-  "clip": "video/voyage.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.voyage.activedesign"
  },
  {
   "id": "com.watchfacestudio.ghostrunner.activedesign",
@@ -2448,38 +2649,47 @@
   "colorCount": 10,
   "icon": "faces/shadow-runner/icon.webp",
   "header": "faces/shadow-runner/header.webp",
+  "og": "faces/shadow-runner/og.jpg",
   "variants": [
    {
     "src": "faces/shadow-runner/v0.webp",
-    "color": "#ded443"
+    "thumb": "faces/shadow-runner/t0.webp",
+    "color": "#ddd443"
    },
    {
     "src": "faces/shadow-runner/v1.webp",
-    "color": "#d8000f"
+    "thumb": "faces/shadow-runner/t1.webp",
+    "color": "#d90010"
    },
    {
     "src": "faces/shadow-runner/v2.webp",
-    "color": "#d80d56"
+    "thumb": "faces/shadow-runner/t2.webp",
+    "color": "#d90d56"
    },
    {
     "src": "faces/shadow-runner/v3.webp",
-    "color": "#00dfae"
+    "thumb": "faces/shadow-runner/t3.webp",
+    "color": "#00e0b0"
    },
    {
     "src": "faces/shadow-runner/v4.webp",
-    "color": "#de9e32"
+    "thumb": "faces/shadow-runner/t4.webp",
+    "color": "#dfa033"
    },
    {
     "src": "faces/shadow-runner/v5.webp",
-    "color": "#de80dc"
+    "thumb": "faces/shadow-runner/t5.webp",
+    "color": "#de81dd"
    },
    {
     "src": "faces/shadow-runner/v6.webp",
-    "color": "#d85fa7"
+    "thumb": "faces/shadow-runner/t6.webp",
+    "color": "#d960a9"
    },
    {
     "src": "faces/shadow-runner/v7.webp",
-    "color": "#de3a33"
+    "thumb": "faces/shadow-runner/t7.webp",
+    "color": "#df3b34"
    }
   ],
   "promos": [
@@ -2505,9 +2715,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/shadow-runner.mp4",
   "video": "https://www.youtube.com/embed/gPfI2KjgyBE",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ghostrunner.activedesign",
-  "clip": "video/shadow-runner.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ghostrunner.activedesign"
  },
  {
   "id": "com.watchfacestudio.omnia.activedesign",
@@ -2543,10 +2753,12 @@
   "colorCount": 10,
   "icon": "faces/omnia/icon.webp",
   "header": "faces/omnia/header.webp",
+  "og": "faces/omnia/og.jpg",
   "variants": [
    {
     "src": "faces/omnia/v0.webp",
-    "color": "#e8ee2e"
+    "thumb": "faces/omnia/t0.webp",
+    "color": "#ebf02d"
    }
   ],
   "promos": [
@@ -2583,9 +2795,9 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omnia.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.omnia.activedesign"
  },
  {
   "id": "com.watchfacestudio.rush.activedesign",
@@ -2626,38 +2838,47 @@
   "colorCount": 10,
   "icon": "faces/rush/icon.webp",
   "header": "faces/rush/header.webp",
+  "og": "faces/rush/og.jpg",
   "variants": [
    {
     "src": "faces/rush/v0.webp",
-    "color": "#00d8ba"
+    "thumb": "faces/rush/t0.webp",
+    "color": "#00d9bb"
    },
    {
     "src": "faces/rush/v1.webp",
-    "color": "#d80e0e"
+    "thumb": "faces/rush/t1.webp",
+    "color": "#d90f0f"
    },
    {
     "src": "faces/rush/v2.webp",
-    "color": "#d8125e"
+    "thumb": "faces/rush/t2.webp",
+    "color": "#d9135e"
    },
    {
     "src": "faces/rush/v3.webp",
-    "color": "#8e19d8"
+    "thumb": "faces/rush/t3.webp",
+    "color": "#8f19d9"
    },
    {
     "src": "faces/rush/v4.webp",
-    "color": "#462dd8"
+    "thumb": "faces/rush/t4.webp",
+    "color": "#472ed9"
    },
    {
     "src": "faces/rush/v5.webp",
-    "color": "#6ed82b"
+    "thumb": "faces/rush/t5.webp",
+    "color": "#6fd92c"
    },
    {
     "src": "faces/rush/v6.webp",
-    "color": "#d8c336"
+    "thumb": "faces/rush/t6.webp",
+    "color": "#d9c337"
    },
    {
     "src": "faces/rush/v7.webp",
-    "color": "#d84700"
+    "thumb": "faces/rush/t7.webp",
+    "color": "#d94800"
    }
   ],
   "promos": [
@@ -2683,9 +2904,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rush.activedesign"
  },
  {
   "id": "com.watchfacestudio.elysium.activedesign",
@@ -2723,38 +2944,47 @@
   "colorCount": 8,
   "icon": "faces/elysium/icon.webp",
   "header": "faces/elysium/header.webp",
+  "og": "faces/elysium/og.jpg",
   "variants": [
    {
     "src": "faces/elysium/v0.webp",
-    "color": "#4533d8"
+    "thumb": "faces/elysium/t0.webp",
+    "color": "#4633d9"
    },
    {
     "src": "faces/elysium/v1.webp",
-    "color": "#d8003d"
+    "thumb": "faces/elysium/t1.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/elysium/v2.webp",
-    "color": "#d80087"
+    "thumb": "faces/elysium/t2.webp",
+    "color": "#d90088"
    },
    {
     "src": "faces/elysium/v3.webp",
-    "color": "#d2d800"
+    "thumb": "faces/elysium/t3.webp",
+    "color": "#d3d900"
    },
    {
     "src": "faces/elysium/v4.webp",
-    "color": "#90d800"
+    "thumb": "faces/elysium/t4.webp",
+    "color": "#92d900"
    },
    {
     "src": "faces/elysium/v5.webp",
-    "color": "#00d851"
+    "thumb": "faces/elysium/t5.webp",
+    "color": "#00d952"
    },
    {
     "src": "faces/elysium/v6.webp",
-    "color": "#1dd8c1"
+    "thumb": "faces/elysium/t6.webp",
+    "color": "#1cd9c3"
    },
    {
     "src": "faces/elysium/v7.webp",
-    "color": "#7b40d8"
+    "thumb": "faces/elysium/t7.webp",
+    "color": "#7c3fd9"
    }
   ],
   "promos": [
@@ -2782,23 +3012,23 @@
   "wides": [
    {
     "src": "faces/elysium/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/elysium/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/elysium/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/elysium.mp4",
   "video": "https://www.youtube.com/embed/GVWEhuqywPE",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.elysium.activedesign",
-  "clip": "video/elysium.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.elysium.activedesign"
  },
  {
   "id": "com.watchfacestudio.terraventura.activedesign",
@@ -2831,33 +3061,41 @@
   "colorCount": 7,
   "icon": "faces/terraventura/icon.webp",
   "header": "faces/terraventura/header.webp",
+  "og": "faces/terraventura/og.jpg",
   "variants": [
    {
     "src": "faces/terraventura/v0.webp",
-    "color": "#2f85d8"
+    "thumb": "faces/terraventura/t0.webp",
+    "color": "#2c82d9"
    },
    {
     "src": "faces/terraventura/v1.webp",
-    "color": "#5ad856"
+    "thumb": "faces/terraventura/t1.webp",
+    "color": "#59d956"
    },
    {
     "src": "faces/terraventura/v2.webp",
-    "color": "#00d8cb"
+    "thumb": "faces/terraventura/t2.webp",
+    "color": "#00d9cc"
    },
    {
     "src": "faces/terraventura/v3.webp",
-    "color": "#88cdd8"
+    "thumb": "faces/terraventura/t3.webp",
+    "color": "#89ced9"
    },
    {
     "src": "faces/terraventura/v4.webp",
+    "thumb": "faces/terraventura/t4.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/terraventura/v5.webp",
-    "color": "#d8b874"
+    "thumb": "faces/terraventura/t5.webp",
+    "color": "#d9b874"
    },
    {
     "src": "faces/terraventura/v6.webp",
+    "thumb": "faces/terraventura/t6.webp",
     "color": "#e8e8e8"
    }
   ],
@@ -2886,13 +3124,13 @@
   "wides": [
    {
     "src": "faces/terraventura/w0.webp",
-    "w": 512,
-    "h": 512
+    "w": 800,
+    "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.terraventura.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.terraventura.activedesign"
  },
  {
   "id": "com.watchfacestudio.stratosfera.activedesign",
@@ -2929,34 +3167,42 @@
   "colorCount": 7,
   "icon": "faces/stratosfera/icon.webp",
   "header": "faces/stratosfera/header.webp",
+  "og": "faces/stratosfera/og.jpg",
   "variants": [
    {
     "src": "faces/stratosfera/v0.webp",
-    "color": "#6fd8cc"
+    "thumb": "faces/stratosfera/t0.webp",
+    "color": "#70d9cd"
    },
    {
     "src": "faces/stratosfera/v1.webp",
-    "color": "#22add8"
+    "thumb": "faces/stratosfera/t1.webp",
+    "color": "#22add9"
    },
    {
     "src": "faces/stratosfera/v2.webp",
-    "color": "#d88b7a"
+    "thumb": "faces/stratosfera/t2.webp",
+    "color": "#d98b7b"
    },
    {
     "src": "faces/stratosfera/v3.webp",
-    "color": "#4742d8"
+    "thumb": "faces/stratosfera/t3.webp",
+    "color": "#4742d9"
    },
    {
     "src": "faces/stratosfera/v4.webp",
-    "color": "#d81f0d"
+    "thumb": "faces/stratosfera/t4.webp",
+    "color": "#d91f0c"
    },
    {
     "src": "faces/stratosfera/v5.webp",
-    "color": "#d868a6"
+    "thumb": "faces/stratosfera/t5.webp",
+    "color": "#d968a6"
    },
    {
     "src": "faces/stratosfera/v6.webp",
-    "color": "#d83120"
+    "thumb": "faces/stratosfera/t6.webp",
+    "color": "#d92e1d"
    }
   ],
   "promos": [
@@ -2988,9 +3234,9 @@
     "h": 800
    }
   ],
+  "clip": "video/stratosfera.mp4",
   "video": "https://www.youtube.com/embed/tPdTIghw7Tw",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stratosfera.activedesign",
-  "clip": "video/stratosfera.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stratosfera.activedesign"
  },
  {
   "id": "com.watchfacestudio.aquastellar.activedesign",
@@ -3028,37 +3274,46 @@
   "colorCount": 30,
   "icon": "faces/aquastellar/icon.webp",
   "header": "faces/aquastellar/header.webp",
+  "og": "faces/aquastellar/og.jpg",
   "variants": [
    {
     "src": "faces/aquastellar/v0.webp",
-    "color": "#3d55d8"
+    "thumb": "faces/aquastellar/t0.webp",
+    "color": "#3d55d9"
    },
    {
     "src": "faces/aquastellar/v1.webp",
-    "color": "#3000d8"
+    "thumb": "faces/aquastellar/t1.webp",
+    "color": "#3000d9"
    },
    {
     "src": "faces/aquastellar/v2.webp",
+    "thumb": "faces/aquastellar/t2.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/aquastellar/v3.webp",
-    "color": "#15d8b5"
+    "thumb": "faces/aquastellar/t3.webp",
+    "color": "#13d9b5"
    },
    {
     "src": "faces/aquastellar/v4.webp",
-    "color": "#05d895"
+    "thumb": "faces/aquastellar/t4.webp",
+    "color": "#04d995"
    },
    {
     "src": "faces/aquastellar/v5.webp",
+    "thumb": "faces/aquastellar/t5.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/aquastellar/v6.webp",
-    "color": "#e46b6b"
+    "thumb": "faces/aquastellar/t6.webp",
+    "color": "#e56c6c"
    },
    {
     "src": "faces/aquastellar/v7.webp",
+    "thumb": "faces/aquastellar/t7.webp",
     "color": "#e8e8e8"
    }
   ],
@@ -3085,9 +3340,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/aquastellar.mp4",
   "video": "https://www.youtube.com/embed/200FL4hbKu4",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.aquastellar.activedesign",
-  "clip": "video/aquastellar.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.aquastellar.activedesign"
  },
  {
   "id": "com.watchfacestudio.destiny.activedesign",
@@ -3124,38 +3379,47 @@
   "colorCount": 360,
   "icon": "faces/destiny/icon.webp",
   "header": "faces/destiny/header.webp",
+  "og": "faces/destiny/og.jpg",
   "variants": [
    {
     "src": "faces/destiny/v0.webp",
-    "color": "#d80049"
+    "thumb": "faces/destiny/t0.webp",
+    "color": "#d90049"
    },
    {
     "src": "faces/destiny/v1.webp",
-    "color": "#d80048"
+    "thumb": "faces/destiny/t1.webp",
+    "color": "#d90049"
    },
    {
     "src": "faces/destiny/v2.webp",
-    "color": "#db1284"
+    "thumb": "faces/destiny/t2.webp",
+    "color": "#dc1386"
    },
    {
     "src": "faces/destiny/v3.webp",
-    "color": "#4755dc"
+    "thumb": "faces/destiny/t3.webp",
+    "color": "#4856dc"
    },
    {
     "src": "faces/destiny/v4.webp",
-    "color": "#93dc01"
+    "thumb": "faces/destiny/t4.webp",
+    "color": "#94dc01"
    },
    {
     "src": "faces/destiny/v5.webp",
+    "thumb": "faces/destiny/t5.webp",
     "color": "#02d9d1"
    },
    {
     "src": "faces/destiny/v6.webp",
+    "thumb": "faces/destiny/t6.webp",
     "color": "#02db96"
    },
    {
     "src": "faces/destiny/v7.webp",
-    "color": "#76db34"
+    "thumb": "faces/destiny/t7.webp",
+    "color": "#77dc35"
    }
   ],
   "promos": [
@@ -3171,9 +3435,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/destiny.mp4",
   "video": "https://www.youtube.com/embed/sweImmtlGHs",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.destiny.activedesign",
-  "clip": "video/destiny.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.destiny.activedesign"
  },
  {
   "id": "com.watchfacestudio.vision3.activedesign",
@@ -3216,38 +3480,47 @@
   "colorCount": 8,
   "icon": "faces/vision-3/icon.webp",
   "header": "faces/vision-3/header.webp",
+  "og": "faces/vision-3/og.jpg",
   "variants": [
    {
     "src": "faces/vision-3/v0.webp",
+    "thumb": "faces/vision-3/t0.webp",
     "color": "#00e856"
    },
    {
     "src": "faces/vision-3/v1.webp",
-    "color": "#e80090"
+    "thumb": "faces/vision-3/t1.webp",
+    "color": "#e80091"
    },
    {
     "src": "faces/vision-3/v2.webp",
-    "color": "#d8003d"
+    "thumb": "faces/vision-3/t2.webp",
+    "color": "#d9003e"
    },
    {
     "src": "faces/vision-3/v3.webp",
-    "color": "#00d851"
+    "thumb": "faces/vision-3/t3.webp",
+    "color": "#00d951"
    },
    {
     "src": "faces/vision-3/v4.webp",
-    "color": "#dd003f"
+    "thumb": "faces/vision-3/t4.webp",
+    "color": "#e10040"
    },
    {
     "src": "faces/vision-3/v5.webp",
+    "thumb": "faces/vision-3/t5.webp",
     "color": "#00e355"
    },
    {
     "src": "faces/vision-3/v6.webp",
-    "color": "#eb0092"
+    "thumb": "faces/vision-3/t6.webp",
+    "color": "#eb0093"
    },
    {
     "src": "faces/vision-3/v7.webp",
-    "color": "#d80086"
+    "thumb": "faces/vision-3/t7.webp",
+    "color": "#d90086"
    }
   ],
   "promos": [
@@ -3275,23 +3548,23 @@
   "wides": [
    {
     "src": "faces/vision-3/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/vision-3/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/vision-3/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vision3.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vision3.activedesign"
  },
  {
   "id": "com.watchfacestudio.solaris.activedesign",
@@ -3329,34 +3602,42 @@
   "colorCount": 7,
   "icon": "faces/solaris/icon.webp",
   "header": "faces/solaris/header.webp",
+  "og": "faces/solaris/og.jpg",
   "variants": [
    {
     "src": "faces/solaris/v0.webp",
-    "color": "#d82f49"
+    "thumb": "faces/solaris/t0.webp",
+    "color": "#d92f49"
    },
    {
     "src": "faces/solaris/v1.webp",
-    "color": "#d8092d"
+    "thumb": "faces/solaris/t1.webp",
+    "color": "#d92e6b"
    },
    {
     "src": "faces/solaris/v2.webp",
-    "color": "#4701dc"
+    "thumb": "faces/solaris/t2.webp",
+    "color": "#4801dd"
    },
    {
     "src": "faces/solaris/v3.webp",
-    "color": "#9a89df"
+    "thumb": "faces/solaris/t3.webp",
+    "color": "#9887db"
    },
    {
     "src": "faces/solaris/v4.webp",
-    "color": "#01d85e"
+    "thumb": "faces/solaris/t4.webp",
+    "color": "#02d95f"
    },
    {
     "src": "faces/solaris/v5.webp",
-    "color": "#5cd812"
+    "thumb": "faces/solaris/t5.webp",
+    "color": "#5dd913"
    },
    {
     "src": "faces/solaris/v6.webp",
-    "color": "#b9d800"
+    "thumb": "faces/solaris/t6.webp",
+    "color": "#bad900"
    }
   ],
   "promos": [
@@ -3384,115 +3665,23 @@
   "wides": [
    {
     "src": "faces/solaris/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/solaris/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/solaris/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.solaris.activedesign",
-  "clip": null
- },
- {
-  "id": "com.watchfacestudio.polaris.activedesign",
-  "slug": "polaris",
-  "name": "Polaris",
-  "title": "Polaris: Digital Watch Face",
-  "category": "digital",
-  "diver": false,
-  "price": 1.99,
-  "priceText": "$1.99",
-  "free": false,
-  "rating": 3.9,
-  "ratings": 32,
-  "installs": "1,000+",
-  "minInstalls": 1000,
-  "released": "Sep 29, 2024",
-  "releasedTs": 1727568000,
-  "summary": "Polaris: Digital Watch Face for Wear OS by Active Design",
-  "features": [
-   "30x vibrant color themes to match any mood",
-   "4x fully customizable shortcuts for easy access",
-   "3x adjustable complications to display what matters most",
-   "Day and week number displays to keep your schedule organized",
-   "Moon phase tracking for a touch of astronomy",
-   "Real-time heart rate monitoring to stay in tune with your health",
-   "Battery and steps counters to track your progress",
-   "Sleek date display and always-on display mode (AOD) for ultimate convenience"
-  ],
-  "tags": [
-   "aod",
-   "heart",
-   "steps",
-   "battery",
-   "moon",
-   "shortcuts",
-   "complications"
-  ],
-  "colorCount": 2,
-  "icon": "faces/polaris/icon.webp",
-  "header": "faces/polaris/header.webp",
-  "variants": [
-   {
-    "src": "faces/polaris/v0.webp",
-    "color": "#90d800"
-   },
-   {
-    "src": "faces/polaris/v1.webp",
-    "color": "#4d01d8"
-   }
-  ],
-  "promos": [
-   {
-    "src": "faces/polaris/p0.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/polaris/p1.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/polaris/p2.webp",
-    "w": 560,
-    "h": 996
-   },
-   {
-    "src": "faces/polaris/p3.webp",
-    "w": 560,
-    "h": 996
-   }
-  ],
-  "wides": [
-   {
-    "src": "faces/polaris/w0.webp",
-    "w": 450,
-    "h": 450
-   },
-   {
-    "src": "faces/polaris/w1.webp",
-    "w": 450,
-    "h": 450
-   },
-   {
-    "src": "faces/polaris/w2.webp",
-    "w": 450,
-    "h": 450
-   }
-  ],
-  "video": "https://www.youtube.com/embed/DjtC9zVWAsw",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.polaris.activedesign",
-  "clip": "video/polaris.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.solaris.activedesign"
  },
  {
   "id": "com.watchfacestudio.halo.activedesign",
@@ -3531,34 +3720,42 @@
   "colorCount": 7,
   "icon": "faces/halo/icon.webp",
   "header": "faces/halo/header.webp",
+  "og": "faces/halo/og.jpg",
   "variants": [
    {
     "src": "faces/halo/v0.webp",
-    "color": "#1ed8c2"
+    "thumb": "faces/halo/t0.webp",
+    "color": "#1dd9c4"
    },
    {
     "src": "faces/halo/v1.webp",
+    "thumb": "faces/halo/t1.webp",
     "color": "#00d951"
    },
    {
     "src": "faces/halo/v2.webp",
-    "color": "#d80086"
+    "thumb": "faces/halo/t2.webp",
+    "color": "#d90087"
    },
    {
     "src": "faces/halo/v3.webp",
-    "color": "#22d8c2"
+    "thumb": "faces/halo/t3.webp",
+    "color": "#1fd9c3"
    },
    {
     "src": "faces/halo/v4.webp",
-    "color": "#90d800"
+    "thumb": "faces/halo/t4.webp",
+    "color": "#91d900"
    },
    {
     "src": "faces/halo/v5.webp",
-    "color": "#d80086"
+    "thumb": "faces/halo/t5.webp",
+    "color": "#d90087"
    },
    {
     "src": "faces/halo/v6.webp",
-    "color": "#d8003d"
+    "thumb": "faces/halo/t6.webp",
+    "color": "#db003e"
    }
   ],
   "promos": [],
@@ -3570,8 +3767,8 @@
    },
    {
     "src": "faces/halo/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/halo/w2.webp",
@@ -3579,9 +3776,99 @@
     "h": 800
    }
   ],
+  "clip": "video/halo.mp4",
   "video": "https://www.youtube.com/embed/3fN49_CVYCM",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.halo.activedesign",
-  "clip": "video/halo.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.halo.activedesign"
+ },
+ {
+  "id": "com.watchfacestudio.polaris.activedesign",
+  "slug": "polaris",
+  "name": "Polaris",
+  "title": "Polaris: Digital Watch Face",
+  "category": "digital",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 3.9,
+  "ratings": 32,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Sep 29, 2024",
+  "releasedTs": 1727568000,
+  "summary": "Polaris: Digital Watch Face for Wear OS by Active Design",
+  "features": [
+   "30x vibrant color themes to match any mood",
+   "4x fully customizable shortcuts for easy access",
+   "3x adjustable complications to display what matters most",
+   "Day and week number displays to keep your schedule organized",
+   "Moon phase tracking for a touch of astronomy",
+   "Real-time heart rate monitoring to stay in tune with your health",
+   "Battery and steps counters to track your progress",
+   "Sleek date display and always-on display mode (AOD) for ultimate convenience"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "steps",
+   "battery",
+   "moon",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 1,
+  "icon": "faces/polaris/icon.webp",
+  "header": "faces/polaris/header.webp",
+  "og": "faces/polaris/og.jpg",
+  "variants": [
+   {
+    "src": "faces/polaris/v0.webp",
+    "thumb": "faces/polaris/t0.webp",
+    "color": "#1cd9c6"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/polaris/p0.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/polaris/p1.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/polaris/p2.webp",
+    "w": 560,
+    "h": 996
+   },
+   {
+    "src": "faces/polaris/p3.webp",
+    "w": 560,
+    "h": 996
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/polaris/w0.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/polaris/w1.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/polaris/w2.webp",
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "clip": "video/polaris.mp4",
+  "video": "https://www.youtube.com/embed/DjtC9zVWAsw",
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.polaris.activedesign"
  },
  {
   "id": "com.watchfacestudio.paramount.activedesign",
@@ -3621,34 +3908,42 @@
   "colorCount": 7,
   "icon": "faces/paramount/icon.webp",
   "header": "faces/paramount/header.webp",
+  "og": "faces/paramount/og.jpg",
   "variants": [
    {
     "src": "faces/paramount/v0.webp",
+    "thumb": "faces/paramount/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/paramount/v1.webp",
-    "color": "#4331d9"
+    "thumb": "faces/paramount/t1.webp",
+    "color": "#4432d9"
    },
    {
     "src": "faces/paramount/v2.webp",
-    "color": "#1cdac5"
+    "thumb": "faces/paramount/t2.webp",
+    "color": "#1cdac6"
    },
    {
     "src": "faces/paramount/v3.webp",
+    "thumb": "faces/paramount/t3.webp",
     "color": "#00db52"
    },
    {
     "src": "faces/paramount/v4.webp",
-    "color": "#92da00"
+    "thumb": "faces/paramount/t4.webp",
+    "color": "#93da00"
    },
    {
     "src": "faces/paramount/v5.webp",
-    "color": "#bdda00"
+    "thumb": "faces/paramount/t5.webp",
+    "color": "#beda00"
    },
    {
     "src": "faces/paramount/v6.webp",
-    "color": "#da0089"
+    "thumb": "faces/paramount/t6.webp",
+    "color": "#db008a"
    }
   ],
   "promos": [
@@ -3676,23 +3971,23 @@
   "wides": [
    {
     "src": "faces/paramount/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/paramount/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/paramount/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.paramount.activedesign",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.paramount.activedesign"
  },
  {
   "id": "com.watchfacestudio.halcyon.activedesign",
@@ -3732,38 +4027,47 @@
   "colorCount": 8,
   "icon": "faces/halcyon/icon.webp",
   "header": "faces/halcyon/header.webp",
+  "og": "faces/halcyon/og.jpg",
   "variants": [
    {
     "src": "faces/halcyon/v0.webp",
-    "color": "#5b17d8"
+    "thumb": "faces/halcyon/t0.webp",
+    "color": "#5d16d9"
    },
    {
     "src": "faces/halcyon/v1.webp",
-    "color": "#bbd800"
+    "thumb": "faces/halcyon/t1.webp",
+    "color": "#bed900"
    },
    {
     "src": "faces/halcyon/v2.webp",
-    "color": "#00d851"
+    "thumb": "faces/halcyon/t2.webp",
+    "color": "#00d953"
    },
    {
     "src": "faces/halcyon/v3.webp",
-    "color": "#90d800"
+    "thumb": "faces/halcyon/t3.webp",
+    "color": "#93d900"
    },
    {
     "src": "faces/halcyon/v4.webp",
-    "color": "#1fd8c4"
+    "thumb": "faces/halcyon/t4.webp",
+    "color": "#1dd9c6"
    },
    {
     "src": "faces/halcyon/v5.webp",
-    "color": "#d8003d"
+    "thumb": "faces/halcyon/t5.webp",
+    "color": "#d9003f"
    },
    {
     "src": "faces/halcyon/v6.webp",
-    "color": "#20d8c4"
+    "thumb": "faces/halcyon/t6.webp",
+    "color": "#1cd9c5"
    },
    {
     "src": "faces/halcyon/v7.webp",
-    "color": "#20d8c4"
+    "thumb": "faces/halcyon/t7.webp",
+    "color": "#1bd9c5"
    }
   ],
   "promos": [
@@ -3791,23 +4095,23 @@
   "wides": [
    {
     "src": "faces/halcyon/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/halcyon/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/halcyon/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/halcyon.mp4",
   "video": "https://www.youtube.com/embed/GeebddGkh_M",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.halcyon.activedesign",
-  "clip": "video/halcyon.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.halcyon.activedesign"
  },
  {
   "id": "com.watchfacestudio.vision2.activedesign",
@@ -3849,38 +4153,47 @@
   "colorCount": 8,
   "icon": "faces/vision-2/icon.webp",
   "header": "faces/vision-2/header.webp",
+  "og": "faces/vision-2/og.jpg",
   "variants": [
    {
     "src": "faces/vision-2/v0.webp",
-    "color": "#00d852"
+    "thumb": "faces/vision-2/t0.webp",
+    "color": "#00d952"
    },
    {
     "src": "faces/vision-2/v1.webp",
-    "color": "#bcd800"
+    "thumb": "faces/vision-2/t1.webp",
+    "color": "#bdd900"
    },
    {
     "src": "faces/vision-2/v2.webp",
-    "color": "#1bd8c4"
+    "thumb": "faces/vision-2/t2.webp",
+    "color": "#1bd9c5"
    },
    {
     "src": "faces/vision-2/v3.webp",
-    "color": "#e80042"
+    "thumb": "faces/vision-2/t3.webp",
+    "color": "#e80043"
    },
    {
     "src": "faces/vision-2/v4.webp",
-    "color": "#2a15e8"
+    "thumb": "faces/vision-2/t4.webp",
+    "color": "#2a16e8"
    },
    {
     "src": "faces/vision-2/v5.webp",
-    "color": "#2914e8"
+    "thumb": "faces/vision-2/t5.webp",
+    "color": "#2915e7"
    },
    {
     "src": "faces/vision-2/v6.webp",
-    "color": "#e8c500"
+    "thumb": "faces/vision-2/t6.webp",
+    "color": "#e8c600"
    },
    {
     "src": "faces/vision-2/v7.webp",
-    "color": "#9ae800"
+    "thumb": "faces/vision-2/t7.webp",
+    "color": "#9be700"
    }
   ],
   "promos": [
@@ -3908,23 +4221,23 @@
   "wides": [
    {
     "src": "faces/vision-2/w0.webp",
-    "w": 900,
-    "h": 439
+    "w": 1200,
+    "h": 585
    },
    {
     "src": "faces/vision-2/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/vision-2/w2.webp",
-    "w": 900,
-    "h": 439
+    "w": 1200,
+    "h": 585
    }
   ],
+  "clip": "video/vision-2.mp4",
   "video": "https://www.youtube.com/embed/VHyM-RvZNFI",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vision2.activedesign",
-  "clip": "video/vision-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vision2.activedesign"
  },
  {
   "id": "com.watchfacestudio.equinox.activedesign",
@@ -3968,38 +4281,47 @@
   "colorCount": 8,
   "icon": "faces/equinox/icon.webp",
   "header": "faces/equinox/header.webp",
+  "og": "faces/equinox/og.jpg",
   "variants": [
    {
     "src": "faces/equinox/v0.webp",
-    "color": "#e30041"
+    "thumb": "faces/equinox/t0.webp",
+    "color": "#e40042"
    },
    {
     "src": "faces/equinox/v1.webp",
-    "color": "#e30041"
+    "thumb": "faces/equinox/t1.webp",
+    "color": "#e40042"
    },
    {
     "src": "faces/equinox/v2.webp",
-    "color": "#e3008e"
+    "thumb": "faces/equinox/t2.webp",
+    "color": "#e3008f"
    },
    {
     "src": "faces/equinox/v3.webp",
-    "color": "#e2008e"
+    "thumb": "faces/equinox/t3.webp",
+    "color": "#e3008f"
    },
    {
     "src": "faces/equinox/v4.webp",
-    "color": "#c4e300"
+    "thumb": "faces/equinox/t4.webp",
+    "color": "#c7e400"
    },
    {
     "src": "faces/equinox/v5.webp",
-    "color": "#c5e300"
+    "thumb": "faces/equinox/t5.webp",
+    "color": "#c7e400"
    },
    {
     "src": "faces/equinox/v6.webp",
-    "color": "#c5e300"
+    "thumb": "faces/equinox/t6.webp",
+    "color": "#c7e400"
    },
    {
     "src": "faces/equinox/v7.webp",
-    "color": "#97e200"
+    "thumb": "faces/equinox/t7.webp",
+    "color": "#99e300"
    }
   ],
   "promos": [
@@ -4027,23 +4349,23 @@
   "wides": [
    {
     "src": "faces/equinox/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/equinox/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/equinox/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/equinox.mp4",
   "video": "https://www.youtube.com/embed/M7g9cw8qCSc",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.equinox.activedesign",
-  "clip": "video/equinox.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.equinox.activedesign"
  },
  {
   "id": "com.watchfacestudio.titan.activedesign",
@@ -4079,34 +4401,42 @@
   "colorCount": 7,
   "icon": "faces/titanium/icon.webp",
   "header": "faces/titanium/header.webp",
+  "og": "faces/titanium/og.jpg",
   "variants": [
    {
     "src": "faces/titanium/v0.webp",
-    "color": "#d8003d"
-   },
-   {
-    "src": "faces/titanium/v1.webp",
+    "thumb": "faces/titanium/t0.webp",
     "color": "#d9003e"
    },
    {
+    "src": "faces/titanium/v1.webp",
+    "thumb": "faces/titanium/t1.webp",
+    "color": "#dc003f"
+   },
+   {
     "src": "faces/titanium/v2.webp",
-    "color": "#d7dc00"
+    "thumb": "faces/titanium/t2.webp",
+    "color": "#d6da00"
    },
    {
     "src": "faces/titanium/v3.webp",
-    "color": "#db0088"
+    "thumb": "faces/titanium/t3.webp",
+    "color": "#da0089"
    },
    {
     "src": "faces/titanium/v4.webp",
-    "color": "#95de00"
+    "thumb": "faces/titanium/t4.webp",
+    "color": "#95dc00"
    },
    {
     "src": "faces/titanium/v5.webp",
-    "color": "#d3d800"
+    "thumb": "faces/titanium/t5.webp",
+    "color": "#d4d900"
    },
    {
     "src": "faces/titanium/v6.webp",
-    "color": "#91d800"
+    "thumb": "faces/titanium/t6.webp",
+    "color": "#92d900"
    }
   ],
   "promos": [
@@ -4134,23 +4464,23 @@
   "wides": [
    {
     "src": "faces/titanium/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/titanium/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/titanium/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/titanium.mp4",
   "video": "https://www.youtube.com/embed/jDSn62Sa7bw",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.titan.activedesign",
-  "clip": "video/titanium.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.titan.activedesign"
  },
  {
   "id": "com.watchfacestudio.lucid.activedesign",
@@ -4191,34 +4521,42 @@
   "colorCount": 7,
   "icon": "faces/lucid/icon.webp",
   "header": "faces/lucid/header.webp",
+  "og": "faces/lucid/og.jpg",
   "variants": [
    {
     "src": "faces/lucid/v0.webp",
-    "color": "#d9003e"
+    "thumb": "faces/lucid/t0.webp",
+    "color": "#da003e"
    },
    {
     "src": "faces/lucid/v1.webp",
+    "thumb": "faces/lucid/t1.webp",
     "color": "#dce200"
    },
    {
     "src": "faces/lucid/v2.webp",
-    "color": "#00e254"
+    "thumb": "faces/lucid/t2.webp",
+    "color": "#00e255"
    },
    {
     "src": "faces/lucid/v3.webp",
+    "thumb": "faces/lucid/t3.webp",
     "color": "#d4da00"
    },
    {
     "src": "faces/lucid/v4.webp",
+    "thumb": "faces/lucid/t4.webp",
     "color": "#00dc53"
    },
    {
     "src": "faces/lucid/v5.webp",
-    "color": "#19ddc6"
+    "thumb": "faces/lucid/t5.webp",
+    "color": "#19dcc6"
    },
    {
     "src": "faces/lucid/v6.webp",
-    "color": "#90d800"
+    "thumb": "faces/lucid/t6.webp",
+    "color": "#91d900"
    }
   ],
   "promos": [
@@ -4246,23 +4584,23 @@
   "wides": [
    {
     "src": "faces/lucid/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/lucid/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/lucid/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/lucid.mp4",
   "video": "https://www.youtube.com/embed/52fuKRuMSQI",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lucid.activedesign",
-  "clip": "video/lucid.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lucid.activedesign"
  },
  {
   "id": "com.watchfacestudio.destiny2.activedesign",
@@ -4298,34 +4636,42 @@
   "colorCount": 7,
   "icon": "faces/destiny-2/icon.webp",
   "header": "faces/destiny-2/header.webp",
+  "og": "faces/destiny-2/og.jpg",
   "variants": [
    {
     "src": "faces/destiny-2/v0.webp",
-    "color": "#ec0043"
+    "thumb": "faces/destiny-2/t0.webp",
+    "color": "#ec0044"
    },
    {
     "src": "faces/destiny-2/v1.webp",
-    "color": "#8240e4"
+    "thumb": "faces/destiny-2/t1.webp",
+    "color": "#8341e4"
    },
    {
     "src": "faces/destiny-2/v2.webp",
+    "thumb": "faces/destiny-2/t2.webp",
     "color": "#00ef59"
    },
    {
     "src": "faces/destiny-2/v3.webp",
-    "color": "#e4008f"
+    "thumb": "faces/destiny-2/t3.webp",
+    "color": "#e50090"
    },
    {
     "src": "faces/destiny-2/v4.webp",
+    "thumb": "faces/destiny-2/t4.webp",
     "color": "#4b37ef"
    },
    {
     "src": "faces/destiny-2/v5.webp",
-    "color": "#dee400"
+    "thumb": "faces/destiny-2/t5.webp",
+    "color": "#dfe400"
    },
    {
     "src": "faces/destiny-2/v6.webp",
-    "color": "#ef0095"
+    "thumb": "faces/destiny-2/t6.webp",
+    "color": "#ef0096"
    }
   ],
   "promos": [
@@ -4353,23 +4699,23 @@
   "wides": [
    {
     "src": "faces/destiny-2/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/destiny-2/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/destiny-2/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/destiny-2.mp4",
   "video": "https://www.youtube.com/embed/fXg_OZGXO3Q",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.destiny2.activedesign",
-  "clip": "video/destiny-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.destiny2.activedesign"
  },
  {
   "id": "com.watchfacestudio.exo2.activedesign",
@@ -4404,38 +4750,47 @@
   "colorCount": 8,
   "icon": "faces/exo-2/icon.webp",
   "header": "faces/exo-2/header.webp",
+  "og": "faces/exo-2/og.jpg",
   "variants": [
    {
     "src": "faces/exo-2/v0.webp",
-    "color": "#d8003d"
+    "thumb": "faces/exo-2/t0.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/exo-2/v1.webp",
-    "color": "#f00a0d"
+    "thumb": "faces/exo-2/t1.webp",
+    "color": "#f70000"
    },
    {
     "src": "faces/exo-2/v2.webp",
-    "color": "#d8003d"
+    "thumb": "faces/exo-2/t2.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/exo-2/v3.webp",
-    "color": "#c4d80c"
+    "thumb": "faces/exo-2/t3.webp",
+    "color": "#c0d902"
    },
    {
     "src": "faces/exo-2/v4.webp",
-    "color": "#d8003d"
+    "thumb": "faces/exo-2/t4.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/exo-2/v5.webp",
-    "color": "#14d881"
+    "thumb": "faces/exo-2/t5.webp",
+    "color": "#24d987"
    },
    {
     "src": "faces/exo-2/v6.webp",
-    "color": "#d8003e"
+    "thumb": "faces/exo-2/t6.webp",
+    "color": "#d9003d"
    },
    {
     "src": "faces/exo-2/v7.webp",
-    "color": "#5839d8"
+    "thumb": "faces/exo-2/t7.webp",
+    "color": "#5833d9"
    }
   ],
   "promos": [
@@ -4461,9 +4816,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/exo-2.mp4",
   "video": "https://www.youtube.com/embed/fx03mRsHVXE",
-  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exo2.activedesign",
-  "clip": "video/exo-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exo2.activedesign"
  },
  {
   "id": "com.activewatchdesign.apex2",
@@ -4503,38 +4858,47 @@
   "colorCount": 8,
   "icon": "faces/apex-2/icon.webp",
   "header": "faces/apex-2/header.webp",
+  "og": "faces/apex-2/og.jpg",
   "variants": [
    {
     "src": "faces/apex-2/v0.webp",
-    "color": "#29d8c2"
+    "thumb": "faces/apex-2/t0.webp",
+    "color": "#24d9c2"
    },
    {
     "src": "faces/apex-2/v1.webp",
-    "color": "#0ed859"
+    "thumb": "faces/apex-2/t1.webp",
+    "color": "#0ad958"
    },
    {
     "src": "faces/apex-2/v2.webp",
-    "color": "#b8d802"
+    "thumb": "faces/apex-2/t2.webp",
+    "color": "#b9d900"
    },
    {
     "src": "faces/apex-2/v3.webp",
+    "thumb": "faces/apex-2/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/apex-2/v4.webp",
-    "color": "#004ed8"
+    "thumb": "faces/apex-2/t4.webp",
+    "color": "#004fd9"
    },
    {
     "src": "faces/apex-2/v5.webp",
-    "color": "#d8003b"
+    "thumb": "faces/apex-2/t5.webp",
+    "color": "#d9003c"
    },
    {
     "src": "faces/apex-2/v6.webp",
-    "color": "#90d807"
+    "thumb": "faces/apex-2/t6.webp",
+    "color": "#90d900"
    },
    {
     "src": "faces/apex-2/v7.webp",
-    "color": "#530cd8"
+    "thumb": "faces/apex-2/t7.webp",
+    "color": "#530bd9"
    }
   ],
   "promos": [
@@ -4560,9 +4924,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/apex-2.mp4",
   "video": "https://www.youtube.com/embed/OC6SAsIJ2LE",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex2",
-  "clip": "video/apex-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex2"
  },
  {
   "id": "com.activewatchdesign.essentials4",
@@ -4575,7 +4939,7 @@
   "priceText": "Free",
   "free": true,
   "rating": 4.6,
-  "ratings": 483,
+  "ratings": 484,
   "installs": "100,000+",
   "minInstalls": 100000,
   "released": "Jun 4, 2023",
@@ -4600,38 +4964,47 @@
   "colorCount": 8,
   "icon": "faces/essentials-digital/icon.webp",
   "header": "faces/essentials-digital/header.webp",
+  "og": "faces/essentials-digital/og.jpg",
   "variants": [
    {
     "src": "faces/essentials-digital/v0.webp",
+    "thumb": "faces/essentials-digital/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-digital/v1.webp",
-    "color": "#d8c912"
+    "thumb": "faces/essentials-digital/t1.webp",
+    "color": "#d9ca05"
    },
    {
     "src": "faces/essentials-digital/v2.webp",
-    "color": "#7dd819"
+    "thumb": "faces/essentials-digital/t2.webp",
+    "color": "#79d90f"
    },
    {
     "src": "faces/essentials-digital/v3.webp",
-    "color": "#b401d8"
+    "thumb": "faces/essentials-digital/t3.webp",
+    "color": "#b500d9"
    },
    {
     "src": "faces/essentials-digital/v4.webp",
-    "color": "#7401d8"
+    "thumb": "faces/essentials-digital/t4.webp",
+    "color": "#7600d9"
    },
    {
     "src": "faces/essentials-digital/v5.webp",
-    "color": "#3d83d8"
+    "thumb": "faces/essentials-digital/t5.webp",
+    "color": "#3881d9"
    },
    {
     "src": "faces/essentials-digital/v6.webp",
-    "color": "#45d8b7"
+    "thumb": "faces/essentials-digital/t6.webp",
+    "color": "#3ed9b6"
    },
    {
     "src": "faces/essentials-digital/v7.webp",
-    "color": "#aad878"
+    "thumb": "faces/essentials-digital/t7.webp",
+    "color": "#a9d973"
    }
   ],
   "promos": [
@@ -4657,9 +5030,9 @@
    }
   ],
   "wides": [],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentials4",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentials4"
  },
  {
   "id": "com.activewatchdesign.apex",
@@ -4696,34 +5069,42 @@
   "colorCount": 30,
   "icon": "faces/apex/icon.webp",
   "header": "faces/apex/header.webp",
+  "og": "faces/apex/og.jpg",
   "variants": [
    {
     "src": "faces/apex/v0.webp",
-    "color": "#4d38f4"
+    "thumb": "faces/apex/t0.webp",
+    "color": "#4d39f3"
    },
    {
     "src": "faces/apex/v1.webp",
-    "color": "#ed0043"
+    "thumb": "faces/apex/t1.webp",
+    "color": "#ed0044"
    },
    {
     "src": "faces/apex/v2.webp",
-    "color": "#f30045"
+    "thumb": "faces/apex/t2.webp",
+    "color": "#f40045"
    },
    {
     "src": "faces/apex/v3.webp",
+    "thumb": "faces/apex/t3.webp",
     "color": "#ed9b00"
    },
    {
     "src": "faces/apex/v4.webp",
-    "color": "#d88f00"
+    "thumb": "faces/apex/t4.webp",
+    "color": "#d99100"
    },
    {
     "src": "faces/apex/v5.webp",
-    "color": "#ed0093"
+    "thumb": "faces/apex/t5.webp",
+    "color": "#ed0094"
    },
    {
     "src": "faces/apex/v6.webp",
-    "color": "#4b38ed"
+    "thumb": "faces/apex/t6.webp",
+    "color": "#4c38ed"
    }
   ],
   "promos": [
@@ -4751,8 +5132,8 @@
   "wides": [
    {
     "src": "faces/apex/w0.webp",
-    "w": 900,
-    "h": 439
+    "w": 1200,
+    "h": 585
    },
    {
     "src": "faces/apex/w1.webp",
@@ -4761,13 +5142,13 @@
    },
    {
     "src": "faces/apex/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/apex.mp4",
   "video": "https://www.youtube.com/embed/nSbRKLtQEvI",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex",
-  "clip": "video/apex.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex"
  },
  {
   "id": "com.activewatchdesign.spectreii",
@@ -4808,38 +5189,47 @@
   "colorCount": 8,
   "icon": "faces/spectre-2/icon.webp",
   "header": "faces/spectre-2/header.webp",
+  "og": "faces/spectre-2/og.jpg",
   "variants": [
    {
     "src": "faces/spectre-2/v0.webp",
-    "color": "#d8003e"
+    "thumb": "faces/spectre-2/t0.webp",
+    "color": "#d9003f"
    },
    {
     "src": "faces/spectre-2/v1.webp",
-    "color": "#00d852"
+    "thumb": "faces/spectre-2/t1.webp",
+    "color": "#00d952"
    },
    {
     "src": "faces/spectre-2/v2.webp",
-    "color": "#4230d8"
+    "thumb": "faces/spectre-2/t2.webp",
+    "color": "#4331d9"
    },
    {
     "src": "faces/spectre-2/v3.webp",
+    "thumb": "faces/spectre-2/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/spectre-2/v4.webp",
-    "color": "#1dd8c4"
+    "thumb": "faces/spectre-2/t4.webp",
+    "color": "#1dd9c6"
    },
    {
     "src": "faces/spectre-2/v5.webp",
-    "color": "#00d851"
+    "thumb": "faces/spectre-2/t5.webp",
+    "color": "#00d951"
    },
    {
     "src": "faces/spectre-2/v6.webp",
-    "color": "#91d800"
+    "thumb": "faces/spectre-2/t6.webp",
+    "color": "#93d900"
    },
    {
     "src": "faces/spectre-2/v7.webp",
-    "color": "#d2d800"
+    "thumb": "faces/spectre-2/t7.webp",
+    "color": "#d1d900"
    }
   ],
   "promos": [
@@ -4867,23 +5257,23 @@
   "wides": [
    {
     "src": "faces/spectre-2/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/spectre-2/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/spectre-2/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": "video/spectre-2.mp4",
   "video": "https://www.youtube.com/embed/ULpucEsbVAg",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectreii",
-  "clip": "video/spectre-2.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectreii"
  },
  {
   "id": "com.activewatchdesign.nocturnallights",
@@ -4918,38 +5308,47 @@
   "colorCount": 8,
   "icon": "faces/nocturnal/icon.webp",
   "header": "faces/nocturnal/header.webp",
+  "og": "faces/nocturnal/og.jpg",
   "variants": [
    {
     "src": "faces/nocturnal/v0.webp",
-    "color": "#d80001"
+    "thumb": "faces/nocturnal/t0.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/nocturnal/v1.webp",
-    "color": "#d80001"
+    "thumb": "faces/nocturnal/t1.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/nocturnal/v2.webp",
-    "color": "#39d8c7"
+    "thumb": "faces/nocturnal/t2.webp",
+    "color": "#39d9c7"
    },
    {
     "src": "faces/nocturnal/v3.webp",
+    "thumb": "faces/nocturnal/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/nocturnal/v4.webp",
-    "color": "#5837d8"
+    "thumb": "faces/nocturnal/t4.webp",
+    "color": "#5837d9"
    },
    {
     "src": "faces/nocturnal/v5.webp",
-    "color": "#5837d8"
+    "thumb": "faces/nocturnal/t5.webp",
+    "color": "#5837d9"
    },
    {
     "src": "faces/nocturnal/v6.webp",
-    "color": "#3ad8ca"
+    "thumb": "faces/nocturnal/t6.webp",
+    "color": "#3ad9ca"
    },
    {
     "src": "faces/nocturnal/v7.webp",
-    "color": "#3ad8ca"
+    "thumb": "faces/nocturnal/t7.webp",
+    "color": "#3ad9ca"
    }
   ],
   "promos": [
@@ -4982,8 +5381,8 @@
    },
    {
     "src": "faces/nocturnal/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/nocturnal/w2.webp",
@@ -4991,9 +5390,9 @@
     "h": 800
    }
   ],
+  "clip": "video/nocturnal.mp4",
   "video": "https://www.youtube.com/embed/B0k0ls_BFeE",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.nocturnallights",
-  "clip": "video/nocturnal.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.nocturnallights"
  },
  {
   "id": "com.activewatchdesign.obsidian",
@@ -5033,37 +5432,46 @@
   "colorCount": 8,
   "icon": "faces/obsidian/icon.webp",
   "header": "faces/obsidian/header.webp",
+  "og": "faces/obsidian/og.jpg",
   "variants": [
    {
     "src": "faces/obsidian/v0.webp",
-    "color": "#d80004"
+    "thumb": "faces/obsidian/t0.webp",
+    "color": "#d90004"
    },
    {
     "src": "faces/obsidian/v1.webp",
-    "color": "#d80408"
+    "thumb": "faces/obsidian/t1.webp",
+    "color": "#d90509"
    },
    {
     "src": "faces/obsidian/v2.webp",
-    "color": "#d81a51"
+    "thumb": "faces/obsidian/t2.webp",
+    "color": "#d91a52"
    },
    {
     "src": "faces/obsidian/v3.webp",
-    "color": "#d800af"
+    "thumb": "faces/obsidian/t3.webp",
+    "color": "#d900b0"
    },
    {
     "src": "faces/obsidian/v4.webp",
-    "color": "#773fd8"
+    "thumb": "faces/obsidian/t4.webp",
+    "color": "#7840d9"
    },
    {
     "src": "faces/obsidian/v5.webp",
-    "color": "#4f3fd8"
+    "thumb": "faces/obsidian/t5.webp",
+    "color": "#5040d9"
    },
    {
     "src": "faces/obsidian/v6.webp",
+    "thumb": "faces/obsidian/t6.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/obsidian/v7.webp",
+    "thumb": "faces/obsidian/t7.webp",
     "color": "#e8e8e8"
    }
   ],
@@ -5097,8 +5505,8 @@
    },
    {
     "src": "faces/obsidian/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/obsidian/w2.webp",
@@ -5106,9 +5514,9 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.obsidian",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.obsidian"
  },
  {
   "id": "com.activewatchdesign.magnumopus",
@@ -5147,37 +5555,46 @@
   "colorCount": 25,
   "icon": "faces/magnum/icon.webp",
   "header": "faces/magnum/header.webp",
+  "og": "faces/magnum/og.jpg",
   "variants": [
    {
     "src": "faces/magnum/v0.webp",
-    "color": "#d80a18"
-   },
-   {
-    "src": "faces/magnum/v1.webp",
+    "thumb": "faces/magnum/t0.webp",
     "color": "#e8e8e8"
    },
    {
+    "src": "faces/magnum/v1.webp",
+    "thumb": "faces/magnum/t1.webp",
+    "color": "#d90000"
+   },
+   {
     "src": "faces/magnum/v2.webp",
+    "thumb": "faces/magnum/t2.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/magnum/v3.webp",
+    "thumb": "faces/magnum/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/magnum/v4.webp",
+    "thumb": "faces/magnum/t4.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/magnum/v5.webp",
+    "thumb": "faces/magnum/t5.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/magnum/v6.webp",
+    "thumb": "faces/magnum/t6.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/magnum/v7.webp",
+    "thumb": "faces/magnum/t7.webp",
     "color": "#e8e8e8"
    }
   ],
@@ -5211,8 +5628,8 @@
    },
    {
     "src": "faces/magnum/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/magnum/w2.webp",
@@ -5220,9 +5637,9 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.magnumopus",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.magnumopus"
  },
  {
   "id": "com.activewatchdesign.luminous",
@@ -5260,38 +5677,47 @@
   "colorCount": 25,
   "icon": "faces/luminous/icon.webp",
   "header": "faces/luminous/header.webp",
+  "og": "faces/luminous/og.jpg",
   "variants": [
    {
     "src": "faces/luminous/v0.webp",
-    "color": "#0cd8aa"
+    "thumb": "faces/luminous/t0.webp",
+    "color": "#0cd9ab"
    },
    {
     "src": "faces/luminous/v1.webp",
-    "color": "#0eb1d8"
+    "thumb": "faces/luminous/t1.webp",
+    "color": "#0eb2d9"
    },
    {
     "src": "faces/luminous/v2.webp",
-    "color": "#5e6ad8"
+    "thumb": "faces/luminous/t2.webp",
+    "color": "#5f6bd9"
    },
    {
     "src": "faces/luminous/v3.webp",
-    "color": "#7744d8"
+    "thumb": "faces/luminous/t3.webp",
+    "color": "#7945d9"
    },
    {
     "src": "faces/luminous/v4.webp",
-    "color": "#a708d8"
+    "thumb": "faces/luminous/t4.webp",
+    "color": "#aa08d9"
    },
    {
     "src": "faces/luminous/v5.webp",
-    "color": "#d809b0"
+    "thumb": "faces/luminous/t5.webp",
+    "color": "#d909b1"
    },
    {
     "src": "faces/luminous/v6.webp",
-    "color": "#d80940"
+    "thumb": "faces/luminous/t6.webp",
+    "color": "#d90941"
    },
    {
     "src": "faces/luminous/v7.webp",
-    "color": "#d8091d"
+    "thumb": "faces/luminous/t7.webp",
+    "color": "#d90a1e"
    }
   ],
   "promos": [
@@ -5324,8 +5750,8 @@
    },
    {
     "src": "faces/luminous/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/luminous/w2.webp",
@@ -5333,9 +5759,9 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.luminous",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.luminous"
  },
  {
   "id": "com.activewatchdesign.rogueinblack",
@@ -5373,38 +5799,47 @@
   "colorCount": 25,
   "icon": "faces/rogue-black/icon.webp",
   "header": "faces/rogue-black/header.webp",
+  "og": "faces/rogue-black/og.jpg",
   "variants": [
    {
     "src": "faces/rogue-black/v0.webp",
-    "color": "#e7d700"
+    "thumb": "faces/rogue-black/t0.webp",
+    "color": "#e7d800"
    },
    {
     "src": "faces/rogue-black/v1.webp",
-    "color": "#06e4bf"
+    "thumb": "faces/rogue-black/t1.webp",
+    "color": "#02e5c1"
    },
    {
     "src": "faces/rogue-black/v2.webp",
-    "color": "#afe41c"
+    "thumb": "faces/rogue-black/t2.webp",
+    "color": "#ace217"
    },
    {
     "src": "faces/rogue-black/v3.webp",
-    "color": "#29e4e6"
+    "thumb": "faces/rogue-black/t3.webp",
+    "color": "#26e5e7"
    },
    {
     "src": "faces/rogue-black/v4.webp",
-    "color": "#4ee813"
+    "thumb": "faces/rogue-black/t4.webp",
+    "color": "#4be50f"
    },
    {
     "src": "faces/rogue-black/v5.webp",
-    "color": "#e6de1c"
+    "thumb": "faces/rogue-black/t5.webp",
+    "color": "#e3db16"
    },
    {
     "src": "faces/rogue-black/v6.webp",
-    "color": "#d81009"
+    "thumb": "faces/rogue-black/t6.webp",
+    "color": "#de0e06"
    },
    {
     "src": "faces/rogue-black/v7.webp",
-    "color": "#dbd835"
+    "thumb": "faces/rogue-black/t7.webp",
+    "color": "#dfdc32"
    }
   ],
   "promos": [
@@ -5437,8 +5872,8 @@
    },
    {
     "src": "faces/rogue-black/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/rogue-black/w2.webp",
@@ -5446,9 +5881,9 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.rogueinblack",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.rogueinblack"
  },
  {
   "id": "com.activewatchdesign.spectre",
@@ -5487,26 +5922,32 @@
   "colorCount": 25,
   "icon": "faces/spectre/icon.webp",
   "header": "faces/spectre/header.webp",
+  "og": "faces/spectre/og.jpg",
   "variants": [
    {
     "src": "faces/spectre/v0.webp",
-    "color": "#d8001e"
+    "thumb": "faces/spectre/t0.webp",
+    "color": "#d9001e"
    },
    {
     "src": "faces/spectre/v1.webp",
-    "color": "#d82c6b"
+    "thumb": "faces/spectre/t1.webp",
+    "color": "#d92b6b"
    },
    {
     "src": "faces/spectre/v2.webp",
-    "color": "#6514d8"
+    "thumb": "faces/spectre/t2.webp",
+    "color": "#6514d9"
    },
    {
     "src": "faces/spectre/v3.webp",
-    "color": "#4c40d8"
+    "thumb": "faces/spectre/t3.webp",
+    "color": "#4d41d9"
    },
    {
     "src": "faces/spectre/v4.webp",
-    "color": "#4392d8"
+    "thumb": "faces/spectre/t4.webp",
+    "color": "#4292d9"
    }
   ],
   "promos": [
@@ -5539,8 +5980,8 @@
    },
    {
     "src": "faces/spectre/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/spectre/w2.webp",
@@ -5548,9 +5989,9 @@
     "h": 800
    }
   ],
+  "clip": "video/spectre.mp4",
   "video": "https://www.youtube.com/embed/WGH-_LMJr5c",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectre",
-  "clip": "video/spectre.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectre"
  },
  {
   "id": "com.activewatchdesign.rogue",
@@ -5588,10 +6029,12 @@
   "colorCount": 1,
   "icon": "faces/rogue/icon.webp",
   "header": "faces/rogue/header.webp",
+  "og": "faces/rogue/og.jpg",
   "variants": [
    {
     "src": "faces/rogue/v0.webp",
-    "color": "#d80012"
+    "thumb": "faces/rogue/t0.webp",
+    "color": "#d90013"
    }
   ],
   "promos": [
@@ -5624,8 +6067,8 @@
    },
    {
     "src": "faces/rogue/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/rogue/w2.webp",
@@ -5633,9 +6076,9 @@
     "h": 800
    }
   ],
+  "clip": "video/rogue.mp4",
   "video": "https://www.youtube.com/embed/CgBgsvVLaWA",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.rogue",
-  "clip": "video/rogue.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.rogue"
  },
  {
   "id": "com.activewatchdesign.vulkan",
@@ -5671,38 +6114,47 @@
   "colorCount": 25,
   "icon": "faces/vulkan/icon.webp",
   "header": "faces/vulkan/header.webp",
+  "og": "faces/vulkan/og.jpg",
   "variants": [
    {
     "src": "faces/vulkan/v0.webp",
-    "color": "#d80014"
+    "thumb": "faces/vulkan/t0.webp",
+    "color": "#d90014"
    },
    {
     "src": "faces/vulkan/v1.webp",
-    "color": "#d8001c"
+    "thumb": "faces/vulkan/t1.webp",
+    "color": "#d9001d"
    },
    {
     "src": "faces/vulkan/v2.webp",
-    "color": "#d83aa9"
+    "thumb": "faces/vulkan/t2.webp",
+    "color": "#d93aa9"
    },
    {
     "src": "faces/vulkan/v3.webp",
-    "color": "#9239d8"
+    "thumb": "faces/vulkan/t3.webp",
+    "color": "#9339d9"
    },
    {
     "src": "faces/vulkan/v4.webp",
-    "color": "#d817b6"
+    "thumb": "faces/vulkan/t4.webp",
+    "color": "#d916b7"
    },
    {
     "src": "faces/vulkan/v5.webp",
-    "color": "#00d8c3"
+    "thumb": "faces/vulkan/t5.webp",
+    "color": "#00d9c4"
    },
    {
     "src": "faces/vulkan/v6.webp",
-    "color": "#b0d800"
+    "thumb": "faces/vulkan/t6.webp",
+    "color": "#b1d900"
    },
    {
     "src": "faces/vulkan/v7.webp",
-    "color": "#4bd813"
+    "thumb": "faces/vulkan/t7.webp",
+    "color": "#4bd912"
    }
   ],
   "promos": [
@@ -5735,8 +6187,8 @@
    },
    {
     "src": "faces/vulkan/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/vulkan/w2.webp",
@@ -5744,9 +6196,9 @@
     "h": 800
    }
   ],
+  "clip": "video/vulkan.mp4",
   "video": "https://www.youtube.com/embed/seHoE0-rc2M",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vulkan",
-  "clip": "video/vulkan.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vulkan"
  },
  {
   "id": "com.activewatchdesign.oblivion",
@@ -5784,38 +6236,47 @@
   "colorCount": 25,
   "icon": "faces/oblivion/icon.webp",
   "header": "faces/oblivion/header.webp",
+  "og": "faces/oblivion/og.jpg",
   "variants": [
    {
     "src": "faces/oblivion/v0.webp",
-    "color": "#d81500"
+    "thumb": "faces/oblivion/t0.webp",
+    "color": "#d91500"
    },
    {
     "src": "faces/oblivion/v1.webp",
-    "color": "#d8005a"
+    "thumb": "faces/oblivion/t1.webp",
+    "color": "#d9005c"
    },
    {
     "src": "faces/oblivion/v2.webp",
-    "color": "#d800af"
+    "thumb": "faces/oblivion/t2.webp",
+    "color": "#d900b2"
    },
    {
     "src": "faces/oblivion/v3.webp",
-    "color": "#aa00dc"
+    "thumb": "faces/oblivion/t3.webp",
+    "color": "#ae00de"
    },
    {
     "src": "faces/oblivion/v4.webp",
-    "color": "#5600d8"
+    "thumb": "faces/oblivion/t4.webp",
+    "color": "#5801d9"
    },
    {
     "src": "faces/oblivion/v5.webp",
-    "color": "#02bfd8"
+    "thumb": "faces/oblivion/t5.webp",
+    "color": "#02c2d9"
    },
    {
     "src": "faces/oblivion/v6.webp",
-    "color": "#04d8b5"
+    "thumb": "faces/oblivion/t6.webp",
+    "color": "#05d9b7"
    },
    {
     "src": "faces/oblivion/v7.webp",
-    "color": "#09d886"
+    "thumb": "faces/oblivion/t7.webp",
+    "color": "#0ad989"
    }
   ],
   "promos": [
@@ -5848,8 +6309,8 @@
    },
    {
     "src": "faces/oblivion/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/oblivion/w2.webp",
@@ -5857,9 +6318,9 @@
     "h": 800
    }
   ],
+  "clip": "video/oblivion.mp4",
   "video": "https://www.youtube.com/embed/6ysQmjq6r34",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.oblivion",
-  "clip": "video/oblivion.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.oblivion"
  },
  {
   "id": "com.activewatchdesign.vagabond",
@@ -5895,34 +6356,42 @@
   "colorCount": 25,
   "icon": "faces/vagabond/icon.webp",
   "header": "faces/vagabond/header.webp",
+  "og": "faces/vagabond/og.jpg",
   "variants": [
    {
     "src": "faces/vagabond/v0.webp",
-    "color": "#d8001d"
+    "thumb": "faces/vagabond/t0.webp",
+    "color": "#d9001e"
    },
    {
     "src": "faces/vagabond/v1.webp",
-    "color": "#d8084f"
+    "thumb": "faces/vagabond/t1.webp",
+    "color": "#d90950"
    },
    {
     "src": "faces/vagabond/v2.webp",
-    "color": "#d83049"
+    "thumb": "faces/vagabond/t2.webp",
+    "color": "#d93149"
    },
    {
     "src": "faces/vagabond/v3.webp",
-    "color": "#d80097"
+    "thumb": "faces/vagabond/t3.webp",
+    "color": "#d90098"
    },
    {
     "src": "faces/vagabond/v4.webp",
-    "color": "#d80086"
+    "thumb": "faces/vagabond/t4.webp",
+    "color": "#d90087"
    },
    {
     "src": "faces/vagabond/v5.webp",
-    "color": "#7137d8"
+    "thumb": "faces/vagabond/t5.webp",
+    "color": "#7238d9"
    },
    {
     "src": "faces/vagabond/v6.webp",
-    "color": "#9f00e3"
+    "thumb": "faces/vagabond/t6.webp",
+    "color": "#9f00e2"
    }
   ],
   "promos": [
@@ -5955,8 +6424,8 @@
    },
    {
     "src": "faces/vagabond/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/vagabond/w2.webp",
@@ -5964,9 +6433,129 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vagabond",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vagabond"
+ },
+ {
+  "id": "com.activewatchdesign.nomad",
+  "slug": "nomad",
+  "name": "Nomad",
+  "title": "Nomad Hybrid Watch Face",
+  "category": "hybrid",
+  "diver": false,
+  "price": 1.99,
+  "priceText": "$1.99",
+  "free": false,
+  "rating": 4.7,
+  "ratings": 29,
+  "installs": "1,000+",
+  "minInstalls": 1000,
+  "released": "Oct 31, 2021",
+  "releasedTs": 1635638400,
+  "summary": "Nomad Hybrid Watch Face for Wear OS by Active Design",
+  "features": [
+   "Always-on display",
+   "Heart rate, tap to measure",
+   "Battery level",
+   "Customisable shortcuts",
+   "Customisable complications"
+  ],
+  "tags": [
+   "aod",
+   "heart",
+   "battery",
+   "shortcuts",
+   "complications"
+  ],
+  "colorCount": 8,
+  "icon": "faces/nomad/icon.webp",
+  "header": "faces/nomad/header.webp",
+  "og": "faces/nomad/og.jpg",
+  "variants": [
+   {
+    "src": "faces/nomad/v0.webp",
+    "thumb": "faces/nomad/t0.webp",
+    "color": "#90d900"
+   },
+   {
+    "src": "faces/nomad/v1.webp",
+    "thumb": "faces/nomad/t1.webp",
+    "color": "#d9003e"
+   },
+   {
+    "src": "faces/nomad/v2.webp",
+    "thumb": "faces/nomad/t2.webp",
+    "color": "#00d951"
+   },
+   {
+    "src": "faces/nomad/v3.webp",
+    "thumb": "faces/nomad/t3.webp",
+    "color": "#d9003d"
+   },
+   {
+    "src": "faces/nomad/v4.webp",
+    "thumb": "faces/nomad/t4.webp",
+    "color": "#e8e8e8"
+   },
+   {
+    "src": "faces/nomad/v5.webp",
+    "thumb": "faces/nomad/t5.webp",
+    "color": "#d90086"
+   },
+   {
+    "src": "faces/nomad/v6.webp",
+    "thumb": "faces/nomad/t6.webp",
+    "color": "#d9003d"
+   },
+   {
+    "src": "faces/nomad/v7.webp",
+    "thumb": "faces/nomad/t7.webp",
+    "color": "#e8e8e8"
+   }
+  ],
+  "promos": [
+   {
+    "src": "faces/nomad/p0.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/nomad/p1.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/nomad/p2.webp",
+    "w": 560,
+    "h": 993
+   },
+   {
+    "src": "faces/nomad/p3.webp",
+    "w": 560,
+    "h": 993
+   }
+  ],
+  "wides": [
+   {
+    "src": "faces/nomad/w0.webp",
+    "w": 800,
+    "h": 800
+   },
+   {
+    "src": "faces/nomad/w1.webp",
+    "w": 1200,
+    "h": 675
+   },
+   {
+    "src": "faces/nomad/w2.webp",
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "clip": null,
+  "video": null,
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.nomad"
  },
  {
   "id": "com.activewatchdesign.vega",
@@ -6004,37 +6593,46 @@
   "colorCount": 8,
   "icon": "faces/vega/icon.webp",
   "header": "faces/vega/header.webp",
+  "og": "faces/vega/og.jpg",
   "variants": [
    {
     "src": "faces/vega/v0.webp",
-    "color": "#e8e8e8"
+    "thumb": "faces/vega/t0.webp",
+    "color": "#d9002e"
    },
    {
     "src": "faces/vega/v1.webp",
-    "color": "#d8c500"
+    "thumb": "faces/vega/t1.webp",
+    "color": "#d9c600"
    },
    {
     "src": "faces/vega/v2.webp",
-    "color": "#bcd800"
+    "thumb": "faces/vega/t2.webp",
+    "color": "#bfd900"
    },
    {
     "src": "faces/vega/v3.webp",
-    "color": "#03d854"
+    "thumb": "faces/vega/t3.webp",
+    "color": "#04d956"
    },
    {
     "src": "faces/vega/v4.webp",
-    "color": "#20d8c4"
+    "thumb": "faces/vega/t4.webp",
+    "color": "#21d9c5"
    },
    {
     "src": "faces/vega/v5.webp",
-    "color": "#4d00d8"
+    "thumb": "faces/vega/t5.webp",
+    "color": "#4f00d9"
    },
    {
     "src": "faces/vega/v6.webp",
-    "color": "#b9d801"
+    "thumb": "faces/vega/t6.webp",
+    "color": "#b9d900"
    },
    {
     "src": "faces/vega/v7.webp",
+    "thumb": "faces/vega/t7.webp",
     "color": "#e8e8e8"
    }
   ],
@@ -6061,9 +6659,9 @@
    }
   ],
   "wides": [],
+  "clip": "video/vega.mp4",
   "video": "https://www.youtube.com/embed/FiiIIIZJtVQ",
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vega",
-  "clip": "video/vega.mp4"
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vega"
  },
  {
   "id": "com.activewatchdesign.warp",
@@ -6100,38 +6698,47 @@
   "colorCount": 8,
   "icon": "faces/warp/icon.webp",
   "header": "faces/warp/header.webp",
+  "og": "faces/warp/og.jpg",
   "variants": [
    {
     "src": "faces/warp/v0.webp",
-    "color": "#d80004"
+    "thumb": "faces/warp/t0.webp",
+    "color": "#d90004"
    },
    {
     "src": "faces/warp/v1.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t1.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/warp/v2.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t2.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/warp/v3.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t3.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/warp/v4.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t4.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/warp/v5.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t5.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/warp/v6.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t6.webp",
+    "color": "#d90000"
    },
    {
     "src": "faces/warp/v7.webp",
-    "color": "#d80000"
+    "thumb": "faces/warp/t7.webp",
+    "color": "#d90000"
    }
   ],
   "promos": [
@@ -6164,8 +6771,8 @@
    },
    {
     "src": "faces/warp/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/warp/w2.webp",
@@ -6173,120 +6780,9 @@
     "h": 800
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.warp",
-  "clip": null
- },
- {
-  "id": "com.activewatchdesign.nomad",
-  "slug": "nomad",
-  "name": "Nomad",
-  "title": "Nomad Hybrid Watch Face",
-  "category": "hybrid",
-  "diver": false,
-  "price": 1.99,
-  "priceText": "$1.99",
-  "free": false,
-  "rating": 4.7,
-  "ratings": 29,
-  "installs": "1,000+",
-  "minInstalls": 1000,
-  "released": "Oct 31, 2021",
-  "releasedTs": 1635638400,
-  "summary": "Nomad Hybrid Watch Face for Wear OS by Active Design",
-  "features": [
-   "Always-on display",
-   "Heart rate, tap to measure",
-   "Battery level",
-   "Customisable shortcuts",
-   "Customisable complications"
-  ],
-  "tags": [
-   "aod",
-   "heart",
-   "battery",
-   "shortcuts",
-   "complications"
-  ],
-  "colorCount": 8,
-  "icon": "faces/nomad/icon.webp",
-  "header": "faces/nomad/header.webp",
-  "variants": [
-   {
-    "src": "faces/nomad/v0.webp",
-    "color": "#90d800"
-   },
-   {
-    "src": "faces/nomad/v1.webp",
-    "color": "#d8003e"
-   },
-   {
-    "src": "faces/nomad/v2.webp",
-    "color": "#00d851"
-   },
-   {
-    "src": "faces/nomad/v3.webp",
-    "color": "#d8003d"
-   },
-   {
-    "src": "faces/nomad/v4.webp",
-    "color": "#e8e8e8"
-   },
-   {
-    "src": "faces/nomad/v5.webp",
-    "color": "#d80086"
-   },
-   {
-    "src": "faces/nomad/v6.webp",
-    "color": "#d8003d"
-   },
-   {
-    "src": "faces/nomad/v7.webp",
-    "color": "#e8e8e8"
-   }
-  ],
-  "promos": [
-   {
-    "src": "faces/nomad/p0.webp",
-    "w": 560,
-    "h": 993
-   },
-   {
-    "src": "faces/nomad/p1.webp",
-    "w": 560,
-    "h": 993
-   },
-   {
-    "src": "faces/nomad/p2.webp",
-    "w": 560,
-    "h": 993
-   },
-   {
-    "src": "faces/nomad/p3.webp",
-    "w": 560,
-    "h": 993
-   }
-  ],
-  "wides": [
-   {
-    "src": "faces/nomad/w0.webp",
-    "w": 800,
-    "h": 800
-   },
-   {
-    "src": "faces/nomad/w1.webp",
-    "w": 900,
-    "h": 506
-   },
-   {
-    "src": "faces/nomad/w2.webp",
-    "w": 800,
-    "h": 800
-   }
-  ],
-  "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.nomad",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.warp"
  },
  {
   "id": "com.activewatchdesign.essentialsvii",
@@ -6323,38 +6819,47 @@
   "colorCount": 8,
   "icon": "faces/essentials/icon.webp",
   "header": "faces/essentials/header.webp",
+  "og": "faces/essentials/og.jpg",
   "variants": [
    {
     "src": "faces/essentials/v0.webp",
-    "color": "#d80d0c"
+    "thumb": "faces/essentials/t0.webp",
+    "color": "#d90d0d"
    },
    {
     "src": "faces/essentials/v1.webp",
-    "color": "#d80f40"
+    "thumb": "faces/essentials/t1.webp",
+    "color": "#d91040"
    },
    {
     "src": "faces/essentials/v2.webp",
-    "color": "#d81177"
+    "thumb": "faces/essentials/t2.webp",
+    "color": "#d91279"
    },
    {
     "src": "faces/essentials/v3.webp",
-    "color": "#d814ac"
+    "thumb": "faces/essentials/t3.webp",
+    "color": "#d915ae"
    },
    {
     "src": "faces/essentials/v4.webp",
-    "color": "#b916d8"
+    "thumb": "faces/essentials/t4.webp",
+    "color": "#bb17d9"
    },
    {
     "src": "faces/essentials/v5.webp",
-    "color": "#8919d8"
+    "thumb": "faces/essentials/t5.webp",
+    "color": "#8b1ad9"
    },
    {
     "src": "faces/essentials/v6.webp",
-    "color": "#662ad8"
+    "thumb": "faces/essentials/t6.webp",
+    "color": "#672bd9"
    },
    {
     "src": "faces/essentials/v7.webp",
-    "color": "#412cd8"
+    "thumb": "faces/essentials/t7.webp",
+    "color": "#422dd9"
    }
   ],
   "promos": [
@@ -6382,23 +6887,23 @@
   "wides": [
    {
     "src": "faces/essentials/w0.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/essentials/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/essentials/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentialsvii",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentialsvii"
  },
  {
   "id": "com.activewatchdesign.essentialsvi",
@@ -6432,38 +6937,47 @@
   "colorCount": 8,
   "icon": "faces/essentials-analog/icon.webp",
   "header": "faces/essentials-analog/header.webp",
+  "og": "faces/essentials-analog/og.jpg",
   "variants": [
    {
     "src": "faces/essentials-analog/v0.webp",
+    "thumb": "faces/essentials-analog/t0.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-analog/v1.webp",
+    "thumb": "faces/essentials-analog/t1.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-analog/v2.webp",
+    "thumb": "faces/essentials-analog/t2.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-analog/v3.webp",
+    "thumb": "faces/essentials-analog/t3.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-analog/v4.webp",
+    "thumb": "faces/essentials-analog/t4.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-analog/v5.webp",
-    "color": "#d84982"
+    "thumb": "faces/essentials-analog/t5.webp",
+    "color": "#d94b84"
    },
    {
     "src": "faces/essentials-analog/v6.webp",
+    "thumb": "faces/essentials-analog/t6.webp",
     "color": "#e8e8e8"
    },
    {
     "src": "faces/essentials-analog/v7.webp",
-    "color": "#d88804"
+    "thumb": "faces/essentials-analog/t7.webp",
+    "color": "#d98904"
    }
   ],
   "promos": [
@@ -6496,17 +7010,17 @@
    },
    {
     "src": "faces/essentials-analog/w1.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    },
    {
     "src": "faces/essentials-analog/w2.webp",
-    "w": 900,
-    "h": 506
+    "w": 1200,
+    "h": 675
    }
   ],
+  "clip": null,
   "video": null,
-  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentialsvi",
-  "clip": null
+  "url": "https://play.google.com/store/apps/details?id=com.activewatchdesign.essentialsvi"
  }
 ]
