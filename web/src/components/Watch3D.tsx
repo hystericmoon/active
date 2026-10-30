@@ -48,8 +48,8 @@ export default function Watch3D({ textures, index, strap = '#161616', spin, clas
             <Lightformer form="rect" intensity={1.2} position={[0, 0, 6]} scale={[10, 10, 1]} color="#5a5a5a" />
             <Lightformer intensity={3} position={[0, 4, 3]} scale={[8, 1.5, 1]} />
             <Lightformer intensity={1.6} position={[-5, 0.5, 1]} rotation-y={Math.PI / 2} scale={[6, 2, 1]} />
-            <Lightformer intensity={1.2} position={[5, -1, 2]} rotation-y={-Math.PI / 2} scale={[6, 2, 1]} color="#a7ff9c" />
-            <Lightformer intensity={0.8} position={[0, -4, 2]} scale={[8, 1, 1]} color="#ff6831" />
+            <Lightformer intensity={1.2} position={[5, -1, 2]} rotation-y={-Math.PI / 2} scale={[6, 2, 1]} />
+            <Lightformer intensity={0.8} position={[0, -4, 2]} scale={[8, 1, 1]} />
           </Environment>
         </Suspense>
       </Canvas>

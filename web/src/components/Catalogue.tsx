@@ -92,7 +92,7 @@ export default function Catalogue() {
           </div>
 
           <div className="controls__tools">
-            <BorderBeam size="line" colorVariant="forest" theme="dark" active={typing} className="search-beam">
+            <BorderBeam size="line" colorVariant="colorful" theme="dark" active={typing} className="search-beam">
               <label className="search">
                 <span className="sr-only">Search watch faces</span>
                 <span className="search__orb" aria-hidden="true">
@@ -273,7 +273,7 @@ function Specimen({ face, field, big }: { face: Face; field: string; big: boolea
 
   return (
     <article className="specimen">
-      <BorderBeam size="md" colorVariant="colorful" theme="dark" active={hover} strength={0.85} borderRadius={0} className="specimen__beam">
+      <BorderBeam size="pulse-inner" colorVariant="colorful" theme="dark" active={hover} strength={1} brightness={1.8} saturation={1.4} hueRange={90} duration={2.2} borderRadius={0} className="specimen__beam">
         <a
           ref={card}
           href={faceHref(face.slug)}

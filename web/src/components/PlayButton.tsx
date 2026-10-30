@@ -1,12 +1,12 @@
 import type { ReactNode } from 'react';
 import { MetalFx } from 'metal-fx';
 
-/** Every way out to Google Play wears the same liquid-metal ring. */
+/** Every way out to Google Play wears the same quiet steel ring. */
 export default function PlayButton({
   href,
   children,
   small,
-  preset = 'chromatic',
+  preset = 'silver',
 }: {
   href: string;
   children: ReactNode;
@@ -14,7 +14,7 @@ export default function PlayButton({
   preset?: 'chromatic' | 'silver' | 'gold';
 }) {
   return (
-    <MetalFx variant="button" preset={preset} theme="dark" className="play-wrap">
+    <MetalFx variant="button" preset={preset} theme="dark" disableGlow className="play-wrap">
       <a className={`play${small ? ' play--small' : ''}`} href={href} target="_blank" rel="noreferrer">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
           <path fill="currentColor" d="M4.2 2.6c-.3.3-.4.7-.4 1.2v16.4c0 .5.1.9.4 1.2l.1.1 9.2-9.2v-.6L4.3 2.5l-.1.1Z" />
