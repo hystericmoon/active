@@ -1,6 +1,6 @@
 /* Active Design catalogue.
    Direction: the specimen catalogue, set on AMOLED black (the faces' own ground).
-   Fields rotate grey, mint, orange behind each dial. */
+   Monochrome: the dials carry all the colour; the Siri-style beam is the only other. */
 
 :root {
   --bg: #000000;
@@ -8,15 +8,16 @@
   --surface-2: #1b1b1b;
   --ink: #ffffff;
   --muted: #a8a8a8;
-  --accent: #a7ff9c;
+  --accent: #ffffff;
   --accent-ink: #000000;
-  --field-1: #c5c5c5;
-  --field-2: #a7ff9c;
-  --field-3: #ff6831;
-  --field-4: #1b1b1b;
+  /* Every tile is the same near-black, one step above the page. */
+  --field-1: #0e0e0e;
+  --field-2: #0e0e0e;
+  --field-3: #0e0e0e;
+  --field-4: #0e0e0e;
 
-  --font-display: 'Libre Franklin', system-ui, sans-serif;
-  --font-text: 'Source Serif 4', Georgia, serif;
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-text: 'Plus Jakarta Sans', system-ui, sans-serif;
 
   --step-small: clamp(0.8125rem, 0.79rem + 0.1vw, 0.875rem);
   --step-body: clamp(1.0625rem, 1rem + 0.25vw, 1.1875rem);
@@ -177,7 +178,7 @@ p {
   color: var(--accent-ink);
 }
 .btn--accent:hover {
-  background: #c3ffbb;
+  background: #d9d9d9;
 }
 .btn--ghost {
   background: var(--surface-2);
@@ -753,9 +754,6 @@ main > section + section {
 .specimen__dial img.is-on {
   opacity: 1;
 }
-.specimen__card:hover .specimen__dial img:first-child:not(.is-on) {
-  opacity: 0;
-}
 .specimen__free {
   position: absolute;
   top: 12px;
@@ -1020,7 +1018,7 @@ main > section + section {
 }
 .card {
   position: relative;
-  color: #000;
+  color: var(--ink);
   padding: 22px 28px 52px;
 }
 .card:last-child {
@@ -1061,7 +1059,7 @@ main > section + section {
   cursor: pointer;
 }
 .card h3 button:focus-visible {
-  outline-color: #000;
+  outline-color: var(--accent);
 }
 .card__sign {
   position: relative;
@@ -1069,7 +1067,7 @@ main > section + section {
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  background: #000;
+  background: var(--ink);
   transition: transform 0.35s var(--ease);
 }
 .card__sign::before,
@@ -1077,7 +1075,7 @@ main > section + section {
   content: '';
   position: absolute;
   inset: 15px 9px;
-  background: #fff;
+  background: #000;
 }
 .card__sign::after {
   transform: rotate(90deg);
@@ -1101,8 +1099,8 @@ main > section + section {
   display: grid;
   grid-template-columns: 8fr 4fr;
   align-items: center;
-  background: var(--field-3);
-  color: #000;
+  background: var(--bg);
+  color: var(--ink);
   overflow: hidden;
   padding-inline: var(--margin);
 }
@@ -1182,7 +1180,7 @@ main > section + section {
   transform: scale(1.1);
 }
 .cta__picks button:focus-visible {
-  outline-color: #000;
+  outline-color: var(--accent);
 }
 .cta__picks img {
   border-radius: 50%;
@@ -1194,42 +1192,11 @@ main > section + section {
 
 /* ---------- footer ---------- */
 .footer {
-  margin-top: var(--gap-section);
+  margin-top: 72px;
   padding-bottom: 32px;
 }
-.footer__mark {
-  display: flex;
-  align-items: flex-end;
-  gap: 4px;
-  height: 34svh;
-  min-height: 200px;
-}
-.footer__block {
-  flex: 1;
-  display: grid;
-  place-items: end center;
-  padding-bottom: 0.08em;
-  color: var(--bg);
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: min(8vw, 13svh);
-  line-height: 0.8;
-  letter-spacing: -0.04em;
-  transform-origin: bottom;
-}
-.footer__gap {
-  flex: 1.6;
-  align-self: stretch;
-  display: grid;
-  place-items: center;
-  color: var(--accent);
-}
-.footer__gap svg {
-  width: 100%;
-  height: auto;
-}
 .footer__links {
-  margin-top: 56px;
+  padding-top: 48px;
   display: grid;
   grid-template-columns: repeat(4, 1fr) 2fr;
   gap: 32px 24px;
@@ -1328,8 +1295,7 @@ main > section + section {
 .detail__stage {
   position: sticky;
   top: 72px;
-  background: var(--face);
-  transition: background-color 0.5s var(--ease);
+  background: var(--field-1);
 }
 .detail__watch {
   height: min(78svh, 760px);
@@ -1347,7 +1313,7 @@ main > section + section {
   position: absolute;
   left: 20px;
   bottom: 16px;
-  color: var(--face-ink, #000);
+  color: var(--muted);
   font-family: var(--font-display);
   font-size: var(--step-small);
 }
@@ -1446,8 +1412,8 @@ main > section + section {
 }
 .swatch[aria-checked='true'] span {
   transform: scale(1.12);
-  outline: 3px solid #000;
-  outline-offset: -1px;
+  outline: 3px solid #fff;
+  outline-offset: 2px;
 }
 .detail__dials {
   display: flex;
@@ -1818,11 +1784,7 @@ main > section + section {
     width: 130%;
     margin-left: -15%;
   }
-  .footer__mark {
-    height: 22svh;
-    min-height: 140px;
-    flex-wrap: wrap;
-  }
+
   .footer__links {
     grid-template-columns: repeat(2, 1fr);
   }

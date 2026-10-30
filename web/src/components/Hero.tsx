@@ -92,7 +92,7 @@ export default function Hero() {
           <h1>{faces.length} watch faces for Wear OS</h1>
           <p>Digital, analog and hybrid dials by Active Design. Pick a face, try every colour, install from Google Play.</p>
         </div>
-        <BorderBeam size="md" colorVariant="forest" theme="dark" strength={0.9} className="hero__beam">
+        <BorderBeam size="md" colorVariant="colorful" theme="dark" strength={0.9} className="hero__beam">
           <a className="btn btn--accent" href="#catalogue">
             Browse the catalogue
           </a>

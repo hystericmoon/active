@@ -1,7 +1,7 @@
 import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { motion } from 'motion/react';
 import { Liquid } from 'liquid-gooey';
-import { asset, categoryLabel, faces, fieldFor, inkOn, TAG_LABEL, type Face } from '../data';
+import { asset, categoryLabel, faces, fieldFor, TAG_LABEL, type Face } from '../data';
 import { closeFace, faceHref } from '../router';
 import PlayButton from './PlayButton';
 import Loader from './Loader';
@@ -35,8 +35,6 @@ export default function Detail({ face }: { face: Face }) {
     return () => window.removeEventListener('keydown', onKey);
   }, []);
 
-  const colour = face.variants[v]?.color ?? '#fff';
-
   return (
     <motion.div
       className="detail"
@@ -48,7 +46,6 @@ export default function Detail({ face }: { face: Face }) {
       animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: 40 }}
       transition={{ duration: 0.4, ease: [0.2, 0.8, 0.2, 1] }}
-      style={{ ['--face' as string]: colour, ['--face-ink' as string]: inkOn(colour) }}
     >
       <div className="detail__bar">
         <button ref={closeRef} type="button" className="btn btn--ghost" onClick={closeFace}>

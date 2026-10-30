@@ -35,7 +35,8 @@ const CARDS = [
   },
 ];
 
-const COLOURS = ['var(--field-1)', 'var(--field-2)', 'var(--field-3)'];
+/** Cards step up in tone so each tab reads against the one behind it. */
+const COLOURS = ['#121212', '#181818', '#1e1e1e'];
 
 export default function Faq() {
   const [open, setOpen] = useState(0);
